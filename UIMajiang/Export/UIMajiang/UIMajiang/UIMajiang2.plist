@@ -4,94 +4,18 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>Girl_Win.png</key>
+			<key>Setting_InGame_Back.png</key>
 			<dict>
 				<key>width</key>
-				<integer>445</integer>
+				<integer>958</integer>
 				<key>height</key>
-				<integer>709</integer>
+				<integer>492</integer>
 				<key>originalWidth</key>
-				<integer>445</integer>
+				<integer>958</integer>
 				<key>originalHeight</key>
-				<integer>709</integer>
+				<integer>492</integer>
 				<key>x</key>
 				<integer>0</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>img_tuoguan.png</key>
-			<dict>
-				<key>width</key>
-				<integer>256</integer>
-				<key>height</key>
-				<integer>304</integer>
-				<key>originalWidth</key>
-				<integer>256</integer>
-				<key>originalHeight</key>
-				<integer>304</integer>
-				<key>x</key>
-				<integer>447</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>liang.jpg</key>
-			<dict>
-				<key>width</key>
-				<integer>300</integer>
-				<key>height</key>
-				<integer>300</integer>
-				<key>originalWidth</key>
-				<integer>300</integer>
-				<key>originalHeight</key>
-				<integer>300</integer>
-				<key>x</key>
-				<integer>705</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ming.jpg</key>
-			<dict>
-				<key>width</key>
-				<integer>300</integer>
-				<key>height</key>
-				<integer>300</integer>
-				<key>originalWidth</key>
-				<integer>300</integer>
-				<key>originalHeight</key>
-				<integer>300</integer>
-				<key>x</key>
-				<integer>1007</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>qiang.jpg</key>
-			<dict>
-				<key>width</key>
-				<integer>300</integer>
-				<key>height</key>
-				<integer>300</integer>
-				<key>originalWidth</key>
-				<integer>300</integer>
-				<key>originalHeight</key>
-				<integer>300</integer>
-				<key>x</key>
-				<integer>1309</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

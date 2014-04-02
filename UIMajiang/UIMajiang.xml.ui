@@ -18,7 +18,7 @@
     <string>UIMajiang3.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Fraction.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Player.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

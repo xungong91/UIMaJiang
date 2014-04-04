@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <filePath>C:\Users\31456_000\Desktop\UIMajiang\UIMajiang.xml.ui</filePath>
+  <filePath>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\UIMajiang.xml.ui</filePath>
   <Version>1.2.0.1</Version>
   <Name>UIMajiang</Name>
-  <ProjectDir>C:\Users\31456_000\Desktop\UIMajiang</ProjectDir>
+  <ProjectDir>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang</ProjectDir>
   <JsonFileName>UIMajiang.json</JsonFileName>
-  <Resources>C:\Users\31456_000\Desktop\UIMajiang\Resources</Resources>
-  <JsonFolder>C:\Users\31456_000\Desktop\UIMajiang\Json</JsonFolder>
+  <Resources>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Resources</Resources>
+  <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
     <string>UIMajiang_Player.json</string>
     <string>UIMajiang_Fraction.json</string>
@@ -15,10 +15,9 @@
     <string>UIMajiang0.plist</string>
     <string>UIMajiang1.plist</string>
     <string>UIMajiang2.plist</string>
-    <string>UIMajiang3.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Player.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Fraction.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

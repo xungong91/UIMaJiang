@@ -8,4 +8,8 @@
     <Project>UIMajiang_Fraction</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Login</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

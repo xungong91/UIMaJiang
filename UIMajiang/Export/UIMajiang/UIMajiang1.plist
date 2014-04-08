@@ -156,6 +156,44 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>TingTip_fanText.png</key>
+			<dict>
+				<key>width</key>
+				<integer>35</integer>
+				<key>height</key>
+				<integer>35</integer>
+				<key>originalWidth</key>
+				<integer>35</integer>
+				<key>originalHeight</key>
+				<integer>35</integer>
+				<key>x</key>
+				<integer>642</integer>
+				<key>y</key>
+				<integer>731</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>TingTip_zhangText.png</key>
+			<dict>
+				<key>width</key>
+				<integer>34</integer>
+				<key>height</key>
+				<integer>32</integer>
+				<key>originalWidth</key>
+				<integer>34</integer>
+				<key>originalHeight</key>
+				<integer>32</integer>
+				<key>x</key>
+				<integer>679</integer>
+				<key>y</key>
+				<integer>731</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>tray_guo.png</key>
 			<dict>
 				<key>width</key>
@@ -167,7 +205,7 @@
 				<key>originalHeight</key>
 				<integer>93</integer>
 				<key>x</key>
-				<integer>642</integer>
+				<integer>715</integer>
 				<key>y</key>
 				<integer>731</integer>
 				<key>offsetX</key>
@@ -186,7 +224,7 @@
 				<key>originalHeight</key>
 				<integer>132</integer>
 				<key>x</key>
-				<integer>743</integer>
+				<integer>816</integer>
 				<key>y</key>
 				<integer>731</integer>
 				<key>offsetX</key>
@@ -205,7 +243,7 @@
 				<key>originalHeight</key>
 				<integer>136</integer>
 				<key>x</key>
-				<integer>895</integer>
+				<integer>968</integer>
 				<key>y</key>
 				<integer>731</integer>
 				<key>offsetX</key>
@@ -224,7 +262,7 @@
 				<key>originalHeight</key>
 				<integer>138</integer>
 				<key>x</key>
-				<integer>1069</integer>
+				<integer>1142</integer>
 				<key>y</key>
 				<integer>731</integer>
 				<key>offsetX</key>
@@ -243,7 +281,26 @@
 				<key>originalHeight</key>
 				<integer>136</integer>
 				<key>x</key>
-				<integer>1233</integer>
+				<integer>1306</integer>
+				<key>y</key>
+				<integer>731</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>D:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
+			<dict>
+				<key>width</key>
+				<integer>103</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>103</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1464</integer>
 				<key>y</key>
 				<integer>731</integer>
 				<key>offsetX</key>

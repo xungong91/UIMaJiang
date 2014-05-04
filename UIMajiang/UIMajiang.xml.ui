@@ -8,17 +8,25 @@
   <Resources>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Resources</Resources>
   <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
-    <string>UIMajiang_Player.json</string>
     <string>UIMajiang_Fraction.json</string>
     <string>UIMajiang_Login.json</string>
+    <string>UIMajiang_Menu.json</string>
+    <string>UIMajiang_Player.json</string>
+    <string>UIMajiang_UserInfo.json</string>
+    <string>UIMajiang_Compartment.json</string>
+    <string>UIMajiang_Reg.json</string>
+    <string>UIMajiang_MessageBox.json</string>
+    <string>UIMajiang_Options.json</string>
   </JsonList>
   <imageFileList>
     <string>UIMajiang0.plist</string>
     <string>UIMajiang1.plist</string>
     <string>UIMajiang2.plist</string>
+    <string>UIMajiang3.plist</string>
+    <string>UIMajiang4.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Player.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Options.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

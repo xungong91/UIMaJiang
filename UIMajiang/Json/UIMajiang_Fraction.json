@@ -12,7 +12,9 @@
   "textures": [
     "UIMajiang0.plist",
     "UIMajiang1.plist",
-    "UIMajiang2.plist"
+    "UIMajiang2.plist",
+    "UIMajiang3.plist",
+    "UIMajiang4.plist"
   ],
   "version": "1.2.0.1",
   "widgetTree": {

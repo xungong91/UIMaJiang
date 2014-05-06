@@ -36,4 +36,8 @@
     <Project>UIMajiang_Options</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_SingCard</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

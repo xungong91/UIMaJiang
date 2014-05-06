@@ -17,6 +17,7 @@
     <string>UIMajiang_Reg.json</string>
     <string>UIMajiang_MessageBox.json</string>
     <string>UIMajiang_Options.json</string>
+    <string>UIMajiang_SingCard.json</string>
   </JsonList>
   <imageFileList>
     <string>UIMajiang0.plist</string>

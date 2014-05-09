@@ -365,6 +365,44 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/对1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>180</integer>
+				<key>height</key>
+				<integer>42</integer>
+				<key>originalWidth</key>
+				<integer>180</integer>
+				<key>originalHeight</key>
+				<integer>42</integer>
+				<key>x</key>
+				<integer>1052</integer>
+				<key>y</key>
+				<integer>858</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/托管2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>77</integer>
+				<key>height</key>
+				<integer>31</integer>
+				<key>originalWidth</key>
+				<integer>77</integer>
+				<key>originalHeight</key>
+				<integer>31</integer>
+				<key>x</key>
+				<integer>1234</integer>
+				<key>y</key>
+				<integer>858</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/托管3.png</key>
 			<dict>
 				<key>width</key>
@@ -376,7 +414,7 @@
 				<key>originalHeight</key>
 				<integer>31</integer>
 				<key>x</key>
-				<integer>1052</integer>
+				<integer>1313</integer>
 				<key>y</key>
 				<integer>858</integer>
 				<key>offsetX</key>
@@ -395,7 +433,26 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1131</integer>
+				<integer>1392</integer>
+				<key>y</key>
+				<integer>858</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/本1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>180</integer>
+				<key>height</key>
+				<integer>42</integer>
+				<key>originalWidth</key>
+				<integer>180</integer>
+				<key>originalHeight</key>
+				<integer>42</integer>
+				<key>x</key>
+				<integer>1574</integer>
 				<key>y</key>
 				<integer>858</integer>
 				<key>offsetX</key>
@@ -414,7 +471,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>1313</integer>
+				<integer>1756</integer>
 				<key>y</key>
 				<integer>858</integer>
 				<key>offsetX</key>
@@ -433,7 +490,7 @@
 				<key>originalHeight</key>
 				<integer>59</integer>
 				<key>x</key>
-				<integer>1362</integer>
+				<integer>1805</integer>
 				<key>y</key>
 				<integer>858</integer>
 				<key>offsetX</key>
@@ -452,7 +509,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>1463</integer>
+				<integer>1906</integer>
 				<key>y</key>
 				<integer>858</integer>
 				<key>offsetX</key>
@@ -471,7 +528,7 @@
 				<key>originalHeight</key>
 				<integer>150</integer>
 				<key>x</key>
-				<integer>1487</integer>
+				<integer>1930</integer>
 				<key>y</key>
 				<integer>858</integer>
 				<key>offsetX</key>
@@ -490,140 +547,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>1515</integer>
-				<key>y</key>
-				<integer>858</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/设置1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>77</integer>
-				<key>height</key>
-				<integer>31</integer>
-				<key>originalWidth</key>
-				<integer>77</integer>
-				<key>originalHeight</key>
-				<integer>31</integer>
-				<key>x</key>
-				<integer>1540</integer>
-				<key>y</key>
-				<integer>858</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/设置2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>77</integer>
-				<key>height</key>
-				<integer>31</integer>
-				<key>originalWidth</key>
-				<integer>77</integer>
-				<key>originalHeight</key>
-				<integer>31</integer>
-				<key>x</key>
-				<integer>1619</integer>
-				<key>y</key>
-				<integer>858</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/设置3.png</key>
-			<dict>
-				<key>width</key>
-				<integer>77</integer>
-				<key>height</key>
-				<integer>31</integer>
-				<key>originalWidth</key>
-				<integer>77</integer>
-				<key>originalHeight</key>
-				<integer>31</integer>
-				<key>x</key>
-				<integer>1698</integer>
-				<key>y</key>
-				<integer>858</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/赖.png</key>
-			<dict>
-				<key>width</key>
-				<integer>21</integer>
-				<key>height</key>
-				<integer>21</integer>
-				<key>originalWidth</key>
-				<integer>21</integer>
-				<key>originalHeight</key>
-				<integer>21</integer>
-				<key>x</key>
-				<integer>1777</integer>
-				<key>y</key>
-				<integer>858</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/还剩.png</key>
-			<dict>
-				<key>width</key>
-				<integer>63</integer>
-				<key>height</key>
-				<integer>71</integer>
-				<key>originalWidth</key>
-				<integer>63</integer>
-				<key>originalHeight</key>
-				<integer>71</integer>
-				<key>x</key>
-				<integer>1800</integer>
-				<key>y</key>
-				<integer>858</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/道具1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>77</integer>
-				<key>height</key>
-				<integer>31</integer>
-				<key>originalWidth</key>
-				<integer>77</integer>
-				<key>originalHeight</key>
-				<integer>31</integer>
-				<key>x</key>
-				<integer>1865</integer>
-				<key>y</key>
-				<integer>858</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/道具2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>77</integer>
-				<key>height</key>
-				<integer>31</integer>
-				<key>originalWidth</key>
-				<integer>77</integer>
-				<key>originalHeight</key>
-				<integer>31</integer>
-				<key>x</key>
-				<integer>1944</integer>
+				<integer>1958</integer>
 				<key>y</key>
 				<integer>858</integer>
 				<key>offsetX</key>

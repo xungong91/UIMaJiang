@@ -40,4 +40,20 @@
     <Project>UIMajiang_SingCard</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Chat</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Sociality</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_CreateCompartment</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_EnterCompartment</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

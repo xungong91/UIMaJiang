@@ -14,7 +14,8 @@
     "UIMajiang1.plist",
     "UIMajiang2.plist",
     "UIMajiang3.plist",
-    "UIMajiang4.plist"
+    "UIMajiang4.plist",
+    "UIMajiang5.plist"
   ],
   "version": "1.2.0.1",
   "widgetTree": {
@@ -28,9 +29,9 @@
         "options": {
           "__type": "ComGUIImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
           "classname": "ImageView",
-          "name": "ImageView_BG",
+          "name": "ImageView_bg",
           "ZOrder": 0,
-          "actiontag": 281,
+          "actiontag": 3208,
           "anchorPointX": 0,
           "anchorPointY": 0,
           "classType": null,
@@ -52,7 +53,7 @@
           "sizePercentX": 1,
           "sizePercentY": 1,
           "sizeType": 0,
-          "tag": 98,
+          "tag": 309,
           "touchAble": false,
           "useMergedTexture": true,
           "visible": true,
@@ -65,7 +66,7 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "roomselect_bg2.jpg",
+            "path": "playerInfo/bgPurple.jpg",
             "plistFile": null,
             "resourceType": 1
           },

@@ -8,16 +8,20 @@
   <Resources>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Resources</Resources>
   <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
+    <string>UIMajiang_Chat.json</string>
+    <string>UIMajiang_Compartment.json</string>
+    <string>UIMajiang_CreateCompartment.json</string>
+    <string>UIMajiang_EnterCompartment.json</string>
     <string>UIMajiang_Fraction.json</string>
     <string>UIMajiang_Login.json</string>
     <string>UIMajiang_Menu.json</string>
-    <string>UIMajiang_Player.json</string>
-    <string>UIMajiang_UserInfo.json</string>
-    <string>UIMajiang_Compartment.json</string>
-    <string>UIMajiang_Reg.json</string>
     <string>UIMajiang_MessageBox.json</string>
     <string>UIMajiang_Options.json</string>
+    <string>UIMajiang_Player.json</string>
+    <string>UIMajiang_Reg.json</string>
     <string>UIMajiang_SingCard.json</string>
+    <string>UIMajiang_Sociality.json</string>
+    <string>UIMajiang_UserInfo.json</string>
   </JsonList>
   <imageFileList>
     <string>UIMajiang0.plist</string>
@@ -25,9 +29,10 @@
     <string>UIMajiang2.plist</string>
     <string>UIMajiang3.plist</string>
     <string>UIMajiang4.plist</string>
+    <string>UIMajiang5.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_UserInfo.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_CreateCompartment.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

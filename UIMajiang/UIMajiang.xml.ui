@@ -32,7 +32,7 @@
     <string>UIMajiang5.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_CreateCompartment.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Options.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

@@ -783,6 +783,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/sociality_hentiao.png</key>
+			<dict>
+				<key>width</key>
+				<integer>690</integer>
+				<key>height</key>
+				<integer>2</integer>
+				<key>originalWidth</key>
+				<integer>690</integer>
+				<key>originalHeight</key>
+				<integer>2</integer>
+				<key>x</key>
+				<integer>452</integer>
+				<key>y</key>
+				<integer>1016</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/三角.png</key>
 			<dict>
 				<key>width</key>
@@ -794,7 +813,7 @@
 				<key>originalHeight</key>
 				<integer>4</integer>
 				<key>x</key>
-				<integer>452</integer>
+				<integer>1144</integer>
 				<key>y</key>
 				<integer>1016</integer>
 				<key>offsetX</key>

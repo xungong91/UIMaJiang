@@ -41,10 +41,6 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>UIMajiang_Chat</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
     <Project>UIMajiang_Sociality</Project>
     <GuidesList />
   </GuidesProject>
@@ -54,6 +50,14 @@
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_EnterCompartment</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Cortana</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_AddFriend</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>

@@ -3302,7 +3302,7 @@
           "tag": 309,
           "touchAble": false,
           "useMergedTexture": false,
-          "visible": false,
+          "visible": true,
           "width": 960,
           "x": 0,
           "y": 0,

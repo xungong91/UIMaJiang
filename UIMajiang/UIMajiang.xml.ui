@@ -34,7 +34,7 @@
     <string>UIMajiang6.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Compartment.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_SingCard.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

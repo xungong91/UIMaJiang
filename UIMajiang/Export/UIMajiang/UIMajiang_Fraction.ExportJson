@@ -16,7 +16,8 @@
     "UIMajiang3.plist",
     "UIMajiang4.plist",
     "UIMajiang5.plist",
-    "UIMajiang6.plist"
+    "UIMajiang6.plist",
+    "UIMajiang7.plist"
   ],
   "version": "1.2.0.1",
   "widgetTree": {
@@ -404,7 +405,7 @@
                   "colorR": 255,
                   "flipX": false,
                   "flipY": false,
-                  "height": 47,
+                  "height": 49,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -421,7 +422,7 @@
                   "touchAble": true,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 132,
+                  "width": 137,
                   "x": 300,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -430,28 +431,28 @@
                   "capInsetsY": 0,
                   "disabled": null,
                   "disabledData": {
-                    "path": "playerInfo/jiesuan_chongzhi3.png",
+                    "path": null,
                     "plistFile": null,
-                    "resourceType": 1
+                    "resourceType": 0
                   },
                   "fontName": "微软雅黑",
                   "fontSize": 30,
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "playerInfo/jiesuan_chongzhi2.png",
+                    "path": "playerInfo/jiesuan_exit1.png",
                     "plistFile": null,
                     "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
-                    "path": "playerInfo/jiesuan_chongzhi.png",
+                    "path": "playerInfo/jiesuan_exit2.png",
                     "plistFile": null,
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 47,
-                  "scale9Width": 132,
+                  "scale9Height": 49,
+                  "scale9Width": 137,
                   "text": "",
                   "textColorB": 255,
                   "textColorG": 255,
@@ -1108,7 +1109,7 @@
                       "colorR": 255,
                       "flipX": false,
                       "flipY": false,
-                      "height": 47,
+                      "height": 49,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -1125,7 +1126,7 @@
                       "touchAble": true,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 132,
+                      "width": 137,
                       "x": 335,
                       "y": 0,
                       "capInsetsHeight": 0,
@@ -1134,28 +1135,28 @@
                       "capInsetsY": 0,
                       "disabled": null,
                       "disabledData": {
-                        "path": "playerInfo/jiesuan_chongzhi3.png",
+                        "path": null,
                         "plistFile": null,
-                        "resourceType": 1
+                        "resourceType": 0
                       },
                       "fontName": "微软雅黑",
                       "fontSize": 30,
                       "fontType": 0,
                       "normal": null,
                       "normalData": {
-                        "path": "playerInfo/jiesuan_chongzhi2.png",
+                        "path": "playerInfo/jiesuan_exit1.png",
                         "plistFile": null,
                         "resourceType": 1
                       },
                       "pressed": null,
                       "pressedData": {
-                        "path": "playerInfo/jiesuan_chongzhi.png",
+                        "path": "playerInfo/jiesuan_exit2.png",
                         "plistFile": null,
                         "resourceType": 1
                       },
                       "scale9Enable": false,
-                      "scale9Height": 47,
-                      "scale9Width": 132,
+                      "scale9Height": 49,
+                      "scale9Width": 137,
                       "text": "",
                       "textColorB": 255,
                       "textColorG": 255,

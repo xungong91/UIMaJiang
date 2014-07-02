@@ -60,4 +60,8 @@
     <Project>UIMajiang_AddFriend</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_RoomEnded</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

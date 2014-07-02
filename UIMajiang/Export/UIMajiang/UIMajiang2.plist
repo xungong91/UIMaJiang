@@ -555,6 +555,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/add_friend_bg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>491</integer>
+				<key>height</key>
+				<integer>35</integer>
+				<key>originalWidth</key>
+				<integer>491</integer>
+				<key>originalHeight</key>
+				<integer>35</integer>
+				<key>x</key>
+				<integer>986</integer>
+				<key>y</key>
+				<integer>961</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/auto_cancel1.png</key>
 			<dict>
 				<key>width</key>
@@ -566,7 +585,7 @@
 				<key>originalHeight</key>
 				<integer>36</integer>
 				<key>x</key>
-				<integer>986</integer>
+				<integer>1479</integer>
 				<key>y</key>
 				<integer>961</integer>
 				<key>offsetX</key>
@@ -585,159 +604,7 @@
 				<key>originalHeight</key>
 				<integer>36</integer>
 				<key>x</key>
-				<integer>1053</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_chats1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>91</integer>
-				<key>height</key>
-				<integer>21</integer>
-				<key>originalWidth</key>
-				<integer>91</integer>
-				<key>originalHeight</key>
-				<integer>21</integer>
-				<key>x</key>
-				<integer>1120</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_chats2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>91</integer>
-				<key>height</key>
-				<integer>21</integer>
-				<key>originalWidth</key>
-				<integer>91</integer>
-				<key>originalHeight</key>
-				<integer>21</integer>
-				<key>x</key>
-				<integer>1213</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_chat_InputBg.png</key>
-			<dict>
-				<key>width</key>
-				<integer>26</integer>
-				<key>height</key>
-				<integer>38</integer>
-				<key>originalWidth</key>
-				<integer>26</integer>
-				<key>originalHeight</key>
-				<integer>38</integer>
-				<key>x</key>
-				<integer>1306</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_fuxuanBg.png</key>
-			<dict>
-				<key>width</key>
-				<integer>166</integer>
-				<key>height</key>
-				<integer>51</integer>
-				<key>originalWidth</key>
-				<integer>166</integer>
-				<key>originalHeight</key>
-				<integer>51</integer>
-				<key>x</key>
-				<integer>1334</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_fuxuanBg1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>170</integer>
-				<key>height</key>
-				<integer>53</integer>
-				<key>originalWidth</key>
-				<integer>170</integer>
-				<key>originalHeight</key>
-				<integer>53</integer>
-				<key>x</key>
-				<integer>1502</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_fuxuanBg2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>165</integer>
-				<key>height</key>
-				<integer>51</integer>
-				<key>originalWidth</key>
-				<integer>165</integer>
-				<key>originalHeight</key>
-				<integer>51</integer>
-				<key>x</key>
-				<integer>1674</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_haoyouList1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>91</integer>
-				<key>height</key>
-				<integer>21</integer>
-				<key>originalWidth</key>
-				<integer>91</integer>
-				<key>originalHeight</key>
-				<integer>21</integer>
-				<key>x</key>
-				<integer>1841</integer>
-				<key>y</key>
-				<integer>961</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_haoyouList2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>91</integer>
-				<key>height</key>
-				<integer>21</integer>
-				<key>originalWidth</key>
-				<integer>91</integer>
-				<key>originalHeight</key>
-				<integer>21</integer>
-				<key>x</key>
-				<integer>1934</integer>
+				<integer>1546</integer>
 				<key>y</key>
 				<integer>961</integer>
 				<key>offsetX</key>

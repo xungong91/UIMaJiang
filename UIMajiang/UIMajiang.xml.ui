@@ -8,7 +8,9 @@
   <Resources>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Resources</Resources>
   <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
+    <string>UIMajiang_AddFriend.json</string>
     <string>UIMajiang_Compartment.json</string>
+    <string>UIMajiang_Cortana.json</string>
     <string>UIMajiang_CreateCompartment.json</string>
     <string>UIMajiang_EnterCompartment.json</string>
     <string>UIMajiang_Fraction.json</string>
@@ -21,8 +23,7 @@
     <string>UIMajiang_SingCard.json</string>
     <string>UIMajiang_Sociality.json</string>
     <string>UIMajiang_UserInfo.json</string>
-    <string>UIMajiang_Cortana.json</string>
-    <string>UIMajiang_AddFriend.json</string>
+    <string>UIMajiang_RoomEnded.json</string>
   </JsonList>
   <imageFileList>
     <string>UIMajiang0.plist</string>
@@ -34,7 +35,7 @@
     <string>UIMajiang6.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_SingCard.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_UserInfo.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

@@ -64,4 +64,8 @@
     <Project>UIMajiang_RoomEnded</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Mall</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

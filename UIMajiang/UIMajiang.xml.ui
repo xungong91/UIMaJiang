@@ -15,15 +15,16 @@
     <string>UIMajiang_EnterCompartment.json</string>
     <string>UIMajiang_Fraction.json</string>
     <string>UIMajiang_Login.json</string>
+    <string>UIMajiang_Mall.json</string>
     <string>UIMajiang_Menu.json</string>
     <string>UIMajiang_MessageBox.json</string>
     <string>UIMajiang_Options.json</string>
     <string>UIMajiang_Player.json</string>
     <string>UIMajiang_Reg.json</string>
+    <string>UIMajiang_RoomEnded.json</string>
     <string>UIMajiang_SingCard.json</string>
     <string>UIMajiang_Sociality.json</string>
     <string>UIMajiang_UserInfo.json</string>
-    <string>UIMajiang_RoomEnded.json</string>
   </JsonList>
   <imageFileList>
     <string>UIMajiang0.plist</string>
@@ -33,9 +34,12 @@
     <string>UIMajiang4.plist</string>
     <string>UIMajiang5.plist</string>
     <string>UIMajiang6.plist</string>
+    <string>UIMajiang7.plist</string>
+    <string>UIMajiang8.plist</string>
+    <string>UIMajiang9.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_UserInfo.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_EnterCompartment.json</CurrentUIJson>
   <CanvasSize>
     <Width>960</Width>
     <Height>640</Height>

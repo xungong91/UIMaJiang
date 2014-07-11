@@ -16,7 +16,10 @@
     "UIMajiang3.plist",
     "UIMajiang4.plist",
     "UIMajiang5.plist",
-    "UIMajiang6.plist"
+    "UIMajiang6.plist",
+    "UIMajiang7.plist",
+    "UIMajiang8.plist",
+    "UIMajiang9.plist"
   ],
   "version": "1.2.0.1",
   "widgetTree": {
@@ -821,7 +824,7 @@
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": 0.530208349,
-              "positionPercentY": 0.0234375,
+              "positionPercentY": 0.2109375,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -835,7 +838,7 @@
               "visible": true,
               "width": 260,
               "x": 509,
-              "y": 15,
+              "y": 135,
               "capInsetsHeight": 0,
               "capInsetsWidth": 0,
               "capInsetsX": 0,
@@ -2632,7 +2635,7 @@
                   "colorR": 255,
                   "flipX": false,
                   "flipY": false,
-                  "height": 171,
+                  "height": 150,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2663,7 +2666,7 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 171,
+                  "scale9Height": 150,
                   "scale9Width": 26
                 }
               }
@@ -2739,7 +2742,7 @@
                   "colorR": 255,
                   "flipX": false,
                   "flipY": false,
-                  "height": 26,
+                  "height": 25,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2756,7 +2759,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 166,
+                  "width": 151,
                   "x": 0,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -2770,8 +2773,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 26,
-                  "scale9Width": 166
+                  "scale9Height": 25,
+                  "scale9Width": 151
                 }
               }
             ],
@@ -2846,7 +2849,7 @@
                   "colorR": 255,
                   "flipX": false,
                   "flipY": false,
-                  "height": 171,
+                  "height": 150,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2877,7 +2880,7 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 171,
+                  "scale9Height": 150,
                   "scale9Width": 26
                 }
               }
@@ -2953,7 +2956,7 @@
                   "colorR": 255,
                   "flipX": false,
                   "flipY": false,
-                  "height": 26,
+                  "height": 25,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2970,7 +2973,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 166,
+                  "width": 151,
                   "x": 0,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -2984,8 +2987,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 26,
-                  "scale9Width": 166
+                  "scale9Height": 25,
+                  "scale9Width": 151
                 }
               }
             ],
@@ -3008,7 +3011,7 @@
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": 0.530208349,
-              "positionPercentY": 0.0234375,
+              "positionPercentY": 0.2109375,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -3022,7 +3025,7 @@
               "visible": true,
               "width": 260,
               "x": 509,
-              "y": 15,
+              "y": 135,
               "capInsetsHeight": 0,
               "capInsetsWidth": 0,
               "capInsetsX": 0,

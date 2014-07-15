@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <filePath>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\UIMajiang.xml.ui</filePath>
-  <Version>1.2.0.1</Version>
-  <Name>UIMajiang</Name>
   <ProjectDir>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang</ProjectDir>
-  <JsonFileName>UIMajiang.json</JsonFileName>
+  <Version>1.3.0.1</Version>
   <Resources>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Resources</Resources>
+  <Name>UIMajiang</Name>
+  <JsonFileName>UIMajiang.json</JsonFileName>
   <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
     <string>UIMajiang_AddFriend.json</string>
@@ -26,6 +25,13 @@
     <string>UIMajiang_Sociality.json</string>
     <string>UIMajiang_UserInfo.json</string>
   </JsonList>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+  <filePath>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\UIMajiang.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
   <imageFileList>
     <string>UIMajiang0.plist</string>
     <string>UIMajiang1.plist</string>
@@ -40,8 +46,4 @@
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
   <CurrentUIJson>UIMajiang_EnterCompartment.json</CurrentUIJson>
-  <CanvasSize>
-    <Width>960</Width>
-    <Height>640</Height>
-  </CanvasSize>
 </UIProject>

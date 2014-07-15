@@ -403,7 +403,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>D:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png</key>
+			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png</key>
 			<dict>
 				<key>width</key>
 				<integer>80</integer>
@@ -422,7 +422,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>D:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
+			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
 			<dict>
 				<key>width</key>
 				<integer>103</integer>

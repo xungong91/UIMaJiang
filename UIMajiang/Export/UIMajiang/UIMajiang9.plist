@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>userInfo/menu_gril.png</key>
+			<key>userInfo/info_shimingBg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>462</integer>
+				<integer>627</integer>
 				<key>height</key>
-				<integer>502</integer>
+				<integer>432</integer>
 				<key>originalWidth</key>
-				<integer>462</integer>
+				<integer>627</integer>
 				<key>originalHeight</key>
-				<integer>502</integer>
+				<integer>432</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,18 +23,18 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>userInfo/menu_huodong.png</key>
+			<key>userInfo/login_bg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>176</integer>
+				<integer>960</integer>
 				<key>height</key>
-				<integer>418</integer>
+				<integer>640</integer>
 				<key>originalWidth</key>
-				<integer>176</integer>
+				<integer>960</integer>
 				<key>originalHeight</key>
-				<integer>418</integer>
+				<integer>640</integer>
 				<key>x</key>
-				<integer>464</integer>
+				<integer>629</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

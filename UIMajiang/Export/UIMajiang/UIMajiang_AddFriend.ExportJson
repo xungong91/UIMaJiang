@@ -19,7 +19,8 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist"
+    "UIMajiang9.plist",
+    "UIMajiang10.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -132,7 +133,7 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.193482682,
+              "sizePercentX": 0.325865567,
               "sizePercentY": 0.7714286,
               "sizeType": 0,
               "tag": 518,

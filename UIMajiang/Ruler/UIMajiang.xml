@@ -68,4 +68,12 @@
     <Project>UIMajiang_Mall</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_InfoEdit</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_MallBox</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

@@ -76,4 +76,8 @@
     <Project>UIMajiang_MallBox</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_InfoEditItem</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

@@ -783,25 +783,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/jiesuan_jixu_num.png</key>
-			<dict>
-				<key>width</key>
-				<integer>252</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>252</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>1618</integer>
-				<key>y</key>
-				<integer>998</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>playerInfo/jinbi.png</key>
 			<dict>
 				<key>width</key>
@@ -813,7 +794,7 @@
 				<key>originalHeight</key>
 				<integer>11</integer>
 				<key>x</key>
-				<integer>1872</integer>
+				<integer>1618</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>

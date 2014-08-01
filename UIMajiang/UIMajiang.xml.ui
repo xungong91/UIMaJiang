@@ -27,6 +27,7 @@
     <string>UIMajiang_SingCard.json</string>
     <string>UIMajiang_Sociality.json</string>
     <string>UIMajiang_UserInfo.json</string>
+    <string>UIMajiang_test.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -49,5 +50,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_SingCard.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Reg.json</CurrentUIJson>
 </UIProject>

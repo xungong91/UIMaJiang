@@ -80,4 +80,8 @@
     <Project>UIMajiang_InfoEditItem</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_test</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

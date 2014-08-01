@@ -631,16 +631,16 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/fanshu.png</key>
+			<key>playerInfo/fanshu1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>110</integer>
+				<integer>90</integer>
 				<key>height</key>
-				<integer>17</integer>
+				<integer>11</integer>
 				<key>originalWidth</key>
-				<integer>110</integer>
+				<integer>90</integer>
 				<key>originalHeight</key>
-				<integer>17</integer>
+				<integer>11</integer>
 				<key>x</key>
 				<integer>656</integer>
 				<key>y</key>
@@ -650,26 +650,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/fanshu1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>110</integer>
-				<key>height</key>
-				<integer>17</integer>
-				<key>originalWidth</key>
-				<integer>110</integer>
-				<key>originalHeight</key>
-				<integer>17</integer>
-				<key>x</key>
-				<integer>768</integer>
-				<key>y</key>
-				<integer>998</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/fanshuBg.jpg</key>
+			<key>playerInfo/fanshuBg.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1</integer>
@@ -680,7 +661,7 @@
 				<key>originalHeight</key>
 				<integer>1</integer>
 				<key>x</key>
-				<integer>880</integer>
+				<integer>748</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -699,7 +680,7 @@
 				<key>originalHeight</key>
 				<integer>23</integer>
 				<key>x</key>
-				<integer>883</integer>
+				<integer>751</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -718,7 +699,7 @@
 				<key>originalHeight</key>
 				<integer>23</integer>
 				<key>x</key>
-				<integer>910</integer>
+				<integer>778</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -737,7 +718,7 @@
 				<key>originalHeight</key>
 				<integer>3</integer>
 				<key>x</key>
-				<integer>937</integer>
+				<integer>805</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -756,7 +737,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>1386</integer>
+				<integer>1254</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -775,7 +756,7 @@
 				<key>originalHeight</key>
 				<integer>20</integer>
 				<key>x</key>
-				<integer>1597</integer>
+				<integer>1465</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -783,18 +764,18 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/jinbi.png</key>
+			<key>playerInfo/jiesuan_jixu_num.png</key>
 			<dict>
 				<key>width</key>
-				<integer>96</integer>
+				<integer>252</integer>
 				<key>height</key>
-				<integer>11</integer>
+				<integer>24</integer>
 				<key>originalWidth</key>
-				<integer>96</integer>
+				<integer>252</integer>
 				<key>originalHeight</key>
-				<integer>11</integer>
+				<integer>24</integer>
 				<key>x</key>
-				<integer>1618</integer>
+				<integer>1486</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>

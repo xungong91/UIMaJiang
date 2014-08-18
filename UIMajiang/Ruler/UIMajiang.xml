@@ -78,7 +78,12 @@
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_InfoEditItem</Project>
-    <GuidesList />
+    <GuidesList>
+      <GuidesInfo>
+        <GuidesName>HThumb</GuidesName>
+        <GuidesPosition>-236.70005086263018</GuidesPosition>
+      </GuidesInfo>
+    </GuidesList>
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_test</Project>

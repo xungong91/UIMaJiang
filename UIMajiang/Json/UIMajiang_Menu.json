@@ -18,7 +18,8 @@
     "UIMajiang5.plist",
     "UIMajiang6.plist",
     "UIMajiang7.plist",
-    "UIMajiang8.plist"
+    "UIMajiang8.plist",
+    "UIMajiang9.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -1195,7 +1196,7 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "userInfo/head_boy1.png",
+                        "path": "head/head_0_0.png",
                         "plistFile": "",
                         "resourceType": 0
                       },
@@ -1966,7 +1967,7 @@
                   "layoutParameter": null,
                   "opacity": 255,
                   "positionPercentX": 0.3448276,
-                  "positionPercentY": 0.15384616,
+                  "positionPercentY": 0.32967034,
                   "positionType": 0,
                   "rotation": 0,
                   "scaleX": 1,
@@ -1980,7 +1981,7 @@
                   "visible": false,
                   "width": 18,
                   "x": 30,
-                  "y": 14,
+                  "y": 30,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
                   "capInsetsX": 0,
@@ -2094,7 +2095,7 @@
                   "layoutParameter": null,
                   "opacity": 255,
                   "positionPercentX": 0.386666656,
-                  "positionPercentY": 0.147368416,
+                  "positionPercentY": 0.315789461,
                   "positionType": 0,
                   "rotation": 0,
                   "scaleX": 1,
@@ -2108,7 +2109,7 @@
                   "visible": false,
                   "width": 18,
                   "x": 29,
-                  "y": 14,
+                  "y": 30,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
                   "capInsetsX": 0,

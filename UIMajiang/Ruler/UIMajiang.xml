@@ -78,15 +78,18 @@
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_InfoEditItem</Project>
-    <GuidesList>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>-236.70005086263018</GuidesPosition>
-      </GuidesInfo>
-    </GuidesList>
+    <GuidesList />
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_test</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_BreakReconnection</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Musume</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>

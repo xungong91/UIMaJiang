@@ -64,7 +64,7 @@
               "sizeType": 0,
               "tag": 21,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 80,
               "x": 75,
@@ -75,9 +75,9 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
+                "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                 "plistFile": "",
-                "resourceType": 2
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 80,
@@ -234,7 +234,7 @@
           "sizeType": 0,
           "tag": 20,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 148,
           "x": 78,
@@ -247,7 +247,7 @@
           "fileNameData": {
             "path": "playerInfo/benjulaizi.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 98,
@@ -305,7 +305,7 @@
           "sizeType": 0,
           "tag": 3089,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 53,
           "x": 48,
@@ -327,13 +327,13 @@
           "normalData": {
             "path": "playerInfo/game_exit1.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "pressed": null,
           "pressedData": {
             "path": "playerInfo/game_exit2.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 59,
@@ -386,7 +386,7 @@
                   "sizeType": 0,
                   "tag": 255,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 48,
                   "x": 59,
@@ -501,7 +501,7 @@
               "sizeType": 0,
               "tag": 252,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 480,
@@ -514,7 +514,7 @@
               "fileNameData": {
                 "path": "playerInfo/playerBg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -559,7 +559,7 @@
                   "sizeType": 0,
                   "tag": 255,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 48,
                   "x": -60,
@@ -674,7 +674,7 @@
               "sizeType": 0,
               "tag": 252,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 119,
@@ -687,7 +687,7 @@
               "fileNameData": {
                 "path": "playerInfo/playerBg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -732,7 +732,7 @@
                   "sizeType": 0,
                   "tag": 255,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 48,
                   "x": 57,
@@ -847,7 +847,7 @@
               "sizeType": 0,
               "tag": 252,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 939,
@@ -860,7 +860,7 @@
               "fileNameData": {
                 "path": "playerInfo/playerBg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -905,7 +905,7 @@
                   "sizeType": 0,
                   "tag": 255,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 48,
                   "x": -60,
@@ -1020,7 +1020,7 @@
               "sizeType": 0,
               "tag": 252,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 480,
@@ -1033,7 +1033,7 @@
               "fileNameData": {
                 "path": "playerInfo/playerBg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -1088,7 +1088,7 @@
           "sizeType": 0,
           "tag": 59,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -1160,7 +1160,7 @@
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 26,
                   "x": 0,
@@ -1173,7 +1173,7 @@
                   "fileNameData": {
                     "path": "playerInfo/wait_ver.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 150,
@@ -1228,7 +1228,7 @@
               "sizeType": 0,
               "tag": 568,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 119,
@@ -1241,7 +1241,7 @@
               "fileNameData": {
                 "path": "playerInfo/wait_Bg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -1286,7 +1286,7 @@
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 151,
                   "x": 0,
@@ -1299,7 +1299,7 @@
                   "fileNameData": {
                     "path": "playerInfo/wait_hor.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 25,
@@ -1354,7 +1354,7 @@
               "sizeType": 0,
               "tag": 568,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 130,
@@ -1367,7 +1367,7 @@
               "fileNameData": {
                 "path": "playerInfo/wait_Bg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -1412,7 +1412,7 @@
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 26,
                   "x": 0,
@@ -1425,7 +1425,7 @@
                   "fileNameData": {
                     "path": "playerInfo/wait_ver.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 150,
@@ -1480,7 +1480,7 @@
               "sizeType": 0,
               "tag": 568,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 841,
@@ -1493,7 +1493,7 @@
               "fileNameData": {
                 "path": "playerInfo/wait_Bg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -1538,7 +1538,7 @@
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 151,
                   "x": 0,
@@ -1551,7 +1551,7 @@
                   "fileNameData": {
                     "path": "playerInfo/wait_hor.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 25,
@@ -1606,7 +1606,7 @@
               "sizeType": 0,
               "tag": 568,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 260,
               "x": 480,
@@ -1619,7 +1619,7 @@
               "fileNameData": {
                 "path": "playerInfo/wait_Bg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 30,
@@ -1674,7 +1674,7 @@
           "sizeType": 0,
           "tag": 570,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -1750,7 +1750,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 33,
                       "x": -70,
@@ -1763,7 +1763,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huijing.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -1804,7 +1804,7 @@
                       "sizeType": 0,
                       "tag": 41,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 23,
                       "x": 110,
@@ -1817,7 +1817,7 @@
                       "fileNameData": {
                         "path": "playerInfo/色子.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 22,
@@ -1858,7 +1858,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 33,
                       "x": -27,
@@ -1871,7 +1871,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huigou.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -1963,7 +1963,7 @@
                       "sizeType": 0,
                       "tag": 175,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 44,
                       "x": 20,
@@ -1976,7 +1976,7 @@
                       "fileNameData": {
                         "path": "playerInfo/对家.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 20,
@@ -2017,7 +2017,7 @@
                       "sizeType": 0,
                       "tag": 176,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 20,
                       "x": 74,
@@ -2030,7 +2030,7 @@
                       "fileNameData": {
                         "path": "playerInfo/番.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 19,
@@ -2068,7 +2068,7 @@
                   "sizeType": 0,
                   "tag": 39,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 180,
                   "x": 724,
@@ -2081,7 +2081,7 @@
                   "fileNameData": {
                     "path": "playerInfo/底板.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 29,
@@ -2126,7 +2126,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 33,
                       "x": 69,
@@ -2139,7 +2139,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huijing.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -2180,7 +2180,7 @@
                       "sizeType": 0,
                       "tag": 41,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 23,
                       "x": -111,
@@ -2193,7 +2193,7 @@
                       "fileNameData": {
                         "path": "playerInfo/色子.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 22,
@@ -2234,7 +2234,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 33,
                       "x": 27,
@@ -2247,7 +2247,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huigou.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -2339,7 +2339,7 @@
                       "sizeType": 0,
                       "tag": 175,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 43,
                       "x": -67,
@@ -2352,7 +2352,7 @@
                       "fileNameData": {
                         "path": "playerInfo/上家.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 20,
@@ -2393,7 +2393,7 @@
                       "sizeType": 0,
                       "tag": 176,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 20,
                       "x": -9,
@@ -2406,7 +2406,7 @@
                       "fileNameData": {
                         "path": "playerInfo/番.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 19,
@@ -2444,7 +2444,7 @@
                   "sizeType": 0,
                   "tag": 39,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 180,
                   "x": 295,
@@ -2457,7 +2457,7 @@
                   "fileNameData": {
                     "path": "playerInfo/底板.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 29,
@@ -2502,7 +2502,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 33,
                       "x": -70,
@@ -2515,7 +2515,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huijing.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -2556,7 +2556,7 @@
                       "sizeType": 0,
                       "tag": 41,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 23,
                       "x": 110,
@@ -2569,7 +2569,7 @@
                       "fileNameData": {
                         "path": "playerInfo/色子.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 22,
@@ -2610,7 +2610,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 33,
                       "x": -27,
@@ -2623,7 +2623,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huigou.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -2715,7 +2715,7 @@
                       "sizeType": 0,
                       "tag": 175,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 43,
                       "x": 16,
@@ -2728,7 +2728,7 @@
                       "fileNameData": {
                         "path": "playerInfo/下家.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 20,
@@ -2769,7 +2769,7 @@
                       "sizeType": 0,
                       "tag": 176,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 20,
                       "x": 75,
@@ -2782,7 +2782,7 @@
                       "fileNameData": {
                         "path": "playerInfo/番.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 19,
@@ -2820,7 +2820,7 @@
                   "sizeType": 0,
                   "tag": 39,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 180,
                   "x": 724,
@@ -2833,7 +2833,7 @@
                   "fileNameData": {
                     "path": "playerInfo/底板.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 29,
@@ -2878,7 +2878,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 33,
                       "x": 70,
@@ -2891,7 +2891,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huijing.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -2932,7 +2932,7 @@
                       "sizeType": 0,
                       "tag": 41,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": false,
                       "width": 23,
                       "x": -111,
@@ -2945,7 +2945,7 @@
                       "fileNameData": {
                         "path": "playerInfo/色子.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 22,
@@ -2986,7 +2986,7 @@
                       "sizeType": 0,
                       "tag": 42,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 33,
                       "x": 27,
@@ -2999,7 +2999,7 @@
                       "fileNameData": {
                         "path": "playerInfo/huigou.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 33,
@@ -3091,7 +3091,7 @@
                       "sizeType": 0,
                       "tag": 175,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 43,
                       "x": -67,
@@ -3104,7 +3104,7 @@
                       "fileNameData": {
                         "path": "playerInfo/本家.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 20,
@@ -3145,7 +3145,7 @@
                       "sizeType": 0,
                       "tag": 176,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 20,
                       "x": -9,
@@ -3158,7 +3158,7 @@
                       "fileNameData": {
                         "path": "playerInfo/番.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 19,
@@ -3196,7 +3196,7 @@
                   "sizeType": 0,
                   "tag": 39,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 180,
                   "x": 295,
@@ -3209,7 +3209,7 @@
                   "fileNameData": {
                     "path": "playerInfo/底板.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 29,
@@ -3247,7 +3247,7 @@
               "sizeType": 0,
               "tag": 38,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 960,
               "x": -479,
@@ -3325,7 +3325,7 @@
           "sizeType": 0,
           "tag": 5338,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 1,
           "x": 479,
@@ -3386,7 +3386,7 @@
       "sizeType": 0,
       "tag": 1,
       "touchAble": false,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

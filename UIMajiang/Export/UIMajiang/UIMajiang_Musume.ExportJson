@@ -68,7 +68,7 @@
                   "sizeType": 0,
                   "tag": 11489,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 103,
                   "x": 0,
@@ -88,9 +88,9 @@
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/button.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png",
                     "plistFile": "",
-                    "resourceType": 2
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
@@ -141,7 +141,7 @@
                   "sizeType": 0,
                   "tag": 11491,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 120,
                   "x": -1,
@@ -190,7 +190,7 @@
               "sizeType": 0,
               "tag": 11496,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 1,
               "x": 480,
@@ -254,7 +254,7 @@
               "sizeType": 0,
               "tag": 11498,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 93,
               "x": 456,
@@ -267,7 +267,7 @@
               "fileNameData": {
                 "path": "museme/museme_arrow.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 119,
@@ -312,7 +312,7 @@
                   "sizeType": 0,
                   "tag": 11493,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 336,
                   "x": -280,
@@ -325,7 +325,7 @@
                   "fileNameData": {
                     "path": "museme/museme_gril.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 527,
@@ -366,7 +366,7 @@
                   "sizeType": 0,
                   "tag": 11495,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 350,
                   "x": 0,
@@ -416,7 +416,7 @@
                   "sizeType": 0,
                   "tag": 11497,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 103,
                   "x": 0,
@@ -436,9 +436,9 @@
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/button.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png",
                     "plistFile": "",
-                    "resourceType": 2
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
@@ -486,7 +486,7 @@
               "sizeType": 0,
               "tag": 11492,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 492,
               "x": 576,
@@ -499,7 +499,7 @@
               "fileNameData": {
                 "path": "museme/museme_bg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 146,
@@ -554,7 +554,7 @@
           "sizeType": 0,
           "tag": 11487,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 1,
           "x": 0,
@@ -615,7 +615,7 @@
       "sizeType": 0,
       "tag": 11481,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

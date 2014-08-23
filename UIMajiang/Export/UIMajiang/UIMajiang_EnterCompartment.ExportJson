@@ -68,7 +68,7 @@
                   "sizeType": 0,
                   "tag": 642,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 447,
                   "x": 142,
@@ -81,7 +81,7 @@
                   "fileNameData": {
                     "path": "playerInfo/friend_hengtiao.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 3,
@@ -130,7 +130,7 @@
                           "sizeType": 0,
                           "tag": 643,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 220,
                           "x": 10,
@@ -180,7 +180,7 @@
                           "sizeType": 0,
                           "tag": 646,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 85,
                           "x": 380,
@@ -202,7 +202,7 @@
                           "normalData": {
                             "path": "roomEnded/room_clickEnter1.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "pressed": null,
                           "pressedData": {
@@ -253,7 +253,7 @@
                           "sizeType": 0,
                           "tag": 644,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 95,
                           "x": 10,
@@ -317,7 +317,7 @@
                       "sizeType": 0,
                       "tag": 642,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 450,
                       "x": 0,
@@ -378,7 +378,7 @@
                   "sizeType": 0,
                   "tag": 643,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 450,
                   "x": -330,
@@ -443,7 +443,7 @@
               "sizeType": 1,
               "tag": 641,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 960,
               "x": 0,
@@ -456,7 +456,7 @@
               "fileNameData": {
                 "path": "roomEnded/room_bg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 350,
@@ -497,7 +497,7 @@
               "sizeType": 0,
               "tag": 364,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 155,
               "x": 248,
@@ -519,13 +519,13 @@
               "normalData": {
                 "path": "roomEnded/room_create1.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "pressed": null,
               "pressedData": {
                 "path": "roomEnded/room_create2.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 154,
@@ -570,7 +570,7 @@
               "sizeType": 0,
               "tag": 660,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 150,
               "x": -96,
@@ -634,7 +634,7 @@
           "sizeType": 0,
           "tag": 5361,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 1,
           "x": 479,
@@ -695,7 +695,7 @@
       "sizeType": 0,
       "tag": 373,
       "touchAble": false,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

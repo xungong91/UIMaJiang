@@ -77,7 +77,7 @@
           "sizeType": 1,
           "tag": 6040,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 480,
@@ -90,7 +90,7 @@
           "fileNameData": {
             "path": "menu_bg.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 640,
@@ -135,7 +135,7 @@
               "sizeType": 0,
               "tag": 636,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 68,
               "x": 190,
@@ -148,7 +148,7 @@
               "fileNameData": {
                 "path": "roomEnded/room_nickName.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 33,
@@ -189,7 +189,7 @@
               "sizeType": 0,
               "tag": 637,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 68,
               "x": 478,
@@ -202,7 +202,7 @@
               "fileNameData": {
                 "path": "roomEnded/room_winning.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 33,
@@ -243,7 +243,7 @@
               "sizeType": 0,
               "tag": 638,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 68,
               "x": 774,
@@ -256,7 +256,7 @@
               "fileNameData": {
                 "path": "roomEnded/room_gold.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 33,
@@ -297,7 +297,7 @@
               "sizeType": 0,
               "tag": 598,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 249,
               "x": 482,
@@ -319,13 +319,13 @@
               "normalData": {
                 "path": "roomEnded/room_comeBack1.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "pressed": null,
               "pressedData": {
                 "path": "roomEnded/room_comeBack2.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 67,
@@ -378,7 +378,7 @@
                       "sizeType": 0,
                       "tag": 641,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 27,
                       "x": 750,
@@ -391,7 +391,7 @@
                       "fileNameData": {
                         "path": "roomEnded/room_goldImage.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 28,
@@ -534,7 +534,7 @@
                       "sizeType": 0,
                       "tag": 594,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 60,
                       "x": 100,
@@ -598,7 +598,7 @@
                   "sizeType": 0,
                   "tag": 591,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 800,
                   "x": 0,
@@ -608,7 +608,7 @@
                   "backGroundImageData": {
                     "path": "roomEnded/room_itemBg.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "backGroundScale9Enable": false,
                   "bgColorB": 255,
@@ -663,7 +663,7 @@
               "sizeType": 0,
               "tag": 585,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 800,
               "x": 85,
@@ -745,7 +745,7 @@
           "sizeType": 0,
           "tag": 512,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -806,7 +806,7 @@
       "sizeType": 0,
       "tag": 584,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

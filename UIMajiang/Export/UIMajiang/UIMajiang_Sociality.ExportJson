@@ -77,7 +77,7 @@
           "sizeType": 1,
           "tag": 309,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -90,7 +90,7 @@
           "fileNameData": {
             "path": "menu_bg.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 640,
@@ -148,7 +148,7 @@
           "sizeType": 0,
           "tag": 96,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 65,
           "x": 52,
@@ -170,13 +170,13 @@
           "normalData": {
             "path": "playerInfo/Return1.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "pressed": null,
           "pressedData": {
             "path": "playerInfo/Return2.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 65,
@@ -229,7 +229,7 @@
                   "sizeType": 0,
                   "tag": 325,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 91,
                   "x": 0,
@@ -251,7 +251,7 @@
                   "normalData": {
                     "path": "playerInfo/sociality_friendList1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
@@ -299,7 +299,7 @@
               "sizeType": 0,
               "tag": 322,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 170,
               "x": 201,
@@ -312,7 +312,7 @@
               "fileNameData": {
                 "path": "playerInfo/baofang_fuxuanBg1.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 53,
@@ -357,7 +357,7 @@
                   "sizeType": 0,
                   "tag": 325,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 91,
                   "x": 0,
@@ -379,7 +379,7 @@
                   "normalData": {
                     "path": "playerInfo/sociality_income2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
@@ -427,7 +427,7 @@
               "sizeType": 0,
               "tag": 322,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 165,
               "x": 350,
@@ -440,7 +440,7 @@
               "fileNameData": {
                 "path": "playerInfo/baofang_fuxuanBg2.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 51,
@@ -485,7 +485,7 @@
                   "sizeType": 0,
                   "tag": 325,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 68,
                   "x": 0,
@@ -507,7 +507,7 @@
                   "normalData": {
                     "path": "playerInfo/sociality_totalTop2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
@@ -555,7 +555,7 @@
               "sizeType": 0,
               "tag": 322,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 165,
               "x": 501,
@@ -568,7 +568,7 @@
               "fileNameData": {
                 "path": "playerInfo/baofang_fuxuanBg2.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 51,
@@ -613,7 +613,7 @@
                   "sizeType": 0,
                   "tag": 325,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 68,
                   "x": 0,
@@ -635,7 +635,7 @@
                   "normalData": {
                     "path": "playerInfo/sociality_weekTop2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
@@ -683,7 +683,7 @@
               "sizeType": 0,
               "tag": 322,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 165,
               "x": 651,
@@ -696,7 +696,7 @@
               "fileNameData": {
                 "path": "playerInfo/baofang_fuxuanBg2.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 51,
@@ -749,7 +749,7 @@
                           "sizeType": 0,
                           "tag": 444,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 75,
                           "x": 79,
@@ -799,7 +799,7 @@
                           "sizeType": 0,
                           "tag": 444,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 100,
                           "x": 251,
@@ -849,7 +849,7 @@
                           "sizeType": 0,
                           "tag": 444,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 52,
                           "x": 375,
@@ -899,7 +899,7 @@
                           "sizeType": 0,
                           "tag": 447,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 80,
                           "x": 500,
@@ -921,13 +921,13 @@
                           "normalData": {
                             "path": "playerInfo/sociality_yao1.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "pressed": null,
                           "pressedData": {
                             "path": "playerInfo/sociality_yao2.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "scale9Enable": false,
                           "scale9Height": 44,
@@ -972,7 +972,7 @@
                           "sizeType": 0,
                           "tag": 448,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 80,
                           "x": 620,
@@ -994,13 +994,13 @@
                           "normalData": {
                             "path": "playerInfo/sociality_song1.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "pressed": null,
                           "pressedData": {
                             "path": "playerInfo/sociality_song2.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "scale9Enable": false,
                           "scale9Height": 44,
@@ -1045,7 +1045,7 @@
                           "sizeType": 0,
                           "tag": 522,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 690,
                           "x": 350,
@@ -1058,7 +1058,7 @@
                           "fileNameData": {
                             "path": "playerInfo/sociality_hentiao.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "scale9Enable": false,
                           "scale9Height": 2,
@@ -1113,7 +1113,7 @@
                       "sizeType": 0,
                       "tag": 443,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 700,
                       "x": 0,
@@ -1174,7 +1174,7 @@
                   "sizeType": 0,
                   "tag": 445,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 700,
                   "x": 31,
@@ -1242,7 +1242,7 @@
                   "sizeType": 0,
                   "tag": 446,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 225,
                   "x": 616,
@@ -1292,7 +1292,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 117,
@@ -1305,7 +1305,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_name.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -1346,7 +1346,7 @@
                   "sizeType": 0,
                   "tag": 440,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 68,
                   "x": 281,
@@ -1359,7 +1359,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_address.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -1400,7 +1400,7 @@
                   "sizeType": 0,
                   "tag": 439,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 407,
@@ -1413,7 +1413,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_winning.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -1454,7 +1454,7 @@
                   "sizeType": 0,
                   "tag": 441,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 690,
                   "x": 382,
@@ -1467,7 +1467,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_hentiao.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
@@ -1505,7 +1505,7 @@
               "sizeType": 0,
               "tag": 432,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 773,
               "x": 98,
@@ -1515,7 +1515,7 @@
               "backGroundImageData": {
                 "path": "playerInfo/roomback.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "backGroundScale9Enable": false,
               "bgColorB": 255,
@@ -1585,7 +1585,7 @@
                           "sizeType": 0,
                           "tag": 444,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 75,
                           "x": 87,
@@ -1635,7 +1635,7 @@
                           "sizeType": 0,
                           "tag": 444,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 170,
                           "x": 200,
@@ -1685,7 +1685,7 @@
                           "sizeType": 0,
                           "tag": 519,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 76,
                           "x": 450,
@@ -1735,7 +1735,7 @@
                           "sizeType": 0,
                           "tag": 447,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 80,
                           "x": 650,
@@ -1757,13 +1757,13 @@
                           "normalData": {
                             "path": "playerInfo/sociality_shouqian1.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "pressed": null,
                           "pressedData": {
                             "path": "playerInfo/sociality_shouqian2.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "scale9Enable": false,
                           "scale9Height": 44,
@@ -1822,7 +1822,7 @@
                       "sizeType": 0,
                       "tag": 443,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 700,
                       "x": 0,
@@ -1890,7 +1890,7 @@
                           "sizeType": 0,
                           "tag": 447,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 80,
                           "x": 550,
@@ -1912,13 +1912,13 @@
                           "normalData": {
                             "path": "playerInfo/sociality_hulue1.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "pressed": null,
                           "pressedData": {
                             "path": "playerInfo/sociality_hulue2.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "scale9Enable": false,
                           "scale9Height": 44,
@@ -1963,7 +1963,7 @@
                           "sizeType": 0,
                           "tag": 444,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 75,
                           "x": 87,
@@ -2013,7 +2013,7 @@
                           "sizeType": 0,
                           "tag": 444,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 195,
                           "x": 200,
@@ -2063,7 +2063,7 @@
                           "sizeType": 0,
                           "tag": 519,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 76,
                           "x": 450,
@@ -2113,7 +2113,7 @@
                           "sizeType": 0,
                           "tag": 447,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 80,
                           "x": 650,
@@ -2135,13 +2135,13 @@
                           "normalData": {
                             "path": "playerInfo/sociality_geiqian1.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "pressed": null,
                           "pressedData": {
                             "path": "playerInfo/sociality_geiqian2.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "scale9Enable": false,
                           "scale9Height": 44,
@@ -2200,7 +2200,7 @@
                       "sizeType": 0,
                       "tag": 443,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 700,
                       "x": 0,
@@ -2261,7 +2261,7 @@
                   "sizeType": 0,
                   "tag": 445,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 700,
                   "x": 31,
@@ -2329,7 +2329,7 @@
                   "sizeType": 0,
                   "tag": 518,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 130,
                   "x": 640,
@@ -2351,13 +2351,13 @@
                   "normalData": {
                     "path": "playerInfo/sociality_allAgree1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "playerInfo/sociality_allAgree2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 53,
@@ -2402,7 +2402,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 120,
@@ -2415,7 +2415,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_name.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -2456,7 +2456,7 @@
                   "sizeType": 0,
                   "tag": 441,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 690,
                   "x": 382,
@@ -2469,7 +2469,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_hentiao.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
@@ -2507,7 +2507,7 @@
               "sizeType": 0,
               "tag": 432,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 773,
               "x": 98,
@@ -2517,7 +2517,7 @@
               "backGroundImageData": {
                 "path": "playerInfo/roomback.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "backGroundScale9Enable": false,
               "bgColorB": 255,
@@ -2587,7 +2587,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 18,
                           "x": 40,
@@ -2637,7 +2637,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 75,
                           "x": 170,
@@ -2687,7 +2687,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 100,
                           "x": 320,
@@ -2737,7 +2737,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 37,
                           "x": 430,
@@ -2787,7 +2787,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 90,
                           "x": 540,
@@ -2851,7 +2851,7 @@
                       "sizeType": 0,
                       "tag": 456,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 700,
                       "x": 0,
@@ -2912,7 +2912,7 @@
                   "sizeType": 0,
                   "tag": 455,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 700,
                   "x": 22,
@@ -2980,7 +2980,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 46,
                   "x": 67,
@@ -2993,7 +2993,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_paiming.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3034,7 +3034,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 193,
@@ -3047,7 +3047,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_name.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3088,7 +3088,7 @@
                   "sizeType": 0,
                   "tag": 440,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 68,
                   "x": 330,
@@ -3101,7 +3101,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_address.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3142,7 +3142,7 @@
                   "sizeType": 0,
                   "tag": 439,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 450,
@@ -3155,7 +3155,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_winning.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3196,7 +3196,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 560,
@@ -3209,7 +3209,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_caifu.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3247,7 +3247,7 @@
               "sizeType": 0,
               "tag": 432,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 773,
               "x": 98,
@@ -3257,7 +3257,7 @@
               "backGroundImageData": {
                 "path": "playerInfo/roomback.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "backGroundScale9Enable": false,
               "bgColorB": 255,
@@ -3327,7 +3327,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 18,
                           "x": 38,
@@ -3377,7 +3377,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 75,
                           "x": 170,
@@ -3427,7 +3427,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 100,
                           "x": 320,
@@ -3477,7 +3477,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 37,
                           "x": 430,
@@ -3527,7 +3527,7 @@
                           "sizeType": 0,
                           "tag": 457,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 90,
                           "x": 540,
@@ -3577,7 +3577,7 @@
                           "sizeType": 0,
                           "tag": 475,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 47,
                           "x": 627,
@@ -3590,7 +3590,7 @@
                           "fileNameData": {
                             "path": "playerInfo/sociality_hongzuan.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 1
                           },
                           "scale9Enable": false,
                           "scale9Height": 51,
@@ -3631,7 +3631,7 @@
                           "sizeType": 0,
                           "tag": 476,
                           "touchAble": false,
-                          "useMergedTexture": false,
+                          "useMergedTexture": true,
                           "visible": true,
                           "width": 24,
                           "x": 652,
@@ -3695,7 +3695,7 @@
                       "sizeType": 0,
                       "tag": 456,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 700,
                       "x": 0,
@@ -3756,7 +3756,7 @@
                   "sizeType": 0,
                   "tag": 455,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 700,
                   "x": 22,
@@ -3824,7 +3824,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 560,
@@ -3837,7 +3837,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_caifu.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3878,7 +3878,7 @@
                   "sizeType": 0,
                   "tag": 439,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 450,
@@ -3891,7 +3891,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_winning.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3932,7 +3932,7 @@
                   "sizeType": 0,
                   "tag": 440,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 68,
                   "x": 330,
@@ -3945,7 +3945,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_address.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -3986,7 +3986,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 45,
                   "x": 193,
@@ -3999,7 +3999,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_name.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -4040,7 +4040,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 46,
                   "x": 67,
@@ -4053,7 +4053,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_paiming.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -4094,7 +4094,7 @@
                   "sizeType": 0,
                   "tag": 438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 44,
                   "x": 670,
@@ -4107,7 +4107,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_jiangli.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 21,
@@ -4145,7 +4145,7 @@
               "sizeType": 0,
               "tag": 432,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 773,
               "x": 98,
@@ -4155,7 +4155,7 @@
               "backGroundImageData": {
                 "path": "playerInfo/roomback.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "backGroundScale9Enable": false,
               "bgColorB": 255,
@@ -4217,7 +4217,7 @@
                   "sizeType": 0,
                   "tag": 10343,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": false,
                   "width": 18,
                   "x": 273,
@@ -4230,7 +4230,7 @@
                   "fileNameData": {
                     "path": "playerInfo/notify_red.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 18,
@@ -4271,7 +4271,7 @@
                   "sizeType": 0,
                   "tag": 10344,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": false,
                   "width": 18,
                   "x": 424,
@@ -4284,7 +4284,7 @@
                   "fileNameData": {
                     "path": "playerInfo/notify_red.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 18,
@@ -4322,7 +4322,7 @@
               "sizeType": 0,
               "tag": 10342,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 1,
               "x": 0,
@@ -4400,7 +4400,7 @@
           "sizeType": 0,
           "tag": 431,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -4461,7 +4461,7 @@
       "sizeType": 0,
       "tag": 292,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

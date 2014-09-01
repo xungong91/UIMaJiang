@@ -280,7 +280,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 532,
+              "height": 527,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -290,14 +290,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.303125,
-              "sizePercentY": 0.83125,
+              "sizePercentX": 0.35,
+              "sizePercentY": 0.8234375,
               "sizeType": 0,
               "tag": 604,
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 291,
+              "width": 336,
               "x": 0,
               "y": 0,
               "capInsetsHeight": 0,
@@ -306,13 +306,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "mall/mall_gril.png",
+                "path": "museme/museme_winGril.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 532,
-              "scale9Width": 291
+              "scale9Height": 527,
+              "scale9Width": 336
             }
           },
           {
@@ -629,7 +629,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 107,
+                      "height": 80,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -639,14 +639,14 @@
                       "rotation": 0,
                       "scaleX": 1,
                       "scaleY": 1,
-                      "sizePercentX": 0.7111111,
-                      "sizePercentY": 0.629411757,
+                      "sizePercentX": 0.444444448,
+                      "sizePercentY": 0.470588237,
                       "sizeType": 0,
                       "tag": 623,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 128,
+                      "width": 80,
                       "x": 102,
                       "y": 92,
                       "capInsetsHeight": 0,
@@ -655,13 +655,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "mall/mall_diamond1.png",
+                        "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 2
                       },
                       "scale9Enable": false,
-                      "scale9Height": 107,
-                      "scale9Width": 128
+                      "scale9Height": 80,
+                      "scale9Width": 80
                     }
                   }
                 ],
@@ -1542,7 +1542,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 31,
+                  "height": 28,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -1550,16 +1550,16 @@
                   "positionPercentY": 0,
                   "positionType": 0,
                   "rotation": 0,
-                  "scaleX": 1,
-                  "scaleY": 1,
-                  "sizePercentX": 0.172774866,
-                  "sizePercentY": 0.543859661,
+                  "scaleX": 1.5,
+                  "scaleY": 1.5,
+                  "sizePercentX": 0.157068059,
+                  "sizePercentY": 0.491228074,
                   "sizeType": 0,
                   "tag": 612,
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 33,
+                  "width": 30,
                   "x": 31,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -1568,13 +1568,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "mall/mall_diamond_count.png",
+                    "path": "mall/mail_danweiDiamond.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 31,
-                  "scale9Width": 33
+                  "scale9Height": 28,
+                  "scale9Width": 30
                 }
               },
               {
@@ -1701,7 +1701,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 64,
+                  "height": 66,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -1711,14 +1711,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 0.2984293,
-                  "sizePercentY": 1.122807,
+                  "sizePercentX": 0.308900535,
+                  "sizePercentY": 1.15789473,
                   "sizeType": 0,
                   "tag": 613,
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 57,
+                  "width": 59,
                   "x": 31,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -1727,13 +1727,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "mall/mall_tickets_count.png",
+                    "path": "mall/mall_jiangjuan.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 64,
-                  "scale9Width": 57
+                  "scale9Height": 66,
+                  "scale9Width": 59
                 }
               },
               {

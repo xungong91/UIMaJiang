@@ -69,10 +69,6 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>UIMajiang_InfoEdit</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
     <Project>UIMajiang_MallBox</Project>
     <GuidesList />
   </GuidesProject>
@@ -82,10 +78,6 @@
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_test</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
-    <Project>UIMajiang_BreakReconnection</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>

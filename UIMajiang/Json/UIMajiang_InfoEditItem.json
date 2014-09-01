@@ -256,14 +256,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 172,
+              "sizePercentX": 140,
               "sizePercentY": 63,
               "sizeType": 0,
               "tag": 2213,
               "touchAble": true,
               "useMergedTexture": false,
               "visible": true,
-              "width": 172,
+              "width": 140,
               "x": -91,
               "y": -200,
               "capInsetsHeight": 1,
@@ -277,24 +277,24 @@
                 "resourceType": 0
               },
               "fontName": "微软雅黑",
-              "fontSize": 14,
+              "fontSize": 25,
               "fontType": 0,
               "normal": null,
               "normalData": {
-                "path": "userInfo/info_cancel1.png",
+                "path": "button_green1.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "pressed": null,
               "pressedData": {
-                "path": "userInfo/info_cancel2.png",
+                "path": "button_green2.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "scale9Enable": false,
               "scale9Height": 63,
-              "scale9Width": 172,
-              "text": "",
+              "scale9Width": 140,
+              "text": "取消",
               "textColorB": 255,
               "textColorG": 255,
               "textColorR": 255
@@ -329,14 +329,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 172,
+              "sizePercentX": 140,
               "sizePercentY": 63,
               "sizeType": 0,
               "tag": 2214,
               "touchAble": true,
               "useMergedTexture": false,
               "visible": true,
-              "width": 172,
+              "width": 140,
               "x": 190,
               "y": -200,
               "capInsetsHeight": 1,
@@ -350,24 +350,24 @@
                 "resourceType": 0
               },
               "fontName": "微软雅黑",
-              "fontSize": 14,
+              "fontSize": 25,
               "fontType": 0,
               "normal": null,
               "normalData": {
-                "path": "userInfo/info_submit1.png",
+                "path": "button_green1.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "pressed": null,
               "pressedData": {
-                "path": "userInfo/info_submit2.png",
+                "path": "button_green2.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "scale9Enable": false,
               "scale9Height": 63,
-              "scale9Width": 172,
-              "text": "",
+              "scale9Width": 140,
+              "text": "确定",
               "textColorB": 255,
               "textColorG": 255,
               "textColorR": 255
@@ -450,7 +450,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 432,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -460,14 +460,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 0.653125,
-                  "sizePercentY": 0.675,
+                  "sizePercentX": 0.0833333358,
+                  "sizePercentY": 0.125,
                   "sizeType": 0,
                   "tag": 2209,
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 627,
+                  "width": 80,
                   "x": 223,
                   "y": 362,
                   "capInsetsHeight": 1,
@@ -476,13 +476,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "userInfo/info_shimingBg.png",
+                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 2
                   },
                   "scale9Enable": false,
-                  "scale9Height": 432,
-                  "scale9Width": 627
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               }
             ],
@@ -1662,7 +1662,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 40,
+                  "width": 39,
                   "x": 169,
                   "y": 306,
                   "capInsetsHeight": 1,
@@ -1671,13 +1671,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "userInfo/info_setMail.png",
+                    "path": "userInfo/info_editHead.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
                   "scale9Enable": false,
                   "scale9Height": 152,
-                  "scale9Width": 40
+                  "scale9Width": 39
                 }
               },
               {
@@ -1703,7 +1703,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 204,
+                      "height": 218,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -1713,14 +1713,14 @@
                       "rotation": 0,
                       "scaleX": 1,
                       "scaleY": 1,
-                      "sizePercentX": 0.646789,
-                      "sizePercentY": 0.9357798,
+                      "sizePercentX": 1,
+                      "sizePercentY": 1,
                       "sizeType": 0,
                       "tag": 10429,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 141,
+                      "width": 218,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -1734,8 +1734,8 @@
                         "resourceType": 0
                       },
                       "scale9Enable": false,
-                      "scale9Height": 204,
-                      "scale9Width": 141
+                      "scale9Height": 218,
+                      "scale9Width": 218
                     }
                   }
                 ],
@@ -1812,7 +1812,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 203,
+                      "height": 218,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -1822,14 +1822,14 @@
                       "rotation": 0,
                       "scaleX": 1,
                       "scaleY": 1,
-                      "sizePercentX": 1.00458717,
-                      "sizePercentY": 0.931192636,
+                      "sizePercentX": 1,
+                      "sizePercentY": 1,
                       "sizeType": 0,
                       "tag": 10437,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 219,
+                      "width": 218,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -1843,8 +1843,8 @@
                         "resourceType": 0
                       },
                       "scale9Enable": false,
-                      "scale9Height": 203,
-                      "scale9Width": 219
+                      "scale9Height": 218,
+                      "scale9Width": 218
                     }
                   }
                 ],
@@ -1921,7 +1921,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 200,
+                      "height": 218,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -1931,14 +1931,14 @@
                       "rotation": 0,
                       "scaleX": 1,
                       "scaleY": 1,
-                      "sizePercentX": 0.74311924,
-                      "sizePercentY": 0.9174312,
+                      "sizePercentX": 1,
+                      "sizePercentY": 1,
                       "sizeType": 0,
                       "tag": 10439,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 162,
+                      "width": 218,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -1952,8 +1952,8 @@
                         "resourceType": 0
                       },
                       "scale9Enable": false,
-                      "scale9Height": 200,
-                      "scale9Width": 162
+                      "scale9Height": 218,
+                      "scale9Width": 218
                     }
                   }
                 ],

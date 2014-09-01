@@ -18,8 +18,7 @@
     "UIMajiang5.plist",
     "UIMajiang6.plist",
     "UIMajiang7.plist",
-    "UIMajiang8.plist",
-    "UIMajiang9.plist"
+    "UIMajiang8.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -2079,7 +2078,7 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/底板.png",
+                    "path": "playerInfo/play_bg.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -2455,7 +2454,7 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/底板.png",
+                    "path": "playerInfo/play_bg.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -2831,7 +2830,7 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/底板.png",
+                    "path": "playerInfo/play_bg.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -3207,7 +3206,7 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/底板.png",
+                    "path": "playerInfo/play_bg.png",
                     "plistFile": "",
                     "resourceType": 0
                   },

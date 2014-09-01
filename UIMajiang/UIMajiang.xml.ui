@@ -13,7 +13,6 @@
     <string>UIMajiang_CreateCompartment.json</string>
     <string>UIMajiang_EnterCompartment.json</string>
     <string>UIMajiang_Fraction.json</string>
-    <string>UIMajiang_InfoEdit.json</string>
     <string>UIMajiang_InfoEditItem.json</string>
     <string>UIMajiang_Login.json</string>
     <string>UIMajiang_Mall.json</string>
@@ -28,7 +27,6 @@
     <string>UIMajiang_Sociality.json</string>
     <string>UIMajiang_UserInfo.json</string>
     <string>UIMajiang_test.json</string>
-    <string>UIMajiang_BreakReconnection.json</string>
     <string>UIMajiang_Musume.json</string>
   </JsonList>
   <CanvasSize>
@@ -48,8 +46,7 @@
     <string>UIMajiang6.plist</string>
     <string>UIMajiang7.plist</string>
     <string>UIMajiang8.plist</string>
-    <string>UIMajiang9.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Musume.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_InfoEditItem.json</CurrentUIJson>
 </UIProject>

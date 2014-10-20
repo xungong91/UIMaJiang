@@ -84,4 +84,24 @@
     <Project>UIMajiang_Musume</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Share</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_SingCardTips</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Competition</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_CompetitionMenu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_MusemeTips</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

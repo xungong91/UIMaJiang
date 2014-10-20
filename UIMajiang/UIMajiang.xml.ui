@@ -28,6 +28,11 @@
     <string>UIMajiang_UserInfo.json</string>
     <string>UIMajiang_test.json</string>
     <string>UIMajiang_Musume.json</string>
+    <string>UIMajiang_Share.json</string>
+    <string>UIMajiang_SingCardTips.json</string>
+    <string>UIMajiang_Competition.json</string>
+    <string>UIMajiang_CompetitionMenu.json</string>
+    <string>UIMajiang_MusemeTips.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -48,5 +53,5 @@
     <string>UIMajiang8.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_InfoEditItem.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Compartment.json</CurrentUIJson>
 </UIProject>

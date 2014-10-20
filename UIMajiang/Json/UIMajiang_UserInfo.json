@@ -3953,7 +3953,7 @@
               "flipX": false,
               "flipY": false,
               "height": 563,
-              "ignoreSize": true,
+              "ignoreSize": false,
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": -356,
@@ -3972,17 +3972,17 @@
               "width": 773,
               "x": -356,
               "y": -304,
-              "capInsetsHeight": 0,
-              "capInsetsWidth": 0,
-              "capInsetsX": 0,
-              "capInsetsY": 0,
+              "capInsetsHeight": 579,
+              "capInsetsWidth": 2,
+              "capInsetsX": 15,
+              "capInsetsY": 10,
               "fileName": null,
               "fileNameData": {
-                "path": "playerInfo/roomback.png",
+                "path": "bg_white.png",
                 "plistFile": "",
                 "resourceType": 0
               },
-              "scale9Enable": false,
+              "scale9Enable": true,
               "scale9Height": 563,
               "scale9Width": 773
             }

@@ -53,5 +53,5 @@
     <string>UIMajiang8.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_AddFriend.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Competition.json</CurrentUIJson>
 </UIProject>

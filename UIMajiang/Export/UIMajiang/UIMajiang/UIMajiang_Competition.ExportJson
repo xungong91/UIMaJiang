@@ -18,7 +18,8 @@
     "UIMajiang5.plist",
     "UIMajiang6.plist",
     "UIMajiang7.plist",
-    "UIMajiang8.plist"
+    "UIMajiang8.plist",
+    "UIMajiang9.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -2005,8 +2006,8 @@
                             "type": 1
                           },
                           "opacity": 255,
-                          "positionPercentX": 0.5,
-                          "positionPercentY": 0.9696629,
+                          "positionPercentX": 0.489510477,
+                          "positionPercentY": 0.9640449,
                           "positionType": 0,
                           "rotation": 0,
                           "scaleX": 1,
@@ -2228,7 +2229,7 @@
                           },
                           "opacity": 255,
                           "positionPercentX": 0.5,
-                          "positionPercentY": 0.886516869,
+                          "positionPercentY": 0.9685393,
                           "positionType": 0,
                           "rotation": 0,
                           "scaleX": 1,
@@ -3629,7 +3630,7 @@
                           "rotation": 0,
                           "scaleX": 1,
                           "scaleY": 1,
-                          "sizePercentX": 160,
+                          "sizePercentX": 100,
                           "sizePercentY": 27,
                           "sizeType": 0,
                           "tag": 16457,

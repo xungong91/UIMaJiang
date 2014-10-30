@@ -1839,7 +1839,7 @@
                         "options": {
                           "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
                           "classname": "Button",
-                          "name": "Button_phiz",
+                          "name": "Button_vip",
                           "ZOrder": 1,
                           "actiontag": 39540,
                           "anchorPointX": 0.5,
@@ -1967,7 +1967,7 @@
                         "options": {
                           "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
                           "classname": "ImageView",
-                          "name": "ImageView_vip",
+                          "name": "ImageView_vip1231",
                           "ZOrder": 0,
                           "actiontag": 39543,
                           "anchorPointX": 0.5,

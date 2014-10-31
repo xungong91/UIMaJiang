@@ -821,6 +821,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/jinbi.png</key>
+			<dict>
+				<key>width</key>
+				<integer>96</integer>
+				<key>height</key>
+				<integer>11</integer>
+				<key>originalWidth</key>
+				<integer>96</integer>
+				<key>originalHeight</key>
+				<integer>11</integer>
+				<key>x</key>
+				<integer>884</integer>
+				<key>y</key>
+				<integer>1008</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/shezhi_anniu3.png</key>
 			<dict>
 				<key>width</key>
@@ -832,7 +851,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>884</integer>
+				<integer>982</integer>
 				<key>y</key>
 				<integer>1008</integer>
 				<key>offsetX</key>
@@ -851,7 +870,7 @@
 				<key>originalHeight</key>
 				<integer>2</integer>
 				<key>x</key>
-				<integer>1196</integer>
+				<integer>1294</integer>
 				<key>y</key>
 				<integer>1008</integer>
 				<key>offsetX</key>

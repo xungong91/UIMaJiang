@@ -479,6 +479,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>competition/time_num.png</key>
+			<dict>
+				<key>width</key>
+				<integer>165</integer>
+				<key>height</key>
+				<integer>32</integer>
+				<key>originalWidth</key>
+				<integer>165</integer>
+				<key>originalHeight</key>
+				<integer>32</integer>
+				<key>x</key>
+				<integer>1308</integer>
+				<key>y</key>
+				<integer>743</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>competition/week.png</key>
 			<dict>
 				<key>width</key>
@@ -490,7 +509,7 @@
 				<key>originalHeight</key>
 				<integer>71</integer>
 				<key>x</key>
-				<integer>1308</integer>
+				<integer>1475</integer>
 				<key>y</key>
 				<integer>743</integer>
 				<key>offsetX</key>
@@ -509,7 +528,7 @@
 				<key>originalHeight</key>
 				<integer>36</integer>
 				<key>x</key>
-				<integer>1567</integer>
+				<integer>1734</integer>
 				<key>y</key>
 				<integer>743</integer>
 				<key>offsetX</key>
@@ -528,30 +547,11 @@
 				<key>originalHeight</key>
 				<integer>218</integer>
 				<key>x</key>
-				<integer>1646</integer>
+				<integer>1813</integer>
 				<key>y</key>
 				<integer>743</integer>
 				<key>offsetX</key>
 				<real>-12</real>
-				<key>offsetY</key>
-				<real>-3.5</real>
-			</dict>
-			<key>head/head_0_1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>209</integer>
-				<key>height</key>
-				<integer>207</integer>
-				<key>originalWidth</key>
-				<integer>218</integer>
-				<key>originalHeight</key>
-				<integer>218</integer>
-				<key>x</key>
-				<integer>1824</integer>
-				<key>y</key>
-				<integer>743</integer>
-				<key>offsetX</key>
-				<real>-4.5</real>
 				<key>offsetY</key>
 				<real>-3.5</real>
 			</dict>

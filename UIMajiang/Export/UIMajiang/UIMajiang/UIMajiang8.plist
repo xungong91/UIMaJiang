@@ -42,16 +42,16 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>userInfo/info_setPwd.png</key>
+			<key>userInfo/login_sina2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>41</integer>
+				<integer>81</integer>
 				<key>height</key>
-				<integer>227</integer>
+				<integer>70</integer>
 				<key>originalWidth</key>
-				<integer>41</integer>
+				<integer>81</integer>
 				<key>originalHeight</key>
-				<integer>227</integer>
+				<integer>70</integer>
 				<key>x</key>
 				<integer>728</integer>
 				<key>y</key>
@@ -72,7 +72,7 @@
 				<key>originalHeight</key>
 				<integer>174</integer>
 				<key>x</key>
-				<integer>771</integer>
+				<integer>811</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -91,7 +91,7 @@
 				<key>originalHeight</key>
 				<integer>58</integer>
 				<key>x</key>
-				<integer>1251</integer>
+				<integer>1291</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -110,7 +110,7 @@
 				<key>originalHeight</key>
 				<integer>58</integer>
 				<key>x</key>
-				<integer>1458</integer>
+				<integer>1498</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -129,26 +129,7 @@
 				<key>originalHeight</key>
 				<integer>41</integer>
 				<key>x</key>
-				<integer>1665</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>userInfo/menu_baoFang2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>68</integer>
-				<key>height</key>
-				<integer>33</integer>
-				<key>originalWidth</key>
-				<integer>68</integer>
-				<key>originalHeight</key>
-				<integer>33</integer>
-				<key>x</key>
-				<integer>1751</integer>
+				<integer>1705</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -167,7 +148,7 @@
 				<key>originalHeight</key>
 				<integer>48</integer>
 				<key>x</key>
-				<integer>1821</integer>
+				<integer>1791</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -186,7 +167,7 @@
 				<key>originalHeight</key>
 				<integer>48</integer>
 				<key>x</key>
-				<integer>1902</integer>
+				<integer>1872</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

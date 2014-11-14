@@ -104,4 +104,8 @@
     <Project>UIMajiang_MusemeTips</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_TopControl</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

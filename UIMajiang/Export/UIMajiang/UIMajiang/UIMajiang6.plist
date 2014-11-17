@@ -1413,15 +1413,34 @@
 			<key>reg/reg_queding.png</key>
 			<dict>
 				<key>width</key>
-				<integer>78</integer>
+				<integer>90</integer>
 				<key>height</key>
-				<integer>44</integer>
+				<integer>54</integer>
 				<key>originalWidth</key>
-				<integer>78</integer>
+				<integer>90</integer>
 				<key>originalHeight</key>
-				<integer>44</integer>
+				<integer>54</integer>
 				<key>x</key>
 				<integer>1176</integer>
+				<key>y</key>
+				<integer>960</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>reg/reg_quxiao.png</key>
+			<dict>
+				<key>width</key>
+				<integer>90</integer>
+				<key>height</key>
+				<integer>54</integer>
+				<key>originalWidth</key>
+				<integer>90</integer>
+				<key>originalHeight</key>
+				<integer>54</integer>
+				<key>x</key>
+				<integer>1268</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1440,7 +1459,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>1256</integer>
+				<integer>1360</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1459,7 +1478,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>1346</integer>
+				<integer>1450</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1478,7 +1497,7 @@
 				<key>originalHeight</key>
 				<integer>30</integer>
 				<key>x</key>
-				<integer>1436</integer>
+				<integer>1540</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1497,7 +1516,7 @@
 				<key>originalHeight</key>
 				<integer>19</integer>
 				<key>x</key>
-				<integer>1469</integer>
+				<integer>1573</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1508,15 +1527,15 @@
 			<key>reg/reg_sexButton1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>143</integer>
+				<integer>105</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>143</integer>
+				<integer>105</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1519</integer>
+				<integer>1623</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1527,15 +1546,34 @@
 			<key>reg/reg_sexButton2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>143</integer>
+				<integer>105</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>143</integer>
+				<integer>105</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1664</integer>
+				<integer>1730</integer>
+				<key>y</key>
+				<integer>960</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>reg/reg_title.png</key>
+			<dict>
+				<key>width</key>
+				<integer>96</integer>
+				<key>height</key>
+				<integer>44</integer>
+				<key>originalWidth</key>
+				<integer>96</integer>
+				<key>originalHeight</key>
+				<integer>44</integer>
+				<key>x</key>
+				<integer>1837</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1554,7 +1592,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>1809</integer>
+				<integer>1935</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1573,7 +1611,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>1837</integer>
+				<integer>1963</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>
@@ -1592,45 +1630,7 @@
 				<key>originalHeight</key>
 				<integer>26</integer>
 				<key>x</key>
-				<integer>1865</integer>
-				<key>y</key>
-				<integer>960</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>roomEnded/cortana_close2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>44</integer>
-				<key>height</key>
-				<integer>26</integer>
-				<key>originalWidth</key>
-				<integer>44</integer>
-				<key>originalHeight</key>
-				<integer>26</integer>
-				<key>x</key>
-				<integer>1911</integer>
-				<key>y</key>
-				<integer>960</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>roomEnded/cortana_open1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>44</integer>
-				<key>height</key>
-				<integer>26</integer>
-				<key>originalWidth</key>
-				<integer>44</integer>
-				<key>originalHeight</key>
-				<integer>26</integer>
-				<key>x</key>
-				<integer>1957</integer>
+				<integer>1991</integer>
 				<key>y</key>
 				<integer>960</integer>
 				<key>offsetX</key>

@@ -140,13 +140,13 @@
 			<key>login/login_title.png</key>
 			<dict>
 				<key>width</key>
-				<integer>478</integer>
+				<integer>512</integer>
 				<key>height</key>
-				<integer>174</integer>
+				<integer>181</integer>
 				<key>originalWidth</key>
-				<integer>478</integer>
+				<integer>512</integer>
 				<key>originalHeight</key>
-				<integer>174</integer>
+				<integer>181</integer>
 				<key>x</key>
 				<integer>1426</integer>
 				<key>y</key>

@@ -454,7 +454,7 @@
               "capInsetsY": 1,
               "fileName": null,
               "fileNameData": {
-                "path": "bg_transparent.png",
+                "path": "roomEnded/room_enter_bg.png",
                 "plistFile": "",
                 "resourceType": 0
               },

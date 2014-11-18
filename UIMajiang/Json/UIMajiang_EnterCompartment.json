@@ -429,7 +429,7 @@
               "flipX": false,
               "flipY": false,
               "height": 319,
-              "ignoreSize": true,
+              "ignoreSize": false,
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": -200,
@@ -458,7 +458,7 @@
                 "plistFile": "",
                 "resourceType": 0
               },
-              "scale9Enable": true,
+              "scale9Enable": false,
               "scale9Height": 319,
               "scale9Width": 616
             }

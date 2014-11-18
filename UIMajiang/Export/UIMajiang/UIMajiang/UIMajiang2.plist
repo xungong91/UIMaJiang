@@ -973,6 +973,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/baofang_chats2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>91</integer>
+				<key>height</key>
+				<integer>21</integer>
+				<key>originalWidth</key>
+				<integer>91</integer>
+				<key>originalHeight</key>
+				<integer>21</integer>
+				<key>x</key>
+				<integer>1686</integer>
+				<key>y</key>
+				<integer>930</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/baofang_chat_InputBg.png</key>
 			<dict>
 				<key>width</key>
@@ -984,7 +1003,7 @@
 				<key>originalHeight</key>
 				<integer>38</integer>
 				<key>x</key>
-				<integer>1686</integer>
+				<integer>1779</integer>
 				<key>y</key>
 				<integer>930</integer>
 				<key>offsetX</key>
@@ -1003,7 +1022,7 @@
 				<key>originalHeight</key>
 				<integer>51</integer>
 				<key>x</key>
-				<integer>1714</integer>
+				<integer>1807</integer>
 				<key>y</key>
 				<integer>930</integer>
 				<key>offsetX</key>

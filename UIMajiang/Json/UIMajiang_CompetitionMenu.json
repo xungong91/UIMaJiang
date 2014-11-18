@@ -19,8 +19,7 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist",
-    "UIMajiang10.plist"
+    "UIMajiang9.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -125,7 +124,7 @@
                       "sizePercentX": 2.079646,
                       "sizePercentY": 0.6727273,
                       "sizeType": 0,
-                      "tag": 29128,
+                      "tag": 1,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
@@ -415,7 +414,7 @@
                       "sizePercentX": 2.079646,
                       "sizePercentY": 0.6727273,
                       "sizeType": 0,
-                      "tag": 29129,
+                      "tag": 1,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
@@ -705,7 +704,7 @@
                       "sizePercentX": 2.079646,
                       "sizePercentY": 0.6727273,
                       "sizeType": 0,
-                      "tag": 29130,
+                      "tag": 1,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,

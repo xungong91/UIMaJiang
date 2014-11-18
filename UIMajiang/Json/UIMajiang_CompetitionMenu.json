@@ -19,8 +19,7 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist",
-    "UIMajiang10.plist"
+    "UIMajiang9.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -50,12 +49,12 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 344,
+              "height": 319,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": -479,
-              "positionPercentY": -151,
+              "positionPercentX": -305.6667,
+              "positionPercentY": -146,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -67,9 +66,9 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 960,
-              "x": -479,
-              "y": -151,
+              "width": 616,
+              "x": -305,
+              "y": -146,
               "capInsetsHeight": 3,
               "capInsetsWidth": 960,
               "capInsetsX": 0,
@@ -81,8 +80,8 @@
                 "resourceType": 0
               },
               "scale9Enable": true,
-              "scale9Height": 344,
-              "scale9Width": 960
+              "scale9Height": 319,
+              "scale9Width": 616
             }
           },
           {

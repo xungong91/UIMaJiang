@@ -143,8 +143,8 @@
           "rotation": 0,
           "scaleX": 1,
           "scaleY": 1,
-          "sizePercentX": 0.0833333358,
-          "sizePercentY": 0.125,
+          "sizePercentX": 0.246875,
+          "sizePercentY": 0.7109375,
           "sizeType": 0,
           "tag": 24304,
           "touchAble": false,
@@ -377,7 +377,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 35,
+                  "height": 43,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -394,7 +394,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 110,
+                  "width": 135,
                   "x": 0,
                   "y": 0,
                   "capInsetsHeight": 1,
@@ -408,8 +408,8 @@
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 35,
-                  "scale9Width": 110
+                  "scale9Height": 43,
+                  "scale9Width": 135
                 }
               }
             ],
@@ -438,8 +438,8 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 278,
-              "sizePercentY": 115,
+              "sizePercentX": 225,
+              "sizePercentY": 90,
               "sizeType": 0,
               "tag": 8391,
               "touchAble": true,
@@ -505,7 +505,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 44,
+                  "height": 65,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -522,7 +522,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 73,
+                  "width": 106,
                   "x": 0,
                   "y": 0,
                   "capInsetsHeight": 1,
@@ -536,8 +536,8 @@
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 44,
-                  "scale9Width": 73
+                  "scale9Height": 65,
+                  "scale9Width": 106
                 }
               }
             ],
@@ -566,8 +566,8 @@
               "rotation": 0,
               "scaleX": 0.8,
               "scaleY": 0.8,
-              "sizePercentX": 278,
-              "sizePercentY": 115,
+              "sizePercentX": 225,
+              "sizePercentY": 90,
               "sizeType": 0,
               "tag": 8395,
               "touchAble": true,
@@ -633,7 +633,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 44,
+                  "height": 65,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -650,7 +650,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 73,
+                  "width": 106,
                   "x": 0,
                   "y": 0,
                   "capInsetsHeight": 1,
@@ -664,8 +664,8 @@
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 44,
-                  "scale9Width": 73
+                  "scale9Height": 65,
+                  "scale9Width": 106
                 }
               }
             ],
@@ -694,8 +694,8 @@
               "rotation": 0,
               "scaleX": 0.8,
               "scaleY": 0.8,
-              "sizePercentX": 278,
-              "sizePercentY": 115,
+              "sizePercentX": 225,
+              "sizePercentY": 90,
               "sizeType": 0,
               "tag": 8393,
               "touchAble": true,

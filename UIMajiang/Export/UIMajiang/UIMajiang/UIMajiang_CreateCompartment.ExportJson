@@ -684,7 +684,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 28,
+                      "height": 25,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -710,7 +710,7 @@
                         "plistFile": "",
                         "resourceType": 0
                       },
-                      "itemHeight": 28,
+                      "itemHeight": 25,
                       "itemWidth": 16,
                       "startCharMap": "0",
                       "stringValue": "400"
@@ -2059,13 +2059,13 @@
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "roomEnded/room_add1.png",
+                    "path": "playerInfo/baofang_time_add1.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
-                    "path": "roomEnded/room_add2.png",
+                    "path": "playerInfo/baofang_time_add2.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
@@ -2132,13 +2132,13 @@
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "roomEnded/room_sub1.png",
+                    "path": "playerInfo/baofang_time_sub1.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
-                    "path": "roomEnded/room_sub2.png",
+                    "path": "playerInfo/baofang_time_sub2.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
@@ -2223,9 +2223,9 @@
                 "options": {
                   "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
                   "classname": "ImageView",
-                  "name": "ImageView_32923",
+                  "name": "ImageView_51278",
                   "ZOrder": 0,
-                  "actiontag": 32923,
+                  "actiontag": 51278,
                   "anchorPointX": 0.5,
                   "anchorPointY": 0.5,
                   "classType": "ImageView",
@@ -2239,7 +2239,7 @@
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.497055352,
+                  "positionPercentX": 0.4958775,
                   "positionPercentY": 0.954545438,
                   "positionType": 0,
                   "rotation": 0,
@@ -2248,24 +2248,24 @@
                   "sizePercentX": 0.162544176,
                   "sizePercentY": 0.08,
                   "sizeType": 0,
-                  "tag": 13498,
+                  "tag": 30999,
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
                   "width": 138,
-                  "x": 422,
+                  "x": 421,
                   "y": 525,
                   "capInsetsHeight": 1,
-                  "capInsetsWidth": 930,
+                  "capInsetsWidth": 1,
                   "capInsetsX": 0,
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "roomEnded/room_create_text.png",
+                    "path": "reg/create_title.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
-                  "scale9Enable": true,
+                  "scale9Enable": false,
                   "scale9Height": 44,
                   "scale9Width": 138
                 }

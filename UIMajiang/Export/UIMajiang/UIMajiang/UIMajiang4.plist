@@ -577,13 +577,13 @@
 			<key>playerInfo/baofang_time_add0.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
 				<integer>1346</integer>
 				<key>y</key>
@@ -596,15 +596,15 @@
 			<key>playerInfo/baofang_time_add1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1422</integer>
+				<integer>1409</integer>
 				<key>y</key>
 				<integer>597</integer>
 				<key>offsetX</key>
@@ -615,15 +615,15 @@
 			<key>playerInfo/baofang_time_add2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1498</integer>
+				<integer>1472</integer>
 				<key>y</key>
 				<integer>597</integer>
 				<key>offsetX</key>
@@ -634,15 +634,15 @@
 			<key>playerInfo/baofang_time_sub0.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1574</integer>
+				<integer>1535</integer>
 				<key>y</key>
 				<integer>597</integer>
 				<key>offsetX</key>
@@ -653,15 +653,15 @@
 			<key>playerInfo/baofang_time_sub1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1650</integer>
+				<integer>1598</integer>
 				<key>y</key>
 				<integer>597</integer>
 				<key>offsetX</key>
@@ -672,15 +672,15 @@
 			<key>playerInfo/baofang_time_sub2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>height</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>74</integer>
+				<integer>61</integer>
 				<key>originalHeight</key>
-				<integer>53</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1726</integer>
+				<integer>1661</integer>
 				<key>y</key>
 				<integer>597</integer>
 				<key>offsetX</key>
@@ -699,7 +699,7 @@
 				<key>originalHeight</key>
 				<integer>67</integer>
 				<key>x</key>
-				<integer>1802</integer>
+				<integer>1724</integer>
 				<key>y</key>
 				<integer>597</integer>
 				<key>offsetX</key>

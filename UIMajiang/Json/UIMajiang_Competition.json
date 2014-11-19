@@ -4157,7 +4157,7 @@
                           "customProperty": "",
                           "flipX": false,
                           "flipY": false,
-                          "height": 27,
+                          "height": 80,
                           "ignoreSize": true,
                           "layoutParameter": null,
                           "opacity": 255,
@@ -4174,7 +4174,7 @@
                           "touchAble": false,
                           "useMergedTexture": false,
                           "visible": false,
-                          "width": 28,
+                          "width": 80,
                           "x": 240,
                           "y": 55,
                           "capInsetsHeight": 1,
@@ -4183,13 +4183,13 @@
                           "capInsetsY": 0,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "userInfo/diamon.png",
+                            "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 2
                           },
                           "scale9Enable": false,
-                          "scale9Height": 27,
-                          "scale9Width": 28
+                          "scale9Height": 80,
+                          "scale9Width": 80
                         }
                       }
                     ],
@@ -7964,7 +7964,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 27,
+                      "height": 80,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -7981,7 +7981,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 28,
+                      "width": 80,
                       "x": 50,
                       "y": -36,
                       "capInsetsHeight": 1,
@@ -7990,13 +7990,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "userInfo/diamon.png",
+                        "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 2
                       },
                       "scale9Enable": false,
-                      "scale9Height": 27,
-                      "scale9Width": 28
+                      "scale9Height": 80,
+                      "scale9Width": 80
                     }
                   },
                   {
@@ -8513,7 +8513,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 27,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -8530,7 +8530,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 28,
+                  "width": 80,
                   "x": 233,
                   "y": 44,
                   "capInsetsHeight": 1,
@@ -8539,13 +8539,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "userInfo/diamon.png",
+                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 2
                   },
                   "scale9Enable": false,
-                  "scale9Height": 27,
-                  "scale9Width": 28
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               }
             ],

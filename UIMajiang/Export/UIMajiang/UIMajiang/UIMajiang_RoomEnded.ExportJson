@@ -120,7 +120,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 51,
+              "height": 80,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -137,7 +137,7 @@
               "touchAble": false,
               "useMergedTexture": true,
               "visible": true,
-              "width": 199,
+              "width": 80,
               "x": 480,
               "y": 590,
               "capInsetsHeight": 1,
@@ -146,13 +146,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "roomEnded/room_ended.png",
+                "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                 "plistFile": "",
                 "resourceType": 1
               },
               "scale9Enable": false,
-              "scale9Height": 51,
-              "scale9Width": 199
+              "scale9Height": 80,
+              "scale9Width": 80
             }
           },
           {

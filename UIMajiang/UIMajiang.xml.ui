@@ -34,6 +34,7 @@
     <string>UIMajiang_CompetitionMenu.json</string>
     <string>UIMajiang_MusemeTips.json</string>
     <string>UIMajiang_TopControl.json</string>
+    <string>UIMajiang_MjLife.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -53,8 +54,7 @@
     <string>UIMajiang7.plist</string>
     <string>UIMajiang8.plist</string>
     <string>UIMajiang9.plist</string>
-    <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_CreateCompartment.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_UserInfo.json</CurrentUIJson>
 </UIProject>

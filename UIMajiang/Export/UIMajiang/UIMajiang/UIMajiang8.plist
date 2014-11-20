@@ -653,13 +653,13 @@
 			<key>userInfo/move.mail1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>105</integer>
+				<integer>113</integer>
 				<key>height</key>
-				<integer>51</integer>
+				<integer>55</integer>
 				<key>originalWidth</key>
-				<integer>105</integer>
+				<integer>113</integer>
 				<key>originalHeight</key>
-				<integer>51</integer>
+				<integer>55</integer>
 				<key>x</key>
 				<integer>1805</integer>
 				<key>y</key>
@@ -672,15 +672,15 @@
 			<key>userInfo/move.mail2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>105</integer>
+				<integer>113</integer>
 				<key>height</key>
-				<integer>51</integer>
+				<integer>55</integer>
 				<key>originalWidth</key>
-				<integer>105</integer>
+				<integer>113</integer>
 				<key>originalHeight</key>
-				<integer>51</integer>
+				<integer>55</integer>
 				<key>x</key>
-				<integer>1912</integer>
+				<integer>1920</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>

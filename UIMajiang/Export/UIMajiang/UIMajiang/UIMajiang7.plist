@@ -1489,11 +1489,11 @@
 			<key>userInfo/info_life_btn1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>64</integer>
+				<integer>124</integer>
 				<key>height</key>
 				<integer>52</integer>
 				<key>originalWidth</key>
-				<integer>64</integer>
+				<integer>124</integer>
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
@@ -1508,15 +1508,15 @@
 			<key>userInfo/info_life_btn2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>64</integer>
+				<integer>124</integer>
 				<key>height</key>
 				<integer>52</integer>
 				<key>originalWidth</key>
-				<integer>64</integer>
+				<integer>124</integer>
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>1285</integer>
+				<integer>1345</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>
@@ -1535,7 +1535,7 @@
 				<key>originalHeight</key>
 				<integer>31</integer>
 				<key>x</key>
-				<integer>1351</integer>
+				<integer>1471</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>
@@ -1554,7 +1554,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>1555</integer>
+				<integer>1675</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>
@@ -1573,7 +1573,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>1579</integer>
+				<integer>1699</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>
@@ -1592,7 +1592,7 @@
 				<key>originalHeight</key>
 				<integer>41</integer>
 				<key>x</key>
-				<integer>1603</integer>
+				<integer>1723</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>
@@ -1611,7 +1611,7 @@
 				<key>originalHeight</key>
 				<integer>33</integer>
 				<key>x</key>
-				<integer>1689</integer>
+				<integer>1809</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>
@@ -1630,7 +1630,7 @@
 				<key>originalHeight</key>
 				<integer>48</integer>
 				<key>x</key>
-				<integer>1759</integer>
+				<integer>1879</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>
@@ -1649,7 +1649,7 @@
 				<key>originalHeight</key>
 				<integer>48</integer>
 				<key>x</key>
-				<integer>1840</integer>
+				<integer>1960</integer>
 				<key>y</key>
 				<integer>968</integer>
 				<key>offsetX</key>

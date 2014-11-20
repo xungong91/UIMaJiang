@@ -19,8 +19,7 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist",
-    "UIMajiang10.plist"
+    "UIMajiang9.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -50,7 +49,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 531,
+              "height": 80,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -67,7 +66,7 @@
               "touchAble": false,
               "useMergedTexture": true,
               "visible": true,
-              "width": 718,
+              "width": 80,
               "x": 53,
               "y": -45,
               "capInsetsHeight": 1,
@@ -76,13 +75,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "mall/mall_tankuangBg.png",
+                "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                 "plistFile": "",
                 "resourceType": 1
               },
               "scale9Enable": false,
-              "scale9Height": 531,
-              "scale9Width": 718
+              "scale9Height": 80,
+              "scale9Width": 80
             }
           },
           {
@@ -158,7 +157,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 26,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -175,7 +174,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 100,
+                  "width": 80,
                   "x": 776,
                   "y": 266,
                   "capInsetsHeight": 1,
@@ -184,13 +183,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "mall/mall_wangjimima1.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 26,
-                  "scale9Width": 100
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               },
               {
@@ -377,7 +376,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 26,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -394,7 +393,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 100,
+                  "width": 80,
                   "x": 776,
                   "y": 380,
                   "capInsetsHeight": 1,
@@ -403,13 +402,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "mall/mall_wangjimima1.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 26,
-                  "scale9Width": 100
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               },
               {
@@ -431,7 +430,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 26,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -448,7 +447,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 100,
+                  "width": 80,
                   "x": 776,
                   "y": 270,
                   "capInsetsHeight": 1,
@@ -457,13 +456,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "mall/mall_benjihaoma1.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 26,
-                  "scale9Width": 100
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               }
             ],
@@ -600,7 +599,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 26,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -617,7 +616,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 100,
+                  "width": 80,
                   "x": 775,
                   "y": 280,
                   "capInsetsHeight": 1,
@@ -626,13 +625,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "mall/mall_benjihaoma1.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 26,
-                  "scale9Width": 100
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               },
               {
@@ -654,7 +653,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 26,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -671,7 +670,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 100,
+                  "width": 80,
                   "x": 775,
                   "y": 379,
                   "capInsetsHeight": 1,
@@ -680,13 +679,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "mall/mall_wangjimima1.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 26,
-                  "scale9Width": 100
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               }
             ],
@@ -769,7 +768,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 73,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -786,7 +785,7 @@
               "touchAble": true,
               "useMergedTexture": true,
               "visible": true,
-              "width": 160,
+              "width": 103,
               "x": 199,
               "y": -233,
               "capInsetsHeight": 1,
@@ -804,19 +803,19 @@
               "fontType": 0,
               "normal": null,
               "normalData": {
-                "path": "mall/mall_submit1.png",
+                "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png",
                 "plistFile": "",
                 "resourceType": 1
               },
               "pressed": null,
               "pressedData": {
-                "path": "mall/mall_submit2.png",
-                "plistFile": "",
-                "resourceType": 1
+                "path": null,
+                "plistFile": null,
+                "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 73,
-              "scale9Width": 160,
+              "scale9Height": 40,
+              "scale9Width": 103,
               "text": "",
               "textColorB": 255,
               "textColorG": 255,
@@ -842,7 +841,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 73,
+              "height": 40,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -859,7 +858,7 @@
               "touchAble": true,
               "useMergedTexture": true,
               "visible": true,
-              "width": 160,
+              "width": 103,
               "x": -90,
               "y": -234,
               "capInsetsHeight": 1,
@@ -877,19 +876,19 @@
               "fontType": 0,
               "normal": null,
               "normalData": {
-                "path": "mall/mall_cancel1.png",
+                "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png",
                 "plistFile": "",
                 "resourceType": 1
               },
               "pressed": null,
               "pressedData": {
-                "path": "mall/mall_cancel2.png",
-                "plistFile": "",
-                "resourceType": 1
+                "path": null,
+                "plistFile": null,
+                "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 73,
-              "scale9Width": 160,
+              "scale9Height": 40,
+              "scale9Width": 103,
               "text": "",
               "textColorB": 255,
               "textColorG": 255,
@@ -933,8 +932,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.498958319,
-          "positionPercentY": 0.9984375,
+          "positionPercentX": 0.499479175,
+          "positionPercentY": 0.499218762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,

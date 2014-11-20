@@ -19,7 +19,8 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist"
+    "UIMajiang9.plist",
+    "UIMajiang10.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -66,8 +67,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.0546875,
-          "positionPercentY": 0.91796875,
+          "positionPercentX": 0.0541666672,
+          "positionPercentY": 0.9453125,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -77,7 +78,7 @@
           "sizeType": 0,
           "tag": 96,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 65,
           "x": 52,
@@ -99,13 +100,13 @@
           "normalData": {
             "path": "playerInfo/Return1.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "pressed": null,
           "pressedData": {
             "path": "playerInfo/Return2.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 65,
@@ -167,7 +168,7 @@
           "sizeType": 1,
           "tag": 309,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -180,7 +181,7 @@
           "fileNameData": {
             "path": "menu_bg.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 640,
@@ -225,7 +226,7 @@
               "sizeType": 0,
               "tag": 4586,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 750,
               "x": -371,
@@ -293,7 +294,7 @@
               "sizeType": 0,
               "tag": 13503,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 773,
               "x": 0,
@@ -306,7 +307,7 @@
               "fileNameData": {
                 "path": "bg_white.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": true,
               "scale9Height": 563,
@@ -350,8 +351,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.499479175,
-          "positionPercentY": 0.499218762,
+          "positionPercentX": 0.498958319,
+          "positionPercentY": 0.9984375,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -361,7 +362,7 @@
           "sizeType": 0,
           "tag": 5358,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 1,
           "x": 479,
@@ -433,7 +434,7 @@
                   "sizeType": 0,
                   "tag": 655,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 210,
                   "x": 20,
@@ -483,7 +484,7 @@
                   "sizeType": 0,
                   "tag": 655,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 95,
                   "x": 20,
@@ -533,7 +534,7 @@
                   "sizeType": 0,
                   "tag": 655,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 95,
                   "x": 20,
@@ -583,7 +584,7 @@
                   "sizeType": 0,
                   "tag": 658,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 44,
                   "x": 670,
@@ -605,13 +606,13 @@
                   "normalData": {
                     "path": "roomEnded/cortana_open1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "roomEnded/cortana_open2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 26,
@@ -656,7 +657,7 @@
                   "sizeType": 0,
                   "tag": 659,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 690,
                   "x": 366,
@@ -669,7 +670,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_hentiao.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
@@ -710,7 +711,7 @@
                   "sizeType": 0,
                   "tag": 519,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 80,
                   "x": 550,
@@ -732,13 +733,13 @@
                   "normalData": {
                     "path": "playerInfo/cortana_hulue1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "playerInfo/cortana_hulue2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 44,
@@ -797,7 +798,7 @@
               "sizeType": 0,
               "tag": 502,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 750,
               "x": 0,
@@ -865,7 +866,7 @@
                   "sizeType": 0,
                   "tag": 16593,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 125,
                   "x": 20,
@@ -915,7 +916,7 @@
                   "sizeType": 0,
                   "tag": 16594,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 175,
                   "x": 45,
@@ -965,7 +966,7 @@
                   "sizeType": 0,
                   "tag": 16595,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 20,
@@ -1015,7 +1016,7 @@
                   "sizeType": 0,
                   "tag": 17479,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 80,
                   "x": 550,
@@ -1037,13 +1038,13 @@
                   "normalData": {
                     "path": "playerInfo/cortana_hulue1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "playerInfo/cortana_hulue2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 44,
@@ -1102,7 +1103,7 @@
               "sizeType": 0,
               "tag": 498,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 750,
               "x": -109,
@@ -1170,7 +1171,7 @@
                   "sizeType": 0,
                   "tag": 16604,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 100,
                   "x": 20,
@@ -1220,7 +1221,7 @@
                   "sizeType": 0,
                   "tag": 16605,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 525,
                   "x": 20,
@@ -1270,7 +1271,7 @@
                   "sizeType": 0,
                   "tag": 16606,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 20,
@@ -1320,7 +1321,7 @@
                   "sizeType": 0,
                   "tag": 16607,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 690,
                   "x": 366,
@@ -1333,7 +1334,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_hentiao.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
@@ -1378,7 +1379,7 @@
                       "sizeType": 0,
                       "tag": 17470,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 90,
                       "x": 0,
@@ -1391,7 +1392,7 @@
                       "fileNameData": {
                         "path": "diamonds.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 73,
@@ -1480,7 +1481,7 @@
                   "sizeType": 0,
                   "tag": 17469,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 70,
                   "x": 80,
@@ -1493,7 +1494,7 @@
                   "fileNameData": {
                     "path": "msg_award_bg.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 68,
@@ -1538,7 +1539,7 @@
                       "sizeType": 0,
                       "tag": 17473,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 70,
                       "x": 0,
@@ -1551,7 +1552,7 @@
                       "fileNameData": {
                         "path": "coins.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 70,
@@ -1640,7 +1641,7 @@
                   "sizeType": 0,
                   "tag": 17472,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 70,
                   "x": 200,
@@ -1653,7 +1654,7 @@
                   "fileNameData": {
                     "path": "msg_award_bg.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 68,
@@ -1698,7 +1699,7 @@
                       "sizeType": 0,
                       "tag": 17476,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 74,
                       "x": 0,
@@ -1711,7 +1712,7 @@
                       "fileNameData": {
                         "path": "tickets.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 85,
@@ -1800,7 +1801,7 @@
                   "sizeType": 0,
                   "tag": 17475,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 70,
                   "x": 320,
@@ -1813,7 +1814,7 @@
                   "fileNameData": {
                     "path": "msg_award_bg.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 68,
@@ -1854,7 +1855,7 @@
                   "sizeType": 0,
                   "tag": 17478,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 140,
                   "x": 650,
@@ -1876,13 +1877,13 @@
                   "normalData": {
                     "path": "button_green1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "button_green2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 63,
@@ -1941,7 +1942,7 @@
               "sizeType": 0,
               "tag": 16597,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 750,
               "x": 0,
@@ -2022,7 +2023,7 @@
               "sizeType": 0,
               "tag": 499,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 750,
               "x": -109,
@@ -2090,7 +2091,7 @@
                   "sizeType": 0,
                   "tag": 515,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 325,
                   "x": 20,
@@ -2140,7 +2141,7 @@
                   "sizeType": 0,
                   "tag": 517,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 20,
@@ -2190,7 +2191,7 @@
                   "sizeType": 0,
                   "tag": 519,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 80,
                   "x": 550,
@@ -2212,13 +2213,13 @@
                   "normalData": {
                     "path": "playerInfo/cortana_hulue1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "playerInfo/cortana_hulue2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 44,
@@ -2263,7 +2264,7 @@
                   "sizeType": 0,
                   "tag": 518,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 80,
                   "x": 670,
@@ -2285,13 +2286,13 @@
                   "normalData": {
                     "path": "playerInfo/cortana_ok1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "playerInfo/cortana_ok2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 44,
@@ -2336,7 +2337,7 @@
                   "sizeType": 0,
                   "tag": 648,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 690,
                   "x": 366,
@@ -2349,7 +2350,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_hentiao.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
@@ -2404,7 +2405,7 @@
               "sizeType": 0,
               "tag": 500,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 750,
               "x": 0,
@@ -2472,7 +2473,7 @@
                   "sizeType": 0,
                   "tag": 648,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 690,
                   "x": 365,
@@ -2485,7 +2486,7 @@
                   "fileNameData": {
                     "path": "playerInfo/sociality_hentiao.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
@@ -2526,7 +2527,7 @@
                   "sizeType": 0,
                   "tag": 518,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 80,
                   "x": 670,
@@ -2548,13 +2549,13 @@
                   "normalData": {
                     "path": "playerInfo/cortana_ok1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "playerInfo/cortana_ok2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 44,
@@ -2599,7 +2600,7 @@
                   "sizeType": 0,
                   "tag": 519,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 80,
                   "x": 550,
@@ -2621,13 +2622,13 @@
                   "normalData": {
                     "path": "playerInfo/cortana_hulue1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "playerInfo/cortana_hulue2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 44,
@@ -2672,7 +2673,7 @@
                   "sizeType": 0,
                   "tag": 517,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 19,
@@ -2722,7 +2723,7 @@
                   "sizeType": 0,
                   "tag": 515,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 300,
                   "x": 19,
@@ -2786,7 +2787,7 @@
               "sizeType": 0,
               "tag": 501,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 750,
               "x": 0,
@@ -2854,7 +2855,7 @@
           },
           "opacity": 255,
           "positionPercentX": 0.110416666,
-          "positionPercentY": 0.0734375,
+          "positionPercentY": 0.071875,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -2864,7 +2865,7 @@
           "sizeType": 0,
           "tag": 497,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": false,
           "width": 750,
           "x": 106,
@@ -2929,7 +2930,7 @@
       "sizeType": 0,
       "tag": 494,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

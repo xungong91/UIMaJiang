@@ -19,7 +19,8 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist"
+    "UIMajiang9.plist",
+    "UIMajiang10.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -72,7 +73,7 @@
                       "sizeType": 0,
                       "tag": 32547,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 141,
                       "x": 0,
@@ -85,7 +86,7 @@
                       "fileNameData": {
                         "path": "edit/title_editXiaofei.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 36,
@@ -123,7 +124,7 @@
                   "sizeType": 0,
                   "tag": 2208,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 620,
                   "x": 477,
@@ -136,7 +137,7 @@
                   "fileNameData": {
                     "path": "edit/bg.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": true,
                   "scale9Height": 500,
@@ -177,7 +178,7 @@
                   "sizeType": 0,
                   "tag": 10947,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 95,
                   "x": 408,
@@ -231,7 +232,7 @@
                       "sizeType": 0,
                       "tag": 32548,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 90,
                       "x": 0,
@@ -244,7 +245,7 @@
                       "fileNameData": {
                         "path": "reg/reg_quxiao.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 54,
@@ -282,7 +283,7 @@
                   "sizeType": 0,
                   "tag": 2213,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 157,
                   "x": 337,
@@ -304,13 +305,13 @@
                   "normalData": {
                     "path": "button_gree1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "button_gree2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 67,
@@ -359,7 +360,7 @@
                       "sizeType": 0,
                       "tag": 32549,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 90,
                       "x": 0,
@@ -372,7 +373,7 @@
                       "fileNameData": {
                         "path": "reg/reg_queding.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 54,
@@ -410,7 +411,7 @@
                   "sizeType": 0,
                   "tag": 2214,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 157,
                   "x": 598,
@@ -432,13 +433,13 @@
                   "normalData": {
                     "path": "button_gree1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "button_gree2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 67,
@@ -483,7 +484,7 @@
                   "sizeType": 0,
                   "tag": 32553,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 304,
@@ -530,7 +531,7 @@
                   "sizeType": 0,
                   "tag": 32554,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 304,
@@ -577,7 +578,7 @@
                   "sizeType": 0,
                   "tag": 32555,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 99,
                   "x": 296,
@@ -621,7 +622,7 @@
               "sizeType": 0,
               "tag": 2199,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 960,
               "x": -479,
@@ -693,7 +694,7 @@
                       "sizeType": 0,
                       "tag": 32558,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 141,
                       "x": 0,
@@ -706,7 +707,7 @@
                       "fileNameData": {
                         "path": "edit/title_setxiaofei.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 37,
@@ -744,7 +745,7 @@
                   "sizeType": 0,
                   "tag": 32557,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 620,
                   "x": 477,
@@ -757,7 +758,7 @@
                   "fileNameData": {
                     "path": "edit/bg.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": true,
                   "scale9Height": 400,
@@ -798,7 +799,7 @@
                   "sizeType": 0,
                   "tag": 32559,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 95,
                   "x": 420,
@@ -852,7 +853,7 @@
                       "sizeType": 0,
                       "tag": 32561,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 90,
                       "x": 0,
@@ -865,7 +866,7 @@
                       "fileNameData": {
                         "path": "reg/reg_quxiao.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 54,
@@ -903,7 +904,7 @@
                   "sizeType": 0,
                   "tag": 32560,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 157,
                   "x": 329,
@@ -925,13 +926,13 @@
                   "normalData": {
                     "path": "button_gree1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "button_gree2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 67,
@@ -980,7 +981,7 @@
                       "sizeType": 0,
                       "tag": 32563,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 90,
                       "x": 0,
@@ -993,7 +994,7 @@
                       "fileNameData": {
                         "path": "reg/reg_queding.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 54,
@@ -1031,7 +1032,7 @@
                   "sizeType": 0,
                   "tag": 32562,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 157,
                   "x": 624,
@@ -1053,13 +1054,13 @@
                   "normalData": {
                     "path": "button_gree1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "button_gree2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 67,
@@ -1104,7 +1105,7 @@
                   "sizeType": 0,
                   "tag": 32565,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 304,
@@ -1151,7 +1152,7 @@
                   "sizeType": 0,
                   "tag": 32566,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 99,
                   "x": 296,
@@ -1195,7 +1196,7 @@
               "sizeType": 0,
               "tag": 32556,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 960,
               "x": -478,
@@ -1267,7 +1268,7 @@
                       "sizeType": 0,
                       "tag": 32569,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 99,
                       "x": -1,
@@ -1280,7 +1281,7 @@
                       "fileNameData": {
                         "path": "edit/title_email.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 36,
@@ -1318,7 +1319,7 @@
                   "sizeType": 0,
                   "tag": 32568,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 620,
                   "x": 477,
@@ -1331,7 +1332,7 @@
                   "fileNameData": {
                     "path": "edit/bg.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": true,
                   "scale9Height": 300,
@@ -1372,7 +1373,7 @@
                   "sizeType": 0,
                   "tag": 32570,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 95,
                   "x": 354,
@@ -1426,7 +1427,7 @@
                       "sizeType": 0,
                       "tag": 32572,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 90,
                       "x": 0,
@@ -1439,7 +1440,7 @@
                       "fileNameData": {
                         "path": "reg/reg_quxiao.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 54,
@@ -1477,7 +1478,7 @@
                   "sizeType": 0,
                   "tag": 32571,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 157,
                   "x": 341,
@@ -1499,13 +1500,13 @@
                   "normalData": {
                     "path": "button_gree1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "button_gree2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 67,
@@ -1554,7 +1555,7 @@
                       "sizeType": 0,
                       "tag": 32574,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 90,
                       "x": 0,
@@ -1567,7 +1568,7 @@
                       "fileNameData": {
                         "path": "reg/reg_queding.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 54,
@@ -1605,7 +1606,7 @@
                   "sizeType": 0,
                   "tag": 32573,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 157,
                   "x": 564,
@@ -1627,13 +1628,13 @@
                   "normalData": {
                     "path": "button_gree1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
                     "path": "button_gree2.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 67,
@@ -1678,7 +1679,7 @@
                   "sizeType": 0,
                   "tag": 32575,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 76,
                   "x": 300,
@@ -1722,7 +1723,7 @@
               "sizeType": 0,
               "tag": 32567,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 960,
               "x": -478,
@@ -1790,7 +1791,7 @@
                   "sizeType": 0,
                   "tag": 10426,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 39,
                   "x": 169,
@@ -1803,7 +1804,7 @@
                   "fileNameData": {
                     "path": "userInfo/info_editHead.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 152,
@@ -1848,7 +1849,7 @@
                       "sizeType": 0,
                       "tag": 10429,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 218,
                       "x": 0,
@@ -1861,7 +1862,7 @@
                       "fileNameData": {
                         "path": "head/head_0_0.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 218,
@@ -1899,7 +1900,7 @@
                   "sizeType": 0,
                   "tag": 10428,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 218,
                   "x": 342,
@@ -1912,7 +1913,7 @@
                   "fileNameData": {
                     "path": "userInfo/head_bg1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 218,
@@ -1957,7 +1958,7 @@
                       "sizeType": 0,
                       "tag": 10437,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 218,
                       "x": 0,
@@ -1970,7 +1971,7 @@
                       "fileNameData": {
                         "path": "head/head_0_1.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 218,
@@ -2008,7 +2009,7 @@
                   "sizeType": 0,
                   "tag": 10436,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 218,
                   "x": 549,
@@ -2021,7 +2022,7 @@
                   "fileNameData": {
                     "path": "userInfo/head_bg1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 218,
@@ -2066,7 +2067,7 @@
                       "sizeType": 0,
                       "tag": 10439,
                       "touchAble": false,
-                      "useMergedTexture": false,
+                      "useMergedTexture": true,
                       "visible": true,
                       "width": 218,
                       "x": 0,
@@ -2079,7 +2080,7 @@
                       "fileNameData": {
                         "path": "head/head_0_2.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 1
                       },
                       "scale9Enable": false,
                       "scale9Height": 218,
@@ -2117,7 +2118,7 @@
                   "sizeType": 0,
                   "tag": 10438,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 218,
                   "x": 761,
@@ -2130,7 +2131,7 @@
                   "fileNameData": {
                     "path": "userInfo/head_bg1.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 218,
@@ -2171,7 +2172,7 @@
                   "sizeType": 0,
                   "tag": 10440,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 31,
                   "x": 979,
@@ -2184,7 +2185,7 @@
                   "fileNameData": {
                     "path": "reg/reg_right.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 30,
@@ -2222,7 +2223,7 @@
               "sizeType": 0,
               "tag": 10425,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": false,
               "width": 960,
               "x": -479,
@@ -2289,8 +2290,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.499479175,
-          "positionPercentY": 0.499218762,
+          "positionPercentX": 0.498958319,
+          "positionPercentY": 0.9984375,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -2300,7 +2301,7 @@
           "sizeType": 0,
           "tag": 6042,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 1,
           "x": 479,
@@ -2361,7 +2362,7 @@
       "sizeType": 0,
       "tag": 2198,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

@@ -1302,7 +1302,7 @@
             "options": {
               "__type": "PanelSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "Panel",
-              "name": "Panel_Exchange",
+              "name": "Panel_Pay",
               "ZOrder": 2,
               "actiontag": 57090,
               "anchorPointX": 0,
@@ -2020,7 +2020,7 @@
             "options": {
               "__type": "PanelSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "Panel",
-              "name": "Panel_Pay",
+              "name": "Panel_Exchange",
               "ZOrder": 2,
               "actiontag": 57100,
               "anchorPointX": 0,

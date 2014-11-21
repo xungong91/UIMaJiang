@@ -138,8 +138,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.1234375,
-          "positionPercentY": 0.35546875,
+          "positionPercentX": 0.122916669,
+          "positionPercentY": 0.5,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -1439,8 +1439,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.499479175,
-          "positionPercentY": 0.499218762,
+          "positionPercentX": 0.498958319,
+          "positionPercentY": 0.9984375,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -2560,7 +2560,7 @@
           },
           "opacity": 255,
           "positionPercentX": 0,
-          "positionPercentY": 0.9984375,
+          "positionPercentY": 0,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -2773,7 +2773,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 17,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2783,14 +2783,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 0.2278481,
-                  "sizePercentY": 0.193548381,
+                  "sizePercentX": 0.215189874,
+                  "sizePercentY": 0.1827957,
                   "sizeType": 0,
                   "tag": 2356,
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": false,
-                  "width": 17,
+                  "width": 80,
                   "x": 30,
                   "y": 30,
                   "capInsetsHeight": 1,
@@ -2799,13 +2799,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/notify_red.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 17,
-                  "scale9Width": 17
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               }
             ],
@@ -2974,7 +2974,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 17,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2984,14 +2984,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 0.2535211,
-                  "sizePercentY": 0.1978022,
+                  "sizePercentX": 0.239436626,
+                  "sizePercentY": 0.186813191,
                   "sizeType": 0,
                   "tag": 2355,
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": false,
-                  "width": 17,
+                  "width": 80,
                   "x": 29,
                   "y": 30,
                   "capInsetsHeight": 1,
@@ -3000,13 +3000,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/notify_red.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 17,
-                  "scale9Width": 17
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               }
             ],
@@ -3189,7 +3189,7 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.998958349,
+          "positionPercentX": 0,
           "positionPercentY": 0.9984375,
           "positionType": 0,
           "rotation": 0,

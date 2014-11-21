@@ -175,6 +175,25 @@
 				<key>offsetY</key>
 				<real>84.5</real>
 			</dict>
+			<key>fonts/newFnt.png</key>
+			<dict>
+				<key>width</key>
+				<integer>95</integer>
+				<key>height</key>
+				<integer>29</integer>
+				<key>originalWidth</key>
+				<integer>256</integer>
+				<key>originalHeight</key>
+				<integer>256</integer>
+				<key>x</key>
+				<integer>1537</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>-80.5</real>
+				<key>offsetY</key>
+				<real>113.5</real>
+			</dict>
 			<key>head/head_0_0.png</key>
 			<dict>
 				<key>width</key>
@@ -186,7 +205,7 @@
 				<key>originalHeight</key>
 				<integer>218</integer>
 				<key>x</key>
-				<integer>1537</integer>
+				<integer>1634</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -205,7 +224,7 @@
 				<key>originalHeight</key>
 				<integer>218</integer>
 				<key>x</key>
-				<integer>1715</integer>
+				<integer>1812</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

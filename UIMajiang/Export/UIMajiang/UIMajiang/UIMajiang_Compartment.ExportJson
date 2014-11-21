@@ -54,7 +54,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 17,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -64,14 +64,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 18,
-                  "sizePercentY": 18,
+                  "sizePercentX": 17,
+                  "sizePercentY": 17,
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": false,
-                  "width": 17,
+                  "width": 80,
                   "x": 673,
                   "y": 616,
                   "capInsetsHeight": 0,
@@ -80,13 +80,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/notify_red.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 17,
-                  "scale9Width": 17
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               },
               {
@@ -108,7 +108,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 17,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -118,14 +118,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 18,
-                  "sizePercentY": 18,
+                  "sizePercentX": 17,
+                  "sizePercentY": 17,
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": false,
-                  "width": 17,
+                  "width": 80,
                   "x": 524,
                   "y": 616,
                   "capInsetsHeight": 0,
@@ -134,13 +134,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/notify_red.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 17,
-                  "scale9Width": 17
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               },
               {
@@ -162,7 +162,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 17,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -172,14 +172,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 18,
-                  "sizePercentY": 18,
+                  "sizePercentX": 17,
+                  "sizePercentY": 17,
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": false,
-                  "width": 17,
+                  "width": 80,
                   "x": 374,
                   "y": 616,
                   "capInsetsHeight": 0,
@@ -188,13 +188,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/notify_red.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 17,
-                  "scale9Width": 17
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               },
               {
@@ -216,7 +216,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 17,
+                  "height": 80,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -226,14 +226,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 18,
-                  "sizePercentY": 18,
+                  "sizePercentX": 17,
+                  "sizePercentY": 17,
                   "sizeType": 0,
                   "tag": 569,
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": false,
-                  "width": 17,
+                  "width": 80,
                   "x": 793,
                   "y": 546,
                   "capInsetsHeight": 0,
@@ -242,13 +242,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "playerInfo/notify_red.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 17,
-                  "scale9Width": 17
+                  "scale9Height": 80,
+                  "scale9Width": 80
                 }
               }
             ],
@@ -4655,8 +4655,8 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.5,
-              "positionPercentY": -56.5,
+              "positionPercentX": 0,
+              "positionPercentY": 33,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1.1,
@@ -4745,8 +4745,8 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.5,
-              "positionPercentY": -56.5,
+              "positionPercentX": 0,
+              "positionPercentY": 33,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1.1,

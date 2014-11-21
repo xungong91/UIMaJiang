@@ -711,7 +711,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 11,
+                      "height": 33,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -728,17 +728,17 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 80,
+                      "width": 130,
                       "x": 730,
                       "y": 35,
                       "charMapFile": null,
                       "charMapFileData": {
-                        "path": "userInfo/menu_gold_num.png",
+                        "path": "playerInfo/sociality_biggold.png",
                         "plistFile": "",
                         "resourceType": 0
                       },
-                      "itemHeight": 11,
-                      "itemWidth": 8,
+                      "itemHeight": 33,
+                      "itemWidth": 13,
                       "startCharMap": "0",
                       "stringValue": "0123456789"
                     }

@@ -112,4 +112,8 @@
     <Project>UIMajiang_MjLife</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Rank</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

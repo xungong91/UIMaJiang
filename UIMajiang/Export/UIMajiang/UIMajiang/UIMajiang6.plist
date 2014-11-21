@@ -1033,13 +1033,13 @@
 			<key>playerInfo/sociality_yiyaoqian.png</key>
 			<dict>
 				<key>width</key>
-				<integer>102</integer>
+				<integer>105</integer>
 				<key>height</key>
-				<integer>45</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>102</integer>
+				<integer>105</integer>
 				<key>originalHeight</key>
-				<integer>45</integer>
+				<integer>51</integer>
 				<key>x</key>
 				<integer>1198</integer>
 				<key>y</key>
@@ -1052,15 +1052,15 @@
 			<key>playerInfo/sociality_yizengsong.png</key>
 			<dict>
 				<key>width</key>
-				<integer>102</integer>
+				<integer>105</integer>
 				<key>height</key>
-				<integer>45</integer>
+				<integer>51</integer>
 				<key>originalWidth</key>
-				<integer>102</integer>
+				<integer>105</integer>
 				<key>originalHeight</key>
-				<integer>45</integer>
+				<integer>51</integer>
 				<key>x</key>
-				<integer>1302</integer>
+				<integer>1305</integer>
 				<key>y</key>
 				<integer>769</integer>
 				<key>offsetX</key>
@@ -1079,7 +1079,7 @@
 				<key>originalHeight</key>
 				<integer>29</integer>
 				<key>x</key>
-				<integer>1406</integer>
+				<integer>1412</integer>
 				<key>y</key>
 				<integer>769</integer>
 				<key>offsetX</key>
@@ -1098,7 +1098,7 @@
 				<key>originalHeight</key>
 				<integer>250</integer>
 				<key>x</key>
-				<integer>1687</integer>
+				<integer>1693</integer>
 				<key>y</key>
 				<integer>769</integer>
 				<key>offsetX</key>
@@ -1117,7 +1117,7 @@
 				<key>originalHeight</key>
 				<integer>71</integer>
 				<key>x</key>
-				<integer>1945</integer>
+				<integer>1951</integer>
 				<key>y</key>
 				<integer>769</integer>
 				<key>offsetX</key>
@@ -1136,7 +1136,7 @@
 				<key>originalHeight</key>
 				<integer>71</integer>
 				<key>x</key>
-				<integer>1991</integer>
+				<integer>1997</integer>
 				<key>y</key>
 				<integer>769</integer>
 				<key>offsetX</key>

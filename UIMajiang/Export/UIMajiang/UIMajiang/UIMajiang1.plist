@@ -650,25 +650,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/notify_red.png</key>
-			<dict>
-				<key>width</key>
-				<integer>17</integer>
-				<key>height</key>
-				<integer>17</integer>
-				<key>originalWidth</key>
-				<integer>17</integer>
-				<key>originalHeight</key>
-				<integer>17</integer>
-				<key>x</key>
-				<integer>857</integer>
-				<key>y</key>
-				<integer>1004</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>playerInfo/shezhi_anniu3.png</key>
 			<dict>
 				<key>width</key>
@@ -680,7 +661,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>876</integer>
+				<integer>857</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -699,7 +680,7 @@
 				<key>originalHeight</key>
 				<integer>4</integer>
 				<key>x</key>
-				<integer>1188</integer>
+				<integer>1169</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -718,7 +699,7 @@
 				<key>originalHeight</key>
 				<integer>17</integer>
 				<key>x</key>
-				<integer>1200</integer>
+				<integer>1181</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -737,7 +718,7 @@
 				<key>originalHeight</key>
 				<integer>18</integer>
 				<key>x</key>
-				<integer>1241</integer>
+				<integer>1222</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -756,7 +737,7 @@
 				<key>originalHeight</key>
 				<integer>18</integer>
 				<key>x</key>
-				<integer>1283</integer>
+				<integer>1264</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -775,7 +756,7 @@
 				<key>originalHeight</key>
 				<integer>18</integer>
 				<key>x</key>
-				<integer>1367</integer>
+				<integer>1348</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>

@@ -19,7 +19,8 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist"
+    "UIMajiang9.plist",
+    "UIMajiang10.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -124,7 +125,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 44,
+                  "height": 45,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -141,7 +142,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 107,
+                  "width": 96,
                   "x": 0,
                   "y": 250,
                   "capInsetsHeight": 1,
@@ -150,13 +151,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "reg/title_rank.png",
+                    "path": "reg/title_reg.png",
                     "plistFile": "",
                     "resourceType": 1
                   },
                   "scale9Enable": false,
-                  "scale9Height": 44,
-                  "scale9Width": 107
+                  "scale9Height": 45,
+                  "scale9Width": 96
                 }
               }
             ],

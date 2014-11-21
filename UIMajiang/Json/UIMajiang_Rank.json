@@ -504,7 +504,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 21,
+              "height": 80,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -514,14 +514,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.05950841,
-              "sizePercentY": 0.0373001769,
+              "sizePercentX": 0.103492886,
+              "sizePercentY": 0.142095909,
               "sizeType": 0,
               "tag": 37381,
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 46,
+              "width": 80,
               "x": 67,
               "y": 520,
               "capInsetsHeight": 0,
@@ -530,13 +530,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "playerInfo/sociality_paiming.png",
+                "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 2
               },
               "scale9Enable": false,
-              "scale9Height": 21,
-              "scale9Width": 46
+              "scale9Height": 80,
+              "scale9Width": 80
             }
           },
           {
@@ -558,7 +558,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 21,
+              "height": 80,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -568,14 +568,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.0582147464,
-              "sizePercentY": 0.0373001769,
+              "sizePercentX": 0.103492886,
+              "sizePercentY": 0.142095909,
               "sizeType": 0,
               "tag": 37382,
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 45,
+              "width": 80,
               "x": 193,
               "y": 520,
               "capInsetsHeight": 0,
@@ -584,13 +584,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "playerInfo/sociality_name.png",
+                "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 2
               },
               "scale9Enable": false,
-              "scale9Height": 21,
-              "scale9Width": 45
+              "scale9Height": 80,
+              "scale9Width": 80
             }
           },
           {
@@ -612,7 +612,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 21,
+              "height": 80,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -622,14 +622,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.08796895,
-              "sizePercentY": 0.0373001769,
+              "sizePercentX": 0.103492886,
+              "sizePercentY": 0.142095909,
               "sizeType": 0,
               "tag": 37383,
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 68,
+              "width": 80,
               "x": 330,
               "y": 520,
               "capInsetsHeight": 0,
@@ -638,13 +638,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "playerInfo/sociality_address.png",
+                "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 2
               },
               "scale9Enable": false,
-              "scale9Height": 21,
-              "scale9Width": 68
+              "scale9Height": 80,
+              "scale9Width": 80
             }
           },
           {
@@ -666,7 +666,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 21,
+              "height": 80,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -676,14 +676,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.0582147464,
-              "sizePercentY": 0.0373001769,
+              "sizePercentX": 0.103492886,
+              "sizePercentY": 0.142095909,
               "sizeType": 0,
               "tag": 37384,
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 45,
+              "width": 80,
               "x": 450,
               "y": 520,
               "capInsetsHeight": 0,
@@ -692,13 +692,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "playerInfo/sociality_winning.png",
+                "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 2
               },
               "scale9Enable": false,
-              "scale9Height": 21,
-              "scale9Width": 45
+              "scale9Height": 80,
+              "scale9Width": 80
             }
           },
           {
@@ -720,7 +720,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 21,
+              "height": 80,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -730,14 +730,14 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.0582147464,
-              "sizePercentY": 0.0373001769,
+              "sizePercentX": 0.103492886,
+              "sizePercentY": 0.142095909,
               "sizeType": 0,
               "tag": 37385,
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 45,
+              "width": 80,
               "x": 560,
               "y": 520,
               "capInsetsHeight": 0,
@@ -746,13 +746,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "playerInfo/sociality_caifu.png",
+                "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 2
               },
               "scale9Enable": false,
-              "scale9Height": 21,
-              "scale9Width": 45
+              "scale9Height": 80,
+              "scale9Width": 80
             }
           }
         ],

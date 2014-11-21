@@ -653,13 +653,13 @@
 			<key>playerInfo/notify_red.png</key>
 			<dict>
 				<key>width</key>
-				<integer>18</integer>
+				<integer>17</integer>
 				<key>height</key>
-				<integer>18</integer>
+				<integer>17</integer>
 				<key>originalWidth</key>
-				<integer>18</integer>
+				<integer>17</integer>
 				<key>originalHeight</key>
-				<integer>18</integer>
+				<integer>17</integer>
 				<key>x</key>
 				<integer>857</integer>
 				<key>y</key>
@@ -680,7 +680,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>877</integer>
+				<integer>876</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -699,7 +699,7 @@
 				<key>originalHeight</key>
 				<integer>4</integer>
 				<key>x</key>
-				<integer>1189</integer>
+				<integer>1188</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -718,7 +718,7 @@
 				<key>originalHeight</key>
 				<integer>17</integer>
 				<key>x</key>
-				<integer>1201</integer>
+				<integer>1200</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -737,7 +737,7 @@
 				<key>originalHeight</key>
 				<integer>18</integer>
 				<key>x</key>
-				<integer>1242</integer>
+				<integer>1241</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -756,7 +756,7 @@
 				<key>originalHeight</key>
 				<integer>18</integer>
 				<key>x</key>
-				<integer>1284</integer>
+				<integer>1283</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>
@@ -775,7 +775,7 @@
 				<key>originalHeight</key>
 				<integer>18</integer>
 				<key>x</key>
-				<integer>1368</integer>
+				<integer>1367</integer>
 				<key>y</key>
 				<integer>1004</integer>
 				<key>offsetX</key>

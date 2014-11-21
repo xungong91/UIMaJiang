@@ -658,7 +658,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 690,
+                  "width": 764,
                   "x": 366,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -673,7 +673,7 @@
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
-                  "scale9Width": 690
+                  "scale9Width": 764
                 }
               },
               {
@@ -1322,7 +1322,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 690,
+                  "width": 764,
                   "x": 366,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -1337,7 +1337,7 @@
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
-                  "scale9Width": 690
+                  "scale9Width": 764
                 }
               },
               {
@@ -2338,7 +2338,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 690,
+                  "width": 764,
                   "x": 366,
                   "y": 0,
                   "capInsetsHeight": 0,
@@ -2353,7 +2353,7 @@
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
-                  "scale9Width": 690
+                  "scale9Width": 764
                 }
               }
             ],
@@ -2474,7 +2474,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 690,
+                  "width": 764,
                   "x": 365,
                   "y": 1,
                   "capInsetsHeight": 0,
@@ -2489,7 +2489,7 @@
                   },
                   "scale9Enable": false,
                   "scale9Height": 2,
-                  "scale9Width": 690
+                  "scale9Width": 764
                 }
               },
               {

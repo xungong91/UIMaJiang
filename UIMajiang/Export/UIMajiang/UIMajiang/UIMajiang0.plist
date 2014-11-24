@@ -748,13 +748,13 @@
 			<key>competition/item_Bg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>286</integer>
+				<integer>256</integer>
 				<key>height</key>
-				<integer>27</integer>
+				<integer>2</integer>
 				<key>originalWidth</key>
-				<integer>286</integer>
+				<integer>276</integer>
 				<key>originalHeight</key>
-				<integer>27</integer>
+				<integer>38</integer>
 				<key>x</key>
 				<integer>1725</integer>
 				<key>y</key>
@@ -762,7 +762,7 @@
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>-18</real>
 			</dict>
 			<key>competition/item_down.png</key>
 			<dict>
@@ -775,7 +775,7 @@
 				<key>originalHeight</key>
 				<integer>13</integer>
 				<key>x</key>
-				<integer>2013</integer>
+				<integer>1983</integer>
 				<key>y</key>
 				<integer>780</integer>
 				<key>offsetX</key>
@@ -794,7 +794,7 @@
 				<key>originalHeight</key>
 				<integer>13</integer>
 				<key>x</key>
-				<integer>2020</integer>
+				<integer>1990</integer>
 				<key>y</key>
 				<integer>780</integer>
 				<key>offsetX</key>
@@ -821,16 +821,16 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>competition/logo.png</key>
+			<key>competition/juesaijinxingzhong.png</key>
 			<dict>
 				<key>width</key>
-				<integer>129</integer>
+				<integer>118</integer>
 				<key>height</key>
-				<integer>21</integer>
+				<integer>34</integer>
 				<key>originalWidth</key>
-				<integer>129</integer>
+				<integer>118</integer>
 				<key>originalHeight</key>
-				<integer>21</integer>
+				<integer>34</integer>
 				<key>x</key>
 				<integer>92</integer>
 				<key>y</key>
@@ -851,7 +851,7 @@
 				<key>originalHeight</key>
 				<integer>126</integer>
 				<key>x</key>
-				<integer>223</integer>
+				<integer>212</integer>
 				<key>y</key>
 				<integer>892</integer>
 				<key>offsetX</key>
@@ -870,7 +870,7 @@
 				<key>originalHeight</key>
 				<integer>125</integer>
 				<key>x</key>
-				<integer>717</integer>
+				<integer>706</integer>
 				<key>y</key>
 				<integer>892</integer>
 				<key>offsetX</key>
@@ -889,7 +889,7 @@
 				<key>originalHeight</key>
 				<integer>126</integer>
 				<key>x</key>
-				<integer>1211</integer>
+				<integer>1200</integer>
 				<key>y</key>
 				<integer>892</integer>
 				<key>offsetX</key>

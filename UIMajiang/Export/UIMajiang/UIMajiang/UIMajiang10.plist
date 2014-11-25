@@ -4,44 +4,6 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>userInfo/menu_bisaiBg.png</key>
-			<dict>
-				<key>width</key>
-				<integer>429</integer>
-				<key>height</key>
-				<integer>120</integer>
-				<key>originalWidth</key>
-				<integer>429</integer>
-				<key>originalHeight</key>
-				<integer>120</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>userInfo/menu_cloud.png</key>
-			<dict>
-				<key>width</key>
-				<integer>844</integer>
-				<key>height</key>
-				<integer>332</integer>
-				<key>originalWidth</key>
-				<integer>844</integer>
-				<key>originalHeight</key>
-				<integer>332</integer>
-				<key>x</key>
-				<integer>431</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>userInfo/menu_laizipi1.png</key>
 			<dict>
 				<key>width</key>
@@ -53,7 +15,7 @@
 				<key>originalHeight</key>
 				<integer>271</integer>
 				<key>x</key>
-				<integer>1277</integer>
+				<integer>0</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -72,26 +34,7 @@
 				<key>originalHeight</key>
 				<integer>271</integer>
 				<key>x</key>
-				<integer>1516</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>userInfo/menu_lottery.png</key>
-			<dict>
-				<key>width</key>
-				<integer>143</integer>
-				<key>height</key>
-				<integer>135</integer>
-				<key>originalWidth</key>
-				<integer>143</integer>
-				<key>originalHeight</key>
-				<integer>135</integer>
-				<key>x</key>
-				<integer>1755</integer>
+				<integer>239</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -110,9 +53,9 @@
 				<key>originalHeight</key>
 				<integer>245</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>478</integer>
 				<key>y</key>
-				<integer>334</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -129,9 +72,9 @@
 				<key>originalHeight</key>
 				<integer>285</integer>
 				<key>x</key>
-				<integer>346</integer>
+				<integer>824</integer>
 				<key>y</key>
-				<integer>334</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -148,13 +91,51 @@
 				<key>originalHeight</key>
 				<integer>285</integer>
 				<key>x</key>
-				<integer>585</integer>
+				<integer>1063</integer>
 				<key>y</key>
-				<integer>334</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
+			</dict>
+			<key>userInfo/move_setpwd2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>113</integer>
+				<key>height</key>
+				<integer>55</integer>
+				<key>originalWidth</key>
+				<integer>113</integer>
+				<key>originalHeight</key>
+				<integer>55</integer>
+				<key>x</key>
+				<integer>1302</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png</key>
+			<dict>
+				<key>width</key>
+				<integer>76</integer>
+				<key>height</key>
+				<integer>79</integer>
+				<key>originalWidth</key>
+				<integer>80</integer>
+				<key>originalHeight</key>
+				<integer>80</integer>
+				<key>x</key>
+				<integer>1417</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>-1</real>
+				<key>offsetY</key>
+				<real>-0.5</real>
 			</dict>
 			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
 			<dict>
@@ -167,9 +148,9 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>824</integer>
+				<integer>1495</integer>
 				<key>y</key>
-				<integer>334</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

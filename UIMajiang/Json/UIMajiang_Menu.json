@@ -2773,12 +2773,12 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 80,
+                  "height": 17,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.379746825,
-                  "positionPercentY": 0.322580636,
+                  "positionPercentX": 0.25316456,
+                  "positionPercentY": 0.268817216,
                   "positionType": 0,
                   "rotation": 0,
                   "scaleX": 1,
@@ -2790,22 +2790,22 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": false,
-                  "width": 80,
-                  "x": 30,
-                  "y": 30,
+                  "width": 17,
+                  "x": 20,
+                  "y": 25,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
                   "capInsetsX": 0,
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
+                    "path": "notify.png",
                     "plistFile": "",
-                    "resourceType": 2
+                    "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 80,
-                  "scale9Width": 80
+                  "scale9Height": 17,
+                  "scale9Width": 17
                 }
               }
             ],
@@ -2974,12 +2974,12 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 80,
+                  "height": 17,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.4084507,
-                  "positionPercentY": 0.32967034,
+                  "positionPercentX": 0.28169015,
+                  "positionPercentY": 0.2747253,
                   "positionType": 0,
                   "rotation": 0,
                   "scaleX": 1,
@@ -2991,22 +2991,22 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": false,
-                  "width": 80,
-                  "x": 29,
-                  "y": 30,
+                  "width": 17,
+                  "x": 20,
+                  "y": 25,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
                   "capInsetsX": 0,
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
+                    "path": "notify.png",
                     "plistFile": "",
-                    "resourceType": 2
+                    "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 80,
-                  "scale9Width": 80
+                  "scale9Height": 17,
+                  "scale9Width": 17
                 }
               }
             ],

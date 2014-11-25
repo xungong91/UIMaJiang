@@ -99,44 +99,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>roomEnded/room_create_fonts.png</key>
-			<dict>
-				<key>width</key>
-				<integer>489</integer>
-				<key>height</key>
-				<integer>66</integer>
-				<key>originalWidth</key>
-				<integer>500</integer>
-				<key>originalHeight</key>
-				<integer>200</integer>
-				<key>x</key>
-				<integer>515</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>-5.5</real>
-				<key>offsetY</key>
-				<real>67</real>
-			</dict>
-			<key>roomEnded/room_enter1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>173</integer>
-				<key>height</key>
-				<integer>53</integer>
-				<key>originalWidth</key>
-				<integer>173</integer>
-				<key>originalHeight</key>
-				<integer>53</integer>
-				<key>x</key>
-				<integer>1006</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>roomEnded/room_enter2.png</key>
 			<dict>
 				<key>width</key>
@@ -148,7 +110,7 @@
 				<key>originalHeight</key>
 				<integer>53</integer>
 				<key>x</key>
-				<integer>1181</integer>
+				<integer>515</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -167,7 +129,7 @@
 				<key>originalHeight</key>
 				<integer>319</integer>
 				<key>x</key>
-				<integer>1356</integer>
+				<integer>690</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -186,7 +148,7 @@
 				<key>originalHeight</key>
 				<integer>33</integer>
 				<key>x</key>
-				<integer>1974</integer>
+				<integer>1308</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

@@ -58,5 +58,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Reg.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_CreateCompartment.json</CurrentUIJson>
 </UIProject>

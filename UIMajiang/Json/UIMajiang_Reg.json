@@ -3620,7 +3620,7 @@
               "capInsetsWidth": 1,
               "capInsetsX": 0,
               "capInsetsY": 0,
-              "clipAble": true,
+              "clipAble": false,
               "colorType": 0,
               "direction": 1,
               "gravity": 0,

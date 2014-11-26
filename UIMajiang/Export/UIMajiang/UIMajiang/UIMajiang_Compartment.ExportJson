@@ -4013,7 +4013,7 @@
                       },
                       "opacity": 255,
                       "positionPercentX": 0,
-                      "positionPercentY": 0.8229167,
+                      "positionPercentY": 0.6666667,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4901,7 +4901,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.5,
+              "positionPercentX": 36,
               "positionPercentY": -279,
               "positionType": 0,
               "rotation": 0,
@@ -4991,7 +4991,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.5,
+              "positionPercentX": 8,
               "positionPercentY": -279,
               "positionType": 0,
               "rotation": 0,

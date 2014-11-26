@@ -696,8 +696,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0.03448276,
-                      "positionPercentY": 0.857142866,
+                      "positionPercentX": 0,
+                      "positionPercentY": 0.824175835,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -1305,8 +1305,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0.03448276,
-                      "positionPercentY": 0.6703297,
+                      "positionPercentX": 0,
+                      "positionPercentY": 0.637362659,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4901,7 +4901,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0,
+              "positionPercentX": 0.5,
               "positionPercentY": 268,
               "positionType": 0,
               "rotation": 0,
@@ -4991,7 +4991,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0,
+              "positionPercentX": 0.5,
               "positionPercentY": 268,
               "positionType": 0,
               "rotation": 0,

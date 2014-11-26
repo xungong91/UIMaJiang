@@ -1125,25 +1125,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/fanshu.png</key>
-			<dict>
-				<key>width</key>
-				<integer>110</integer>
-				<key>height</key>
-				<integer>17</integer>
-				<key>originalWidth</key>
-				<integer>110</integer>
-				<key>originalHeight</key>
-				<integer>17</integer>
-				<key>x</key>
-				<integer>1031</integer>
-				<key>y</key>
-				<integer>1003</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>playerInfo/fanshu1.png</key>
 			<dict>
 				<key>width</key>
@@ -1155,7 +1136,7 @@
 				<key>originalHeight</key>
 				<integer>11</integer>
 				<key>x</key>
-				<integer>1143</integer>
+				<integer>1031</integer>
 				<key>y</key>
 				<integer>1003</integer>
 				<key>offsetX</key>
@@ -1174,7 +1155,7 @@
 				<key>originalHeight</key>
 				<integer>1</integer>
 				<key>x</key>
-				<integer>1244</integer>
+				<integer>1132</integer>
 				<key>y</key>
 				<integer>1003</integer>
 				<key>offsetX</key>
@@ -1193,7 +1174,26 @@
 				<key>originalHeight</key>
 				<integer>3</integer>
 				<key>x</key>
-				<integer>1247</integer>
+				<integer>1135</integer>
+				<key>y</key>
+				<integer>1003</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/game_jibi_num.png</key>
+			<dict>
+				<key>width</key>
+				<integer>98</integer>
+				<key>height</key>
+				<integer>13</integer>
+				<key>originalWidth</key>
+				<integer>100</integer>
+				<key>originalHeight</key>
+				<integer>13</integer>
+				<key>x</key>
+				<integer>1584</integer>
 				<key>y</key>
 				<integer>1003</integer>
 				<key>offsetX</key>

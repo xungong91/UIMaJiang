@@ -1467,6 +1467,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/jinbi.png</key>
+			<dict>
+				<key>width</key>
+				<integer>96</integer>
+				<key>height</key>
+				<integer>11</integer>
+				<key>originalWidth</key>
+				<integer>96</integer>
+				<key>originalHeight</key>
+				<integer>11</integer>
+				<key>x</key>
+				<integer>1765</integer>
+				<key>y</key>
+				<integer>965</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/Kickedout1.png</key>
 			<dict>
 				<key>width</key>
@@ -1478,7 +1497,7 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1765</integer>
+				<integer>1863</integer>
 				<key>y</key>
 				<integer>965</integer>
 				<key>offsetX</key>
@@ -1497,30 +1516,11 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1847</integer>
+				<integer>1945</integer>
 				<key>y</key>
 				<integer>965</integer>
 				<key>offsetX</key>
 				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/laizi_time.png</key>
-			<dict>
-				<key>width</key>
-				<integer>95</integer>
-				<key>height</key>
-				<integer>15</integer>
-				<key>originalWidth</key>
-				<integer>99</integer>
-				<key>originalHeight</key>
-				<integer>15</integer>
-				<key>x</key>
-				<integer>1929</integer>
-				<key>y</key>
-				<integer>965</integer>
-				<key>offsetX</key>
-				<real>-2</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>

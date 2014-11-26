@@ -650,7 +650,7 @@
           "tag": 386,
           "touchAble": false,
           "useMergedTexture": true,
-          "visible": false,
+          "visible": true,
           "width": 960,
           "x": 0,
           "y": 0,
@@ -1907,7 +1907,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "ImageView_BG2",
+              "name": "ImageView_Button",
               "ZOrder": 2,
               "actiontag": 1476,
               "anchorPointX": 0.5,

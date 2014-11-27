@@ -1308,7 +1308,7 @@
               "tag": 432,
               "touchAble": false,
               "useMergedTexture": false,
-              "visible": true,
+              "visible": false,
               "width": 960,
               "x": 0,
               "y": 0,
@@ -1718,7 +1718,7 @@
                       },
                       "opacity": 255,
                       "positionPercentX": 0,
-                      "positionPercentY": 1,
+                      "positionPercentY": 0.8333333,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -2150,7 +2150,7 @@
                       },
                       "opacity": 255,
                       "positionPercentX": 0,
-                      "positionPercentY": 0.8333333,
+                      "positionPercentY": 0.653846145,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -2582,7 +2582,7 @@
                       },
                       "opacity": 255,
                       "positionPercentX": 0,
-                      "positionPercentY": 0.653846145,
+                      "positionPercentY": 0.474358976,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -2846,7 +2846,7 @@
               "tag": 432,
               "touchAble": false,
               "useMergedTexture": false,
-              "visible": false,
+              "visible": true,
               "width": 960,
               "x": 0,
               "y": 0,
@@ -2898,7 +2898,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 80,
+                  "height": 17,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2915,7 +2915,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": false,
-                  "width": 80,
+                  "width": 17,
                   "x": 293,
                   "y": 554,
                   "capInsetsHeight": 0,
@@ -2924,13 +2924,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
+                    "path": "notify.png",
                     "plistFile": "",
-                    "resourceType": 2
+                    "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 80,
-                  "scale9Width": 80
+                  "scale9Height": 17,
+                  "scale9Width": 17
                 }
               },
               {
@@ -2952,7 +2952,7 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 80,
+                  "height": 17,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
@@ -2969,7 +2969,7 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": false,
-                  "width": 80,
+                  "width": 17,
                   "x": 470,
                   "y": 552,
                   "capInsetsHeight": 0,
@@ -2978,13 +2978,13 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
+                    "path": "notify.png",
                     "plistFile": "",
-                    "resourceType": 2
+                    "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 80,
-                  "scale9Width": 80
+                  "scale9Height": 17,
+                  "scale9Width": 17
                 }
               }
             ],
@@ -3019,7 +3019,7 @@
               "tag": 10342,
               "touchAble": false,
               "useMergedTexture": false,
-              "visible": false,
+              "visible": true,
               "width": 1,
               "x": 0,
               "y": 0,

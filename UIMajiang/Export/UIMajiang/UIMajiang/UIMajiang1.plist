@@ -441,6 +441,63 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>options/bg_jiange.png</key>
+			<dict>
+				<key>width</key>
+				<integer>329</integer>
+				<key>height</key>
+				<integer>2</integer>
+				<key>originalWidth</key>
+				<integer>329</integer>
+				<key>originalHeight</key>
+				<integer>2</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>1019</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/fanshuBg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>1</integer>
+				<key>height</key>
+				<integer>1</integer>
+				<key>originalWidth</key>
+				<integer>1</integer>
+				<key>originalHeight</key>
+				<integer>1</integer>
+				<key>x</key>
+				<integer>331</integer>
+				<key>y</key>
+				<integer>1019</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/friend_hengtiao.png</key>
+			<dict>
+				<key>width</key>
+				<integer>447</integer>
+				<key>height</key>
+				<integer>3</integer>
+				<key>originalWidth</key>
+				<integer>447</integer>
+				<key>originalHeight</key>
+				<integer>3</integer>
+				<key>x</key>
+				<integer>334</integer>
+				<key>y</key>
+				<integer>1019</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/jiesuan_fenge.png</key>
 			<dict>
 				<key>width</key>
@@ -452,7 +509,7 @@
 				<key>originalHeight</key>
 				<integer>2</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>783</integer>
 				<key>y</key>
 				<integer>1019</integer>
 				<key>offsetX</key>
@@ -471,7 +528,7 @@
 				<key>originalHeight</key>
 				<integer>2</integer>
 				<key>x</key>
-				<integer>395</integer>
+				<integer>1178</integer>
 				<key>y</key>
 				<integer>1019</integer>
 				<key>offsetX</key>

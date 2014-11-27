@@ -19,8 +19,7 @@
     "UIMajiang6.plist",
     "UIMajiang7.plist",
     "UIMajiang8.plist",
-    "UIMajiang9.plist",
-    "UIMajiang10.plist"
+    "UIMajiang9.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -170,8 +169,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.08020833,
-          "positionPercentY": 0.9109375,
+          "positionPercentX": 0.0807291642,
+          "positionPercentY": 0.9117187,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -242,7 +241,7 @@
           },
           "opacity": 255,
           "positionPercentX": 0.06666667,
-          "positionPercentY": 0.9046875,
+          "positionPercentY": 0.936718762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -610,7 +609,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.123958334,
+              "positionPercentX": 0.020833334,
               "positionPercentY": 0.5,
               "positionType": 0,
               "rotation": 90,
@@ -783,7 +782,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.978125,
+              "positionPercentX": 0.9791667,
               "positionPercentY": 0.5,
               "positionType": 0,
               "rotation": -90,
@@ -957,7 +956,7 @@
               },
               "opacity": 255,
               "positionPercentX": 0.5,
-              "positionPercentY": 0.209375,
+              "positionPercentY": 0.2109375,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -1164,7 +1163,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.123958334,
+              "positionPercentX": 0.020833334,
               "positionPercentY": 0.5,
               "positionType": 0,
               "rotation": -270,
@@ -1290,7 +1289,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.135416672,
+              "positionPercentX": 0.5,
               "positionPercentY": 0.9765625,
               "positionType": 0,
               "rotation": -180,
@@ -1416,7 +1415,7 @@
                 "type": 2
               },
               "opacity": 255,
-              "positionPercentX": 0.876041651,
+              "positionPercentX": 0.9791667,
               "positionPercentY": 0.5,
               "positionType": 0,
               "rotation": -90,
@@ -1543,7 +1542,7 @@
               },
               "opacity": 255,
               "positionPercentX": 0.5,
-              "positionPercentY": 0.0421875,
+              "positionPercentY": 0.2109375,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -3261,8 +3260,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.498958319,
-          "positionPercentY": 0.9984375,
+          "positionPercentX": 0.499479175,
+          "positionPercentY": 0.499218762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,

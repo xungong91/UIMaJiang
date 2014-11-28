@@ -53,7 +53,7 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": 0.167664677,
+              "positionPercentX": 0.179640725,
               "positionPercentY": 0.188034192,
               "positionType": 0,
               "rotation": 0,
@@ -67,7 +67,7 @@
               "useMergedTexture": false,
               "visible": true,
               "width": 93,
-              "x": 28,
+              "x": 30,
               "y": 22,
               "charMapFile": null,
               "charMapFileData": {
@@ -78,7 +78,7 @@
               "itemHeight": 46,
               "itemWidth": 31,
               "startCharMap": "0",
-              "stringValue": "108"
+              "stringValue": "136"
             }
           },
           {

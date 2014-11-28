@@ -1676,16 +1676,16 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/jiesuan_hejiNum.png</key>
+			<key>playerInfo/playerBg1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>195</integer>
+				<integer>254</integer>
 				<key>height</key>
-				<integer>29</integer>
+				<integer>27</integer>
 				<key>originalWidth</key>
-				<integer>195</integer>
+				<integer>254</integer>
 				<key>originalHeight</key>
-				<integer>33</integer>
+				<integer>27</integer>
 				<key>x</key>
 				<integer>1224</integer>
 				<key>y</key>
@@ -1693,20 +1693,20 @@
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>2</real>
+				<real>0</real>
 			</dict>
-			<key>playerInfo/jinbi.png</key>
+			<key>playerInfo/play_bg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>96</integer>
+				<integer>180</integer>
 				<key>height</key>
-				<integer>11</integer>
+				<integer>29</integer>
 				<key>originalWidth</key>
-				<integer>96</integer>
+				<integer>180</integer>
 				<key>originalHeight</key>
-				<integer>11</integer>
+				<integer>29</integer>
 				<key>x</key>
-				<integer>1421</integer>
+				<integer>1480</integer>
 				<key>y</key>
 				<integer>993</integer>
 				<key>offsetX</key>
@@ -1714,22 +1714,41 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/laizi_time.png</key>
+			<key>playerInfo/roomOwner.png</key>
 			<dict>
 				<key>width</key>
-				<integer>96</integer>
+				<integer>16</integer>
 				<key>height</key>
 				<integer>15</integer>
 				<key>originalWidth</key>
-				<integer>99</integer>
+				<integer>16</integer>
 				<key>originalHeight</key>
 				<integer>15</integer>
 				<key>x</key>
-				<integer>1519</integer>
+				<integer>1662</integer>
 				<key>y</key>
 				<integer>993</integer>
 				<key>offsetX</key>
-				<real>-1.5</real>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/room_topNum.png</key>
+			<dict>
+				<key>width</key>
+				<integer>183</integer>
+				<key>height</key>
+				<integer>22</integer>
+				<key>originalWidth</key>
+				<integer>187</integer>
+				<key>originalHeight</key>
+				<integer>22</integer>
+				<key>x</key>
+				<integer>1680</integer>
+				<key>y</key>
+				<integer>993</integer>
+				<key>offsetX</key>
+				<real>-2</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>

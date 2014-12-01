@@ -34,7 +34,7 @@
         "options": {
           "__type": "PanelSurrogate:#EditorCommon.JsonModel.Component.GUI",
           "classname": "Panel",
-          "name": "Panel_gary",
+          "name": "Panel_gray",
           "ZOrder": 0,
           "actiontag": 84737,
           "anchorPointX": 0,
@@ -62,7 +62,7 @@
             "marginLeft": 0,
             "marginRight": 0,
             "marginTop": 0,
-            "relativeName": "Panel_gary",
+            "relativeName": "Panel_gray",
             "relativeToName": "Panel",
             "type": 2
           },

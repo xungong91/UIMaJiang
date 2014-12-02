@@ -79,7 +79,7 @@
           "tag": 636,
           "touchAble": false,
           "useMergedTexture": true,
-          "visible": true,
+          "visible": false,
           "width": 960,
           "x": 0,
           "y": 0,
@@ -1001,7 +1001,7 @@
           "capInsetsX": 0,
           "capInsetsY": 0,
           "clipAble": false,
-          "colorType": 0,
+          "colorType": 1,
           "layoutType": 0,
           "vectorX": 0,
           "vectorY": -0.5
@@ -2174,7 +2174,7 @@
           "capInsetsX": 0,
           "capInsetsY": 0,
           "clipAble": false,
-          "colorType": 0,
+          "colorType": 1,
           "layoutType": 0,
           "vectorX": 0,
           "vectorY": -0.5
@@ -5348,7 +5348,7 @@
           "capInsetsX": 0,
           "capInsetsY": 0,
           "clipAble": false,
-          "colorType": 0,
+          "colorType": 1,
           "layoutType": 0,
           "vectorX": 0,
           "vectorY": -0.5

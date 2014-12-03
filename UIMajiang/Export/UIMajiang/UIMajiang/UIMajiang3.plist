@@ -349,13 +349,13 @@
 			<key>museme/museme_arrow.png</key>
 			<dict>
 				<key>width</key>
-				<integer>93</integer>
+				<integer>67</integer>
 				<key>height</key>
-				<integer>119</integer>
+				<integer>74</integer>
 				<key>originalWidth</key>
-				<integer>93</integer>
+				<integer>67</integer>
 				<key>originalHeight</key>
-				<integer>119</integer>
+				<integer>74</integer>
 				<key>x</key>
 				<integer>1782</integer>
 				<key>y</key>
@@ -368,15 +368,15 @@
 			<key>museme/museme_arrowGreen.png</key>
 			<dict>
 				<key>width</key>
-				<integer>57</integer>
+				<integer>67</integer>
 				<key>height</key>
-				<integer>85</integer>
+				<integer>74</integer>
 				<key>originalWidth</key>
-				<integer>57</integer>
+				<integer>67</integer>
 				<key>originalHeight</key>
-				<integer>85</integer>
+				<integer>74</integer>
 				<key>x</key>
-				<integer>1877</integer>
+				<integer>1851</integer>
 				<key>y</key>
 				<integer>457</integer>
 				<key>offsetX</key>
@@ -387,13 +387,13 @@
 			<key>museme/museme_bg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>492</integer>
+				<integer>489</integer>
 				<key>height</key>
-				<integer>146</integer>
+				<integer>156</integer>
 				<key>originalWidth</key>
-				<integer>492</integer>
+				<integer>489</integer>
 				<key>originalHeight</key>
-				<integer>146</integer>
+				<integer>156</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -414,7 +414,7 @@
 				<key>originalHeight</key>
 				<integer>294</integer>
 				<key>x</key>
-				<integer>494</integer>
+				<integer>491</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -433,7 +433,7 @@
 				<key>originalHeight</key>
 				<integer>303</integer>
 				<key>x</key>
-				<integer>652</integer>
+				<integer>649</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -452,7 +452,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1220</integer>
+				<integer>1217</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -471,7 +471,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1269</integer>
+				<integer>1266</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -490,7 +490,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1318</integer>
+				<integer>1315</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -509,7 +509,26 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>1367</integer>
+				<integer>1364</integer>
+				<key>y</key>
+				<integer>655</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>museme/museme_winGril.png</key>
+			<dict>
+				<key>width</key>
+				<integer>113</integer>
+				<key>height</key>
+				<integer>134</integer>
+				<key>originalWidth</key>
+				<integer>113</integer>
+				<key>originalHeight</key>
+				<integer>134</integer>
+				<key>x</key>
+				<integer>1561</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -528,26 +547,7 @@
 				<key>originalHeight</key>
 				<integer>134</integer>
 				<key>x</key>
-				<integer>1564</integer>
-				<key>y</key>
-				<integer>655</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>museme/tips_gril1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>133</integer>
-				<key>height</key>
-				<integer>183</integer>
-				<key>originalWidth</key>
-				<integer>133</integer>
-				<key>originalHeight</key>
-				<integer>183</integer>
-				<key>x</key>
-				<integer>1886</integer>
+				<integer>1676</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>

@@ -387,13 +387,13 @@
 			<key>museme/museme_bg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>489</integer>
+				<integer>479</integer>
 				<key>height</key>
-				<integer>156</integer>
+				<integer>143</integer>
 				<key>originalWidth</key>
-				<integer>489</integer>
+				<integer>479</integer>
 				<key>originalHeight</key>
-				<integer>156</integer>
+				<integer>143</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -414,7 +414,7 @@
 				<key>originalHeight</key>
 				<integer>294</integer>
 				<key>x</key>
-				<integer>491</integer>
+				<integer>481</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -433,7 +433,7 @@
 				<key>originalHeight</key>
 				<integer>303</integer>
 				<key>x</key>
-				<integer>649</integer>
+				<integer>639</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -452,7 +452,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1217</integer>
+				<integer>1207</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -471,7 +471,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1266</integer>
+				<integer>1256</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -490,7 +490,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1315</integer>
+				<integer>1305</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -509,7 +509,7 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>1364</integer>
+				<integer>1354</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -528,7 +528,7 @@
 				<key>originalHeight</key>
 				<integer>134</integer>
 				<key>x</key>
-				<integer>1561</integer>
+				<integer>1551</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>
@@ -547,7 +547,7 @@
 				<key>originalHeight</key>
 				<integer>134</integer>
 				<key>x</key>
-				<integer>1676</integer>
+				<integer>1666</integer>
 				<key>y</key>
 				<integer>655</integer>
 				<key>offsetX</key>

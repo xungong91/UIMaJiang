@@ -919,13 +919,13 @@
 			<key>playerInfo/auto_cancel1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>107</integer>
+				<integer>104</integer>
 				<key>height</key>
-				<integer>59</integer>
+				<integer>44</integer>
 				<key>originalWidth</key>
-				<integer>107</integer>
+				<integer>104</integer>
 				<key>originalHeight</key>
-				<integer>59</integer>
+				<integer>44</integer>
 				<key>x</key>
 				<integer>1405</integer>
 				<key>y</key>
@@ -938,15 +938,15 @@
 			<key>playerInfo/auto_cancel2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>107</integer>
+				<integer>104</integer>
 				<key>height</key>
-				<integer>59</integer>
+				<integer>44</integer>
 				<key>originalWidth</key>
-				<integer>107</integer>
+				<integer>104</integer>
 				<key>originalHeight</key>
-				<integer>59</integer>
+				<integer>44</integer>
 				<key>x</key>
-				<integer>1514</integer>
+				<integer>1511</integer>
 				<key>y</key>
 				<integer>679</integer>
 				<key>offsetX</key>
@@ -965,7 +965,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1623</integer>
+				<integer>1617</integer>
 				<key>y</key>
 				<integer>679</integer>
 				<key>offsetX</key>
@@ -984,7 +984,7 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1740</integer>
+				<integer>1734</integer>
 				<key>y</key>
 				<integer>679</integer>
 				<key>offsetX</key>
@@ -1003,7 +1003,7 @@
 				<key>originalHeight</key>
 				<integer>38</integer>
 				<key>x</key>
-				<integer>1855</integer>
+				<integer>1849</integer>
 				<key>y</key>
 				<integer>679</integer>
 				<key>offsetX</key>
@@ -1022,7 +1022,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1883</integer>
+				<integer>1877</integer>
 				<key>y</key>
 				<integer>679</integer>
 				<key>offsetX</key>

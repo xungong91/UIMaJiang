@@ -270,25 +270,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>userInfo/menu_gold_num.png</key>
-			<dict>
-				<key>width</key>
-				<integer>80</integer>
-				<key>height</key>
-				<integer>11</integer>
-				<key>originalWidth</key>
-				<integer>80</integer>
-				<key>originalHeight</key>
-				<integer>11</integer>
-				<key>x</key>
-				<integer>454</integer>
-				<key>y</key>
-				<integer>950</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>userInfo/menu_titlebaoFang1.png</key>
 			<dict>
 				<key>width</key>
@@ -300,7 +281,7 @@
 				<key>originalHeight</key>
 				<integer>65</integer>
 				<key>x</key>
-				<integer>536</integer>
+				<integer>454</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -319,7 +300,7 @@
 				<key>originalHeight</key>
 				<integer>65</integer>
 				<key>x</key>
-				<integer>611</integer>
+				<integer>529</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -338,7 +319,7 @@
 				<key>originalHeight</key>
 				<integer>65</integer>
 				<key>x</key>
-				<integer>684</integer>
+				<integer>602</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -357,7 +338,7 @@
 				<key>originalHeight</key>
 				<integer>65</integer>
 				<key>x</key>
-				<integer>759</integer>
+				<integer>677</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -376,7 +357,7 @@
 				<key>originalHeight</key>
 				<integer>43</integer>
 				<key>x</key>
-				<integer>832</integer>
+				<integer>750</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -395,7 +376,7 @@
 				<key>originalHeight</key>
 				<integer>43</integer>
 				<key>x</key>
-				<integer>969</integer>
+				<integer>887</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -414,7 +395,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1104</integer>
+				<integer>1022</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -433,7 +414,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1219</integer>
+				<integer>1137</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -452,7 +433,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1334</integer>
+				<integer>1252</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -471,7 +452,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1449</integer>
+				<integer>1367</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -490,7 +471,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1564</integer>
+				<integer>1482</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -509,7 +490,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1679</integer>
+				<integer>1597</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -528,7 +509,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1794</integer>
+				<integer>1712</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>
@@ -547,7 +528,26 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1909</integer>
+				<integer>1827</integer>
+				<key>y</key>
+				<integer>950</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
+			<dict>
+				<key>width</key>
+				<integer>103</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>103</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1942</integer>
 				<key>y</key>
 				<integer>950</integer>
 				<key>offsetX</key>

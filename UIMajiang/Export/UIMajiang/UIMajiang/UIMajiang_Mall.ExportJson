@@ -514,7 +514,7 @@
                   "capInsetsWidth": 1,
                   "capInsetsX": 0,
                   "capInsetsY": 0,
-                  "clipAble": true,
+                  "clipAble": false,
                   "colorType": 0,
                   "layoutType": 0,
                   "vectorX": 0,

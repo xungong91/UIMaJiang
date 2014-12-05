@@ -495,7 +495,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": false,
-                      "width": 245,
+                      "width": 262,
                       "x": 200,
                       "y": 25,
                       "areaHeight": 0,
@@ -504,7 +504,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 16,
                       "hAlignment": 0,
-                      "text": "格式错误 (4-16)位字母,符号或数字",
+                      "text": "格式错误（4-16）位字母,符号或数字",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -831,7 +831,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": false,
-                      "width": 163,
+                      "width": 185,
                       "x": 200,
                       "y": 25,
                       "areaHeight": 0,
@@ -840,7 +840,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 16,
                       "hAlignment": 0,
-                      "text": "格式错误(2-6)位的汉字",
+                      "text": "格式错误（2-6）位的汉字",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -1294,7 +1294,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": false,
-                      "width": 245,
+                      "width": 262,
                       "x": 200,
                       "y": 25,
                       "areaHeight": 0,
@@ -1303,7 +1303,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 16,
                       "hAlignment": 0,
-                      "text": "格式错误 (4-16)位字母,符号或数字",
+                      "text": "格式错误（4-16）位字母,符号或数字",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -1734,7 +1734,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": false,
-                      "width": 245,
+                      "width": 267,
                       "x": 199,
                       "y": 24,
                       "areaHeight": 0,
@@ -1743,7 +1743,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 16,
                       "hAlignment": 0,
-                      "text": "格式错误 (4-16)位字母,符号或数字",
+                      "text": "格式错误 （4-16）位字母,符号或数字",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }

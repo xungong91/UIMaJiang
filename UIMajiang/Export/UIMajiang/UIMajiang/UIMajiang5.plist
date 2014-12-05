@@ -536,6 +536,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/game_jibi.png</key>
+			<dict>
+				<key>width</key>
+				<integer>49</integer>
+				<key>height</key>
+				<integer>29</integer>
+				<key>originalWidth</key>
+				<integer>49</integer>
+				<key>originalHeight</key>
+				<integer>29</integer>
+				<key>x</key>
+				<integer>1662</integer>
+				<key>y</key>
+				<integer>270</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/game_shieldFriend1.png</key>
 			<dict>
 				<key>width</key>
@@ -547,7 +566,7 @@
 				<key>originalHeight</key>
 				<integer>51</integer>
 				<key>x</key>
-				<integer>1662</integer>
+				<integer>1713</integer>
 				<key>y</key>
 				<integer>270</integer>
 				<key>offsetX</key>
@@ -566,7 +585,7 @@
 				<key>originalHeight</key>
 				<integer>51</integer>
 				<key>x</key>
-				<integer>1770</integer>
+				<integer>1821</integer>
 				<key>y</key>
 				<integer>270</integer>
 				<key>offsetX</key>

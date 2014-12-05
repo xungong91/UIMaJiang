@@ -4923,7 +4923,7 @@
                   "tag": 61412,
                   "touchAble": false,
                   "useMergedTexture": false,
-                  "visible": true,
+                  "visible": false,
                   "width": 148,
                   "x": 750,
                   "y": 185,

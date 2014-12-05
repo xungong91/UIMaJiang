@@ -362,7 +362,7 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.19375,
+          "positionPercentX": 15.56875,
           "positionPercentY": 0.82421875,
           "positionType": 0,
           "rotation": 0,
@@ -375,7 +375,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 0,
+          "width": 29520,
           "x": 303,
           "y": 527,
           "fileNameData": {

@@ -4620,7 +4620,7 @@
                   "capInsetsWidth": 1,
                   "capInsetsX": 0,
                   "capInsetsY": 0,
-                  "clipAble": false,
+                  "clipAble": true,
                   "colorType": 0,
                   "vectorX": 0,
                   "vectorY": -0.5

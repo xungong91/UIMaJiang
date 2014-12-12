@@ -593,6 +593,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/fanshu.png</key>
+			<dict>
+				<key>width</key>
+				<integer>110</integer>
+				<key>height</key>
+				<integer>17</integer>
+				<key>originalWidth</key>
+				<integer>110</integer>
+				<key>originalHeight</key>
+				<integer>17</integer>
+				<key>x</key>
+				<integer>560</integer>
+				<key>y</key>
+				<integer>998</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/fanshu1.png</key>
 			<dict>
 				<key>width</key>
@@ -604,7 +623,7 @@
 				<key>originalHeight</key>
 				<integer>11</integer>
 				<key>x</key>
-				<integer>560</integer>
+				<integer>672</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -623,7 +642,7 @@
 				<key>originalHeight</key>
 				<integer>3</integer>
 				<key>x</key>
-				<integer>661</integer>
+				<integer>773</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -642,7 +661,7 @@
 				<key>originalHeight</key>
 				<integer>13</integer>
 				<key>x</key>
-				<integer>1110</integer>
+				<integer>1222</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -661,7 +680,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>1210</integer>
+				<integer>1322</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -680,7 +699,7 @@
 				<key>originalHeight</key>
 				<integer>20</integer>
 				<key>x</key>
-				<integer>1421</integer>
+				<integer>1533</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -699,7 +718,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>1442</integer>
+				<integer>1554</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>
@@ -718,7 +737,7 @@
 				<key>originalHeight</key>
 				<integer>24</integer>
 				<key>x</key>
-				<integer>1453</integer>
+				<integer>1565</integer>
 				<key>y</key>
 				<integer>998</integer>
 				<key>offsetX</key>

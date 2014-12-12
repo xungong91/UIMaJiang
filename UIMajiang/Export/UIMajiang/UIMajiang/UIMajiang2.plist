@@ -1394,13 +1394,13 @@
 			<key>mall/mall_duijiang1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>66</integer>
+				<integer>65</integer>
 				<key>height</key>
-				<integer>41</integer>
+				<integer>42</integer>
 				<key>originalWidth</key>
-				<integer>66</integer>
+				<integer>65</integer>
 				<key>originalHeight</key>
-				<integer>41</integer>
+				<integer>42</integer>
 				<key>x</key>
 				<integer>1456</integer>
 				<key>y</key>
@@ -1413,15 +1413,15 @@
 			<key>mall/mall_duijiang2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>64</integer>
+				<integer>63</integer>
 				<key>height</key>
-				<integer>39</integer>
+				<integer>40</integer>
 				<key>originalWidth</key>
-				<integer>64</integer>
+				<integer>63</integer>
 				<key>originalHeight</key>
-				<integer>39</integer>
+				<integer>40</integer>
 				<key>x</key>
-				<integer>1524</integer>
+				<integer>1523</integer>
 				<key>y</key>
 				<integer>903</integer>
 				<key>offsetX</key>
@@ -1440,7 +1440,7 @@
 				<key>originalHeight</key>
 				<integer>57</integer>
 				<key>x</key>
-				<integer>1590</integer>
+				<integer>1588</integer>
 				<key>y</key>
 				<integer>903</integer>
 				<key>offsetX</key>
@@ -1459,7 +1459,7 @@
 				<key>originalHeight</key>
 				<integer>87</integer>
 				<key>x</key>
-				<integer>1783</integer>
+				<integer>1781</integer>
 				<key>y</key>
 				<integer>903</integer>
 				<key>offsetX</key>
@@ -1789,6 +1789,44 @@
 				<real>0</real>
 				<key>offsetY</key>
 				<real>2</real>
+			</dict>
+			<key>playerInfo/jinbi.png</key>
+			<dict>
+				<key>width</key>
+				<integer>96</integer>
+				<key>height</key>
+				<integer>11</integer>
+				<key>originalWidth</key>
+				<integer>96</integer>
+				<key>originalHeight</key>
+				<integer>11</integer>
+				<key>x</key>
+				<integer>1682</integer>
+				<key>y</key>
+				<integer>992</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/laizi_time.png</key>
+			<dict>
+				<key>width</key>
+				<integer>96</integer>
+				<key>height</key>
+				<integer>15</integer>
+				<key>originalWidth</key>
+				<integer>99</integer>
+				<key>originalHeight</key>
+				<integer>15</integer>
+				<key>x</key>
+				<integer>1780</integer>
+				<key>y</key>
+				<integer>992</integer>
+				<key>offsetX</key>
+				<real>-1.5</real>
+				<key>offsetY</key>
+				<real>0</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

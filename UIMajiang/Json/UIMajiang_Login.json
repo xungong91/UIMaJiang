@@ -464,7 +464,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 69,
+              "height": 70,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -510,7 +510,7 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 69,
+              "scale9Height": 70,
               "scale9Width": 130,
               "text": "",
               "textColorB": 255,

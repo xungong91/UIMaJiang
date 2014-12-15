@@ -4369,8 +4369,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0,
-                      "positionPercentY": 0,
+                      "positionPercentX": 0.25,
+                      "positionPercentY": 0.5,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4440,8 +4440,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0,
-                      "positionPercentY": 0,
+                      "positionPercentX": 0.75,
+                      "positionPercentY": 0.5,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,

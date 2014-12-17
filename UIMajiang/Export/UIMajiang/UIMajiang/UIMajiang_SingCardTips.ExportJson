@@ -330,7 +330,7 @@
                 "plistFile": "",
                 "resourceType": 1
               },
-              "scale9Enable": true,
+              "scale9Enable": false,
               "scale9Height": 143,
               "scale9Width": 479
             }

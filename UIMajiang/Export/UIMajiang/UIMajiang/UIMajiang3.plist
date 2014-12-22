@@ -973,18 +973,56 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/三角.png</key>
+			<key>playerInfo/friend_hengtiao.png</key>
 			<dict>
 				<key>width</key>
-				<integer>10</integer>
+				<integer>447</integer>
 				<key>height</key>
-				<integer>4</integer>
+				<integer>3</integer>
 				<key>originalWidth</key>
-				<integer>10</integer>
+				<integer>447</integer>
 				<key>originalHeight</key>
-				<integer>4</integer>
+				<integer>3</integer>
 				<key>x</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>1017</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_fenge.png</key>
+			<dict>
+				<key>width</key>
+				<integer>393</integer>
+				<key>height</key>
+				<integer>2</integer>
+				<key>originalWidth</key>
+				<integer>393</integer>
+				<key>originalHeight</key>
+				<integer>2</integer>
+				<key>x</key>
+				<integer>449</integer>
+				<key>y</key>
+				<integer>1017</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/sociality_hentiao.png</key>
+			<dict>
+				<key>width</key>
+				<integer>764</integer>
+				<key>height</key>
+				<integer>2</integer>
+				<key>originalWidth</key>
+				<integer>764</integer>
+				<key>originalHeight</key>
+				<integer>2</integer>
+				<key>x</key>
+				<integer>844</integer>
 				<key>y</key>
 				<integer>1017</integer>
 				<key>offsetX</key>

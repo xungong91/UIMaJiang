@@ -1695,6 +1695,44 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/game_jibi.png</key>
+			<dict>
+				<key>width</key>
+				<integer>49</integer>
+				<key>height</key>
+				<integer>29</integer>
+				<key>originalWidth</key>
+				<integer>49</integer>
+				<key>originalHeight</key>
+				<integer>29</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/game_jibi_num.png</key>
+			<dict>
+				<key>width</key>
+				<integer>98</integer>
+				<key>height</key>
+				<integer>13</integer>
+				<key>originalWidth</key>
+				<integer>100</integer>
+				<key>originalHeight</key>
+				<integer>13</integer>
+				<key>x</key>
+				<integer>51</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/huanggou.png</key>
 			<dict>
 				<key>width</key>
@@ -1706,7 +1744,7 @@
 				<key>originalHeight</key>
 				<integer>34</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>151</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1725,7 +1763,7 @@
 				<key>originalHeight</key>
 				<integer>34</integer>
 				<key>x</key>
-				<integer>35</integer>
+				<integer>186</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1744,7 +1782,7 @@
 				<key>originalHeight</key>
 				<integer>33</integer>
 				<key>x</key>
-				<integer>70</integer>
+				<integer>221</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1763,13 +1801,70 @@
 				<key>originalHeight</key>
 				<integer>33</integer>
 				<key>x</key>
-				<integer>105</integer>
+				<integer>256</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
+			</dict>
+			<key>playerInfo/img_num_gold.png</key>
+			<dict>
+				<key>width</key>
+				<integer>209</integer>
+				<key>height</key>
+				<integer>21</integer>
+				<key>originalWidth</key>
+				<integer>209</integer>
+				<key>originalHeight</key>
+				<integer>21</integer>
+				<key>x</key>
+				<integer>291</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_blueGold.png</key>
+			<dict>
+				<key>width</key>
+				<integer>19</integer>
+				<key>height</key>
+				<integer>20</integer>
+				<key>originalWidth</key>
+				<integer>19</integer>
+				<key>originalHeight</key>
+				<integer>20</integer>
+				<key>x</key>
+				<integer>502</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_blueNum.png</key>
+			<dict>
+				<key>width</key>
+				<integer>195</integer>
+				<key>height</key>
+				<integer>30</integer>
+				<key>originalWidth</key>
+				<integer>195</integer>
+				<key>originalHeight</key>
+				<integer>33</integer>
+				<key>x</key>
+				<integer>523</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>1.5</real>
 			</dict>
 			<key>playerInfo/jiesuan_duijia.png</key>
 			<dict>
@@ -1782,7 +1877,7 @@
 				<key>originalHeight</key>
 				<integer>32</integer>
 				<key>x</key>
-				<integer>140</integer>
+				<integer>720</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1801,7 +1896,121 @@
 				<key>originalHeight</key>
 				<integer>32</integer>
 				<key>x</key>
-				<integer>204</integer>
+				<integer>784</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_flee_dui.png</key>
+			<dict>
+				<key>width</key>
+				<integer>52</integer>
+				<key>height</key>
+				<integer>27</integer>
+				<key>originalWidth</key>
+				<integer>52</integer>
+				<key>originalHeight</key>
+				<integer>27</integer>
+				<key>x</key>
+				<integer>848</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_flee_shang.png</key>
+			<dict>
+				<key>width</key>
+				<integer>51</integer>
+				<key>height</key>
+				<integer>27</integer>
+				<key>originalWidth</key>
+				<integer>51</integer>
+				<key>originalHeight</key>
+				<integer>27</integer>
+				<key>x</key>
+				<integer>902</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_flee_tao.png</key>
+			<dict>
+				<key>width</key>
+				<integer>93</integer>
+				<key>height</key>
+				<integer>27</integer>
+				<key>originalWidth</key>
+				<integer>93</integer>
+				<key>originalHeight</key>
+				<integer>27</integer>
+				<key>x</key>
+				<integer>955</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_flee_wu.png</key>
+			<dict>
+				<key>width</key>
+				<integer>75</integer>
+				<key>height</key>
+				<integer>27</integer>
+				<key>originalWidth</key>
+				<integer>75</integer>
+				<key>originalHeight</key>
+				<integer>27</integer>
+				<key>x</key>
+				<integer>1050</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_flee_xia.png</key>
+			<dict>
+				<key>width</key>
+				<integer>51</integer>
+				<key>height</key>
+				<integer>27</integer>
+				<key>originalWidth</key>
+				<integer>51</integer>
+				<key>originalHeight</key>
+				<integer>27</integer>
+				<key>x</key>
+				<integer>1127</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_han.png</key>
+			<dict>
+				<key>width</key>
+				<integer>9</integer>
+				<key>height</key>
+				<integer>22</integer>
+				<key>originalWidth</key>
+				<integer>9</integer>
+				<key>originalHeight</key>
+				<integer>22</integer>
+				<key>x</key>
+				<integer>1180</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1820,13 +2029,51 @@
 				<key>originalHeight</key>
 				<integer>34</integer>
 				<key>x</key>
-				<integer>268</integer>
+				<integer>1191</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_hejiGold.png</key>
+			<dict>
+				<key>width</key>
+				<integer>23</integer>
+				<key>height</key>
+				<integer>25</integer>
+				<key>originalWidth</key>
+				<integer>23</integer>
+				<key>originalHeight</key>
+				<integer>25</integer>
+				<key>x</key>
+				<integer>1253</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_hejiNum.png</key>
+			<dict>
+				<key>width</key>
+				<integer>195</integer>
+				<key>height</key>
+				<integer>29</integer>
+				<key>originalWidth</key>
+				<integer>195</integer>
+				<key>originalHeight</key>
+				<integer>33</integer>
+				<key>x</key>
+				<integer>1278</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>2</real>
 			</dict>
 			<key>playerInfo/jiesuan_huode.png</key>
 			<dict>
@@ -1839,7 +2086,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>330</integer>
+				<integer>1475</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1858,7 +2105,26 @@
 				<key>originalHeight</key>
 				<integer>32</integer>
 				<key>x</key>
-				<integer>398</integer>
+				<integer>1543</integer>
+				<key>y</key>
+				<integer>977</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_jixu_num.png</key>
+			<dict>
+				<key>width</key>
+				<integer>252</integer>
+				<key>height</key>
+				<integer>24</integer>
+				<key>originalWidth</key>
+				<integer>252</integer>
+				<key>originalHeight</key>
+				<integer>24</integer>
+				<key>x</key>
+				<integer>1607</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1877,7 +2143,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>462</integer>
+				<integer>1861</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>
@@ -1896,273 +2162,7 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>530</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_mingci3.png</key>
-			<dict>
-				<key>width</key>
-				<integer>90</integer>
-				<key>height</key>
-				<integer>42</integer>
-				<key>originalWidth</key>
-				<integer>90</integer>
-				<key>originalHeight</key>
-				<integer>42</integer>
-				<key>x</key>
-				<integer>622</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_mingci4.png</key>
-			<dict>
-				<key>width</key>
-				<integer>90</integer>
-				<key>height</key>
-				<integer>42</integer>
-				<key>originalWidth</key>
-				<integer>90</integer>
-				<key>originalHeight</key>
-				<integer>42</integer>
-				<key>x</key>
-				<integer>714</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_muqianzai.png</key>
-			<dict>
-				<key>width</key>
-				<integer>90</integer>
-				<key>height</key>
-				<integer>42</integer>
-				<key>originalWidth</key>
-				<integer>90</integer>
-				<key>originalHeight</key>
-				<integer>42</integer>
-				<key>x</key>
-				<integer>806</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_shangjia.png</key>
-			<dict>
-				<key>width</key>
-				<integer>61</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>61</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>898</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_shangjia1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>61</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>61</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>961</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_wo.png</key>
-			<dict>
-				<key>width</key>
-				<integer>62</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>62</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>1024</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_wo1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>62</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>62</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>1088</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_xiajia.png</key>
-			<dict>
-				<key>width</key>
-				<integer>61</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>61</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>1152</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_xiajia1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>61</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>61</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>1215</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/jiesuan_yuanjiao.png</key>
-			<dict>
-				<key>width</key>
-				<integer>43</integer>
-				<key>height</key>
-				<integer>43</integer>
-				<key>originalWidth</key>
-				<integer>43</integer>
-				<key>originalHeight</key>
-				<integer>43</integer>
-				<key>x</key>
-				<integer>1278</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/playerBg.png</key>
-			<dict>
-				<key>width</key>
-				<integer>260</integer>
-				<key>height</key>
-				<integer>31</integer>
-				<key>originalWidth</key>
-				<integer>260</integer>
-				<key>originalHeight</key>
-				<integer>31</integer>
-				<key>x</key>
-				<integer>1323</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/room_gangBg1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>140</integer>
-				<key>height</key>
-				<integer>43</integer>
-				<key>originalWidth</key>
-				<integer>140</integer>
-				<key>originalHeight</key>
-				<integer>43</integer>
-				<key>x</key>
-				<integer>1585</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/room_gangBg2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>140</integer>
-				<key>height</key>
-				<integer>43</integer>
-				<key>originalWidth</key>
-				<integer>140</integer>
-				<key>originalHeight</key>
-				<integer>43</integer>
-				<key>x</key>
-				<integer>1727</integer>
-				<key>y</key>
-				<integer>977</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/room_hong1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>117</integer>
-				<key>height</key>
-				<integer>34</integer>
-				<key>originalWidth</key>
-				<integer>117</integer>
-				<key>originalHeight</key>
-				<integer>34</integer>
-				<key>x</key>
-				<integer>1869</integer>
+				<integer>1929</integer>
 				<key>y</key>
 				<integer>977</integer>
 				<key>offsetX</key>

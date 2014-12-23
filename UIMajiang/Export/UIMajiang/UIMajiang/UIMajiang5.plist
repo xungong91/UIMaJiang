@@ -482,13 +482,13 @@
 			<key>playerInfo/jiesuan_angry.png</key>
 			<dict>
 				<key>width</key>
-				<integer>130</integer>
+				<integer>146</integer>
 				<key>height</key>
-				<integer>167</integer>
+				<integer>190</integer>
 				<key>originalWidth</key>
-				<integer>130</integer>
+				<integer>146</integer>
 				<key>originalHeight</key>
-				<integer>167</integer>
+				<integer>190</integer>
 				<key>x</key>
 				<integer>1741</integer>
 				<key>y</key>
@@ -509,7 +509,7 @@
 				<key>originalHeight</key>
 				<integer>640</integer>
 				<key>x</key>
-				<integer>1873</integer>
+				<integer>1889</integer>
 				<key>y</key>
 				<integer>354</integer>
 				<key>offsetX</key>
@@ -528,7 +528,7 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>1892</integer>
+				<integer>1908</integer>
 				<key>y</key>
 				<integer>354</integer>
 				<key>offsetX</key>
@@ -547,7 +547,7 @@
 				<key>originalHeight</key>
 				<integer>155</integer>
 				<key>x</key>
-				<integer>1905</integer>
+				<integer>1921</integer>
 				<key>y</key>
 				<integer>354</integer>
 				<key>offsetX</key>

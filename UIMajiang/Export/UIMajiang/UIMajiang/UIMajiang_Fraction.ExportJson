@@ -277,7 +277,7 @@
                         "plistFile": "",
                         "resourceType": 1
                       },
-                      "scale9Enable": true,
+                      "scale9Enable": false,
                       "scale9Height": 94,
                       "scale9Width": 320
                     }
@@ -2150,7 +2150,7 @@
           "tag": 61391,
           "touchAble": false,
           "useMergedTexture": true,
-          "visible": true,
+          "visible": false,
           "width": 960,
           "x": 0,
           "y": 0,
@@ -5324,7 +5324,7 @@
           "tag": 385,
           "touchAble": false,
           "useMergedTexture": true,
-          "visible": true,
+          "visible": false,
           "width": 960,
           "x": 0,
           "y": 0,

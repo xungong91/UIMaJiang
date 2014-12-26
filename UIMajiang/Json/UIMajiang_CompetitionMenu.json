@@ -190,13 +190,13 @@
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "competition/btn_green1.png",
+                    "path": "competition/btn_blue1.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
                   "pressed": null,
                   "pressedData": {
-                    "path": "competition/btn_green2.png",
+                    "path": "competition/btn_blue1.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -238,14 +238,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 65,
+                  "sizePercentX": 36,
                   "sizePercentY": 24,
                   "sizeType": 0,
                   "tag": 16582,
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 65,
+                  "width": 36,
                   "x": 235,
                   "y": 50,
                   "areaHeight": 0,
@@ -254,7 +254,7 @@
                   "fontName": "微软雅黑",
                   "fontSize": 18,
                   "hAlignment": 0,
-                  "text": "还剩3天",
+                  "text": "未知",
                   "touchScaleEnable": false,
                   "vAlignment": 0
                 }
@@ -480,13 +480,13 @@
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "competition/btn_green1.png",
+                    "path": "competition/btn_blue1.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
                   "pressed": null,
                   "pressedData": {
-                    "path": "competition/btn_green2.png",
+                    "path": "competition/btn_blue1.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -528,14 +528,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 65,
+                  "sizePercentX": 36,
                   "sizePercentY": 24,
                   "sizeType": 0,
                   "tag": 16585,
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 65,
+                  "width": 36,
                   "x": 235,
                   "y": 52,
                   "areaHeight": 0,
@@ -544,7 +544,7 @@
                   "fontName": "微软雅黑",
                   "fontSize": 18,
                   "hAlignment": 0,
-                  "text": "还剩3天",
+                  "text": "未知",
                   "touchScaleEnable": false,
                   "vAlignment": 0
                 }
@@ -818,14 +818,14 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 65,
+                  "sizePercentX": 36,
                   "sizePercentY": 24,
                   "sizeType": 0,
                   "tag": 16583,
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 65,
+                  "width": 36,
                   "x": 235,
                   "y": 53,
                   "areaHeight": 0,
@@ -834,7 +834,7 @@
                   "fontName": "微软雅黑",
                   "fontSize": 18,
                   "hAlignment": 0,
-                  "text": "还剩3天",
+                  "text": "未知",
                   "touchScaleEnable": false,
                   "vAlignment": 0
                 }

@@ -3893,7 +3893,7 @@
                               "customProperty": "",
                               "flipX": false,
                               "flipY": false,
-                              "height": 218,
+                              "height": 120,
                               "ignoreSize": true,
                               "layoutParameter": null,
                               "opacity": 255,
@@ -3903,14 +3903,14 @@
                               "rotation": 0,
                               "scaleX": 1,
                               "scaleY": 1,
-                              "sizePercentX": 1,
-                              "sizePercentY": 1,
+                              "sizePercentX": 2.725,
+                              "sizePercentY": 2.725,
                               "sizeType": 0,
                               "tag": 16469,
                               "touchAble": false,
                               "useMergedTexture": false,
                               "visible": true,
-                              "width": 218,
+                              "width": 120,
                               "x": 0,
                               "y": 0,
                               "capInsetsHeight": 1,
@@ -3924,8 +3924,8 @@
                                 "resourceType": 0
                               },
                               "scale9Enable": false,
-                              "scale9Height": 218,
-                              "scale9Width": 218
+                              "scale9Height": 120,
+                              "scale9Width": 120
                             }
                           }
                         ],
@@ -3944,7 +3944,7 @@
                           "customProperty": "",
                           "flipX": false,
                           "flipY": false,
-                          "height": 218,
+                          "height": 80,
                           "ignoreSize": true,
                           "layoutParameter": null,
                           "opacity": 255,
@@ -3961,7 +3961,7 @@
                           "touchAble": false,
                           "useMergedTexture": false,
                           "visible": false,
-                          "width": 218,
+                          "width": 80,
                           "x": 168,
                           "y": 210,
                           "capInsetsHeight": 1,
@@ -3970,13 +3970,13 @@
                           "capInsetsY": 0,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "userInfo/head_bg1.png",
+                            "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                             "plistFile": "",
-                            "resourceType": 0
+                            "resourceType": 2
                           },
                           "scale9Enable": false,
-                          "scale9Height": 218,
-                          "scale9Width": 218
+                          "scale9Height": 80,
+                          "scale9Width": 80
                         }
                       },
                       {
@@ -6831,7 +6831,7 @@
                           "customProperty": "",
                           "flipX": false,
                           "flipY": false,
-                          "height": 218,
+                          "height": 120,
                           "ignoreSize": true,
                           "layoutParameter": null,
                           "opacity": 255,
@@ -6841,14 +6841,14 @@
                           "rotation": 0,
                           "scaleX": 1,
                           "scaleY": 1,
-                          "sizePercentX": 1,
-                          "sizePercentY": 1,
+                          "sizePercentX": 2.725,
+                          "sizePercentY": 2.725,
                           "sizeType": 0,
                           "tag": 16115,
                           "touchAble": false,
                           "useMergedTexture": false,
                           "visible": true,
-                          "width": 218,
+                          "width": 120,
                           "x": 0,
                           "y": 0,
                           "capInsetsHeight": 1,
@@ -6862,8 +6862,8 @@
                             "resourceType": 0
                           },
                           "scale9Enable": false,
-                          "scale9Height": 218,
-                          "scale9Width": 218
+                          "scale9Height": 120,
+                          "scale9Width": 120
                         }
                       }
                     ],
@@ -6882,7 +6882,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 218,
+                      "height": 80,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -6899,7 +6899,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 218,
+                      "width": 80,
                       "x": -38,
                       "y": 14,
                       "capInsetsHeight": 1,
@@ -6908,13 +6908,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "userInfo/head_bg1.png",
+                        "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/image.png",
                         "plistFile": "",
-                        "resourceType": 0
+                        "resourceType": 2
                       },
                       "scale9Enable": false,
-                      "scale9Height": 218,
-                      "scale9Width": 218
+                      "scale9Height": 80,
+                      "scale9Width": 80
                     }
                   },
                   {

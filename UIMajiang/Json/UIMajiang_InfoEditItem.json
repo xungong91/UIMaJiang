@@ -1499,7 +1499,7 @@
               "tag": 67292,
               "touchAble": false,
               "useMergedTexture": false,
-              "visible": false,
+              "visible": true,
               "width": 960,
               "x": -480,
               "y": -320,

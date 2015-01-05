@@ -1889,8 +1889,8 @@
                             "type": 1
                           },
                           "opacity": 255,
-                          "positionPercentX": 0.489510477,
-                          "positionPercentY": 0.9640449,
+                          "positionPercentX": 0.482517481,
+                          "positionPercentY": 0.957303345,
                           "positionType": 0,
                           "rotation": 0,
                           "scaleX": 1,
@@ -2111,8 +2111,8 @@
                             "type": 1
                           },
                           "opacity": 255,
-                          "positionPercentX": 0.5,
-                          "positionPercentY": 0.9685393,
+                          "positionPercentX": 0.482517481,
+                          "positionPercentY": 0.8494382,
                           "positionType": 0,
                           "rotation": 0,
                           "scaleX": 1,
@@ -4238,7 +4238,7 @@
               "tag": 15862,
               "touchAble": false,
               "useMergedTexture": true,
-              "visible": true,
+              "visible": false,
               "width": 340,
               "x": -5,
               "y": 5,
@@ -4369,8 +4369,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0,
-                      "positionPercentY": 0,
+                      "positionPercentX": 0.25,
+                      "positionPercentY": 0.5,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4440,8 +4440,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0,
-                      "positionPercentY": 0,
+                      "positionPercentX": 0.75,
+                      "positionPercentY": 0.5,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4804,15 +4804,15 @@
                       "fontType": 0,
                       "normal": null,
                       "normalData": {
-                        "path": "competition/btn_green1.png",
+                        "path": "competition/btn_blue1.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
                       "pressed": null,
                       "pressedData": {
-                        "path": "competition/btn_green2.png",
-                        "plistFile": "",
-                        "resourceType": 1
+                        "path": null,
+                        "plistFile": null,
+                        "resourceType": 0
                       },
                       "scale9Enable": false,
                       "scale9Height": 55,
@@ -4909,7 +4909,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 60,
+                      "width": 30,
                       "x": 109,
                       "y": 50,
                       "areaHeight": 0,
@@ -4918,7 +4918,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 15,
                       "hAlignment": 0,
-                      "text": "可爱多多",
+                      "text": "未知",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -4959,7 +4959,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 198,
+                      "width": 150,
                       "x": 28,
                       "y": 24,
                       "areaHeight": 0,
@@ -4968,7 +4968,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 15,
                       "hAlignment": 0,
-                      "text": "距离下轮比赛开始还有30分钟",
+                      "text": "下轮比赛开始时间未知",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -5245,7 +5245,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 60,
+                      "width": 30,
                       "x": 109,
                       "y": 53,
                       "areaHeight": 0,
@@ -5254,7 +5254,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 15,
                       "hAlignment": 0,
-                      "text": "可爱多多",
+                      "text": "未知",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -5295,7 +5295,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 198,
+                      "width": 150,
                       "x": 28,
                       "y": 27,
                       "areaHeight": 0,
@@ -5304,7 +5304,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 15,
                       "hAlignment": 0,
-                      "text": "距离下轮比赛开始还有30分钟",
+                      "text": "下轮比赛开始时间未知",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -5581,7 +5581,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 60,
+                      "width": 30,
                       "x": 109,
                       "y": 50,
                       "areaHeight": 0,
@@ -5590,7 +5590,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 15,
                       "hAlignment": 0,
-                      "text": "可爱多多",
+                      "text": "未知",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -5631,7 +5631,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 198,
+                      "width": 150,
                       "x": 28,
                       "y": 24,
                       "areaHeight": 0,
@@ -5640,7 +5640,7 @@
                       "fontName": "微软雅黑",
                       "fontSize": 15,
                       "hAlignment": 0,
-                      "text": "距离下轮比赛开始还有30分钟",
+                      "text": "下轮比赛开始时间未知",
                       "touchScaleEnable": false,
                       "vAlignment": 0
                     }
@@ -5738,7 +5738,7 @@
               "tag": 15903,
               "touchAble": false,
               "useMergedTexture": true,
-              "visible": false,
+              "visible": true,
               "width": 340,
               "x": -5,
               "y": 5,

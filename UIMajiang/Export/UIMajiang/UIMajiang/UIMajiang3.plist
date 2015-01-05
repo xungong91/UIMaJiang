@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>edit/shoujizhaohui1.png</key>
+			<key>edit/title_email.png</key>
 			<dict>
 				<key>width</key>
-				<integer>157</integer>
+				<integer>99</integer>
 				<key>height</key>
-				<integer>156</integer>
+				<integer>36</integer>
 				<key>originalWidth</key>
-				<integer>157</integer>
+				<integer>99</integer>
 				<key>originalHeight</key>
-				<integer>156</integer>
+				<integer>36</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,18 +23,75 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>edit/shoujizhaohui2.png</key>
+			<key>edit/title_head.png</key>
 			<dict>
 				<key>width</key>
-				<integer>157</integer>
+				<integer>99</integer>
 				<key>height</key>
-				<integer>156</integer>
+				<integer>36</integer>
 				<key>originalWidth</key>
-				<integer>157</integer>
+				<integer>99</integer>
 				<key>originalHeight</key>
-				<integer>156</integer>
+				<integer>36</integer>
 				<key>x</key>
-				<integer>159</integer>
+				<integer>101</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>edit/title_jinbi.png</key>
+			<dict>
+				<key>width</key>
+				<integer>97</integer>
+				<key>height</key>
+				<integer>36</integer>
+				<key>originalWidth</key>
+				<integer>97</integer>
+				<key>originalHeight</key>
+				<integer>36</integer>
+				<key>x</key>
+				<integer>202</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>edit/title_shiwu.png</key>
+			<dict>
+				<key>width</key>
+				<integer>98</integer>
+				<key>height</key>
+				<integer>36</integer>
+				<key>originalWidth</key>
+				<integer>98</integer>
+				<key>originalHeight</key>
+				<integer>36</integer>
+				<key>x</key>
+				<integer>301</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>edit/title_shoujika.png</key>
+			<dict>
+				<key>width</key>
+				<integer>98</integer>
+				<key>height</key>
+				<integer>36</integer>
+				<key>originalWidth</key>
+				<integer>98</integer>
+				<key>originalHeight</key>
+				<integer>36</integer>
+				<key>x</key>
+				<integer>401</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -53,7 +110,7 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>318</integer>
+				<integer>501</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -72,7 +129,7 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>440</integer>
+				<integer>623</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -91,7 +148,7 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>562</integer>
+				<integer>745</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -110,7 +167,7 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>684</integer>
+				<integer>867</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -129,7 +186,7 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>806</integer>
+				<integer>989</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -148,7 +205,7 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>928</integer>
+				<integer>1111</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -167,9 +224,275 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>1050</integer>
+				<integer>1233</integer>
 				<key>y</key>
 				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/fengyise.png</key>
+			<dict>
+				<key>width</key>
+				<integer>92</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>92</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1355</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/gangshangkaiuhua.png</key>
+			<dict>
+				<key>width</key>
+				<integer>120</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>120</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1449</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/haidinao.png</key>
+			<dict>
+				<key>width</key>
+				<integer>94</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>94</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1571</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/jiangyise.png</key>
+			<dict>
+				<key>width</key>
+				<integer>93</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>93</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1667</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/pengpenghu.png</key>
+			<dict>
+				<key>width</key>
+				<integer>94</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>94</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1762</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/pihu.png</key>
+			<dict>
+				<key>width</key>
+				<integer>67</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>67</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1858</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/qianggang.png</key>
+			<dict>
+				<key>width</key>
+				<integer>66</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>66</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1927</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/qingyise.png</key>
+			<dict>
+				<key>width</key>
+				<integer>93</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>93</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>122</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>hu/quanqiuren.png</key>
+			<dict>
+				<key>width</key>
+				<integer>93</integer>
+				<key>height</key>
+				<integer>39</integer>
+				<key>originalWidth</key>
+				<integer>93</integer>
+				<key>originalHeight</key>
+				<integer>39</integer>
+				<key>x</key>
+				<integer>95</integer>
+				<key>y</key>
+				<integer>122</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>login/login_btn1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>130</integer>
+				<key>height</key>
+				<integer>70</integer>
+				<key>originalWidth</key>
+				<integer>130</integer>
+				<key>originalHeight</key>
+				<integer>70</integer>
+				<key>x</key>
+				<integer>190</integer>
+				<key>y</key>
+				<integer>122</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>login/login_btn2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>130</integer>
+				<key>height</key>
+				<integer>69</integer>
+				<key>originalWidth</key>
+				<integer>130</integer>
+				<key>originalHeight</key>
+				<integer>69</integer>
+				<key>x</key>
+				<integer>322</integer>
+				<key>y</key>
+				<integer>122</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>login/login_error_bg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>31</integer>
+				<key>height</key>
+				<integer>56</integer>
+				<key>originalWidth</key>
+				<integer>31</integer>
+				<key>originalHeight</key>
+				<integer>56</integer>
+				<key>x</key>
+				<integer>454</integer>
+				<key>y</key>
+				<integer>122</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>login/login_frist1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>130</integer>
+				<key>height</key>
+				<integer>70</integer>
+				<key>originalWidth</key>
+				<integer>130</integer>
+				<key>originalHeight</key>
+				<integer>70</integer>
+				<key>x</key>
+				<integer>487</integer>
+				<key>y</key>
+				<integer>122</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>login/login_frist2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>130</integer>
+				<key>height</key>
+				<integer>69</integer>
+				<key>originalWidth</key>
+				<integer>130</integer>
+				<key>originalHeight</key>
+				<integer>69</integer>
+				<key>x</key>
+				<integer>619</integer>
+				<key>y</key>
+				<integer>122</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -186,9 +509,9 @@
 				<key>originalHeight</key>
 				<integer>455</integer>
 				<key>x</key>
-				<integer>1172</integer>
+				<integer>751</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>122</integer>
 				<key>offsetX</key>
 				<real>-3.5</real>
 				<key>offsetY</key>
@@ -205,9 +528,9 @@
 				<key>originalHeight</key>
 				<integer>181</integer>
 				<key>x</key>
-				<integer>1404</integer>
+				<integer>983</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>122</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -224,9 +547,9 @@
 				<key>originalHeight</key>
 				<integer>69</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>1497</integer>
 				<key>y</key>
-				<integer>457</integer>
+				<integer>122</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -243,85 +566,9 @@
 				<key>originalHeight</key>
 				<integer>69</integer>
 				<key>x</key>
-				<integer>407</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>457</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>mall/mail_danweiCoupons.png</key>
-			<dict>
-				<key>width</key>
-				<integer>32</integer>
-				<key>height</key>
-				<integer>30</integer>
-				<key>originalWidth</key>
-				<integer>32</integer>
-				<key>originalHeight</key>
-				<integer>30</integer>
-				<key>x</key>
-				<integer>814</integer>
-				<key>y</key>
-				<integer>457</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>mall/mail_danweiDiamond.png</key>
-			<dict>
-				<key>width</key>
-				<integer>30</integer>
-				<key>height</key>
-				<integer>26</integer>
-				<key>originalWidth</key>
-				<integer>30</integer>
-				<key>originalHeight</key>
-				<integer>28</integer>
-				<key>x</key>
-				<integer>848</integer>
-				<key>y</key>
-				<integer>457</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>mall/mail_danweiRMB.png</key>
-			<dict>
-				<key>width</key>
-				<integer>22</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>22</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>880</integer>
-				<key>y</key>
-				<integer>457</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>mall/mail_greenNumber.png</key>
-			<dict>
-				<key>width</key>
-				<integer>176</integer>
-				<key>height</key>
-				<integer>33</integer>
-				<key>originalWidth</key>
-				<integer>176</integer>
-				<key>originalHeight</key>
-				<integer>33</integer>
-				<key>x</key>
-				<integer>904</integer>
-				<key>y</key>
-				<integer>457</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -338,28 +585,9 @@
 				<key>originalHeight</key>
 				<integer>196</integer>
 				<key>x</key>
-				<integer>1082</integer>
+				<integer>407</integer>
 				<key>y</key>
-				<integer>457</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>mall/mail_number.png</key>
-			<dict>
-				<key>width</key>
-				<integer>240</integer>
-				<key>height</key>
-				<integer>32</integer>
-				<key>originalWidth</key>
-				<integer>240</integer>
-				<key>originalHeight</key>
-				<integer>32</integer>
-				<key>x</key>
-				<integer>1286</integer>
-				<key>y</key>
-				<integer>457</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -376,9 +604,9 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1528</integer>
+				<integer>611</integer>
 				<key>y</key>
-				<integer>457</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -395,9 +623,9 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1595</integer>
+				<integer>678</integer>
 				<key>y</key>
-				<integer>457</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -414,9 +642,9 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1660</integer>
+				<integer>743</integer>
 				<key>y</key>
-				<integer>457</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -433,9 +661,9 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1727</integer>
+				<integer>810</integer>
 				<key>y</key>
-				<integer>457</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -452,9 +680,9 @@
 				<key>originalHeight</key>
 				<integer>57</integer>
 				<key>x</key>
-				<integer>1792</integer>
+				<integer>875</integer>
 				<key>y</key>
-				<integer>457</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -471,9 +699,9 @@
 				<key>originalHeight</key>
 				<integer>87</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>1068</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -490,9 +718,9 @@
 				<key>originalHeight</key>
 				<integer>60</integer>
 				<key>x</key>
-				<integer>90</integer>
+				<integer>1158</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -509,9 +737,9 @@
 				<key>originalHeight</key>
 				<integer>60</integer>
 				<key>x</key>
-				<integer>301</integer>
+				<integer>1369</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -528,9 +756,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>512</integer>
+				<integer>1580</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -547,9 +775,9 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>729</integer>
+				<integer>1797</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -566,9 +794,9 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>795</integer>
+				<integer>1863</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -585,9 +813,9 @@
 				<key>originalHeight</key>
 				<integer>46</integer>
 				<key>x</key>
-				<integer>861</integer>
+				<integer>1929</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>579</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -604,9 +832,9 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>886</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -623,9 +851,9 @@
 				<key>originalHeight</key>
 				<integer>60</integer>
 				<key>x</key>
-				<integer>1320</integer>
+				<integer>434</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -642,9 +870,9 @@
 				<key>originalHeight</key>
 				<integer>60</integer>
 				<key>x</key>
-				<integer>1494</integer>
+				<integer>608</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -661,9 +889,9 @@
 				<key>originalHeight</key>
 				<integer>74</integer>
 				<key>x</key>
-				<integer>1668</integer>
+				<integer>782</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -680,9 +908,9 @@
 				<key>originalHeight</key>
 				<integer>74</integer>
 				<key>x</key>
-				<integer>1737</integer>
+				<integer>851</integer>
 				<key>y</key>
-				<integer>655</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -699,9 +927,9 @@
 				<key>originalHeight</key>
 				<integer>143</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>920</integer>
 				<key>y</key>
-				<integer>744</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -718,9 +946,9 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>481</integer>
+				<integer>1401</integer>
 				<key>y</key>
-				<integer>744</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -737,9 +965,9 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>530</integer>
+				<integer>1450</integer>
 				<key>y</key>
-				<integer>744</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -756,9 +984,9 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>579</integer>
+				<integer>1499</integer>
 				<key>y</key>
-				<integer>744</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -775,9 +1003,9 @@
 				<key>originalHeight</key>
 				<integer>120</integer>
 				<key>x</key>
-				<integer>628</integer>
+				<integer>1548</integer>
 				<key>y</key>
-				<integer>744</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -794,85 +1022,9 @@
 				<key>originalHeight</key>
 				<integer>134</integer>
 				<key>x</key>
-				<integer>825</integer>
+				<integer>1745</integer>
 				<key>y</key>
-				<integer>744</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>museme/tips_bg.png</key>
-			<dict>
-				<key>width</key>
-				<integer>320</integer>
-				<key>height</key>
-				<integer>134</integer>
-				<key>originalWidth</key>
-				<integer>320</integer>
-				<key>originalHeight</key>
-				<integer>134</integer>
-				<key>x</key>
-				<integer>940</integer>
-				<key>y</key>
-				<integer>744</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>museme/tips_gril1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>133</integer>
-				<key>height</key>
-				<integer>183</integer>
-				<key>originalWidth</key>
-				<integer>133</integer>
-				<key>originalHeight</key>
-				<integer>183</integer>
-				<key>x</key>
-				<integer>1262</integer>
-				<key>y</key>
-				<integer>744</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>museme/tips_gril2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>131</integer>
-				<key>height</key>
-				<integer>166</integer>
-				<key>originalWidth</key>
-				<integer>131</integer>
-				<key>originalHeight</key>
-				<integer>166</integer>
-				<key>x</key>
-				<integer>1397</integer>
-				<key>y</key>
-				<integer>744</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>museme/tips_gril3.png</key>
-			<dict>
-				<key>width</key>
-				<integer>199</integer>
-				<key>height</key>
-				<integer>183</integer>
-				<key>originalWidth</key>
-				<integer>199</integer>
-				<key>originalHeight</key>
-				<integer>183</integer>
-				<key>x</key>
-				<integer>1530</integer>
-				<key>y</key>
-				<integer>744</integer>
+				<integer>777</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -889,9 +1041,9 @@
 				<key>originalHeight</key>
 				<integer>37</integer>
 				<key>x</key>
-				<integer>1731</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>744</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -908,9 +1060,9 @@
 				<key>originalHeight</key>
 				<integer>37</integer>
 				<key>x</key>
-				<integer>1794</integer>
+				<integer>63</integer>
 				<key>y</key>
-				<integer>744</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -927,28 +1079,9 @@
 				<key>originalHeight</key>
 				<integer>37</integer>
 				<key>x</key>
-				<integer>1857</integer>
+				<integer>126</integer>
 				<key>y</key>
-				<integer>744</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>options/51.png</key>
-			<dict>
-				<key>width</key>
-				<integer>75</integer>
-				<key>height</key>
-				<integer>102</integer>
-				<key>originalWidth</key>
-				<integer>83</integer>
-				<key>originalHeight</key>
-				<integer>102</integer>
-				<key>x</key>
-				<integer>1943</integer>
-				<key>y</key>
-				<integer>744</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -965,9 +1098,9 @@
 				<key>originalHeight</key>
 				<integer>30</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>212</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -984,9 +1117,9 @@
 				<key>originalHeight</key>
 				<integer>2</integer>
 				<key>x</key>
-				<integer>32</integer>
+				<integer>244</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1003,9 +1136,9 @@
 				<key>originalHeight</key>
 				<integer>30</integer>
 				<key>x</key>
-				<integer>363</integer>
+				<integer>575</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1022,9 +1155,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>395</integer>
+				<integer>607</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1041,9 +1174,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>437</integer>
+				<integer>649</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1060,9 +1193,9 @@
 				<key>originalHeight</key>
 				<integer>46</integer>
 				<key>x</key>
-				<integer>479</integer>
+				<integer>691</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1079,9 +1212,9 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>803</integer>
+				<integer>1015</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1098,9 +1231,9 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>877</integer>
+				<integer>1089</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1117,9 +1250,9 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>951</integer>
+				<integer>1163</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1136,9 +1269,9 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1073</integer>
+				<integer>1285</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1155,9 +1288,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1195</integer>
+				<integer>1407</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
@@ -1174,9 +1307,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1232</integer>
+				<integer>1444</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1193,9 +1326,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1270</integer>
+				<integer>1482</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>-1</real>
 				<key>offsetY</key>
@@ -1212,9 +1345,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1312</integer>
+				<integer>1524</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>-1</real>
 				<key>offsetY</key>
@@ -1231,9 +1364,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1354</integer>
+				<integer>1566</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1250,9 +1383,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>1398</integer>
+				<integer>1610</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1269,9 +1402,9 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1442</integer>
+				<integer>1654</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1288,9 +1421,9 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1569</integer>
+				<integer>1781</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1307,9 +1440,9 @@
 				<key>originalHeight</key>
 				<integer>42</integer>
 				<key>x</key>
-				<integer>1696</integer>
+				<integer>1908</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>922</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1326,9 +1459,85 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1815</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>929</integer>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>options/text_duanyu1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>117</integer>
+				<key>height</key>
+				<integer>41</integer>
+				<key>originalWidth</key>
+				<integer>117</integer>
+				<key>originalHeight</key>
+				<integer>41</integer>
+				<key>x</key>
+				<integer>117</integer>
+				<key>y</key>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>options/text_duanyu2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>115</integer>
+				<key>height</key>
+				<integer>39</integer>
+				<key>originalWidth</key>
+				<integer>115</integer>
+				<key>originalHeight</key>
+				<integer>39</integer>
+				<key>x</key>
+				<integer>236</integer>
+				<key>y</key>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>options/text_jilu1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>115</integer>
+				<key>height</key>
+				<integer>41</integer>
+				<key>originalWidth</key>
+				<integer>115</integer>
+				<key>originalHeight</key>
+				<integer>41</integer>
+				<key>x</key>
+				<integer>353</integer>
+				<key>y</key>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>options/text_jilu2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>113</integer>
+				<key>height</key>
+				<integer>39</integer>
+				<key>originalWidth</key>
+				<integer>113</integer>
+				<key>originalHeight</key>
+				<integer>39</integer>
+				<key>x</key>
+				<integer>470</integer>
+				<key>y</key>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1345,9 +1554,47 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>585</integer>
 				<key>y</key>
-				<integer>986</integer>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>options/text_vip1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>113</integer>
+				<key>height</key>
+				<integer>42</integer>
+				<key>originalWidth</key>
+				<integer>113</integer>
+				<key>originalHeight</key>
+				<integer>42</integer>
+				<key>x</key>
+				<integer>650</integer>
+				<key>y</key>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>options/text_vip2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>111</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>111</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>765</integer>
+				<key>y</key>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1364,9 +1611,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>65</integer>
+				<integer>878</integer>
 				<key>y</key>
-				<integer>986</integer>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1383,9 +1630,9 @@
 				<key>originalHeight</key>
 				<integer>44</integer>
 				<key>x</key>
-				<integer>105</integer>
+				<integer>918</integer>
 				<key>y</key>
-				<integer>986</integer>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1402,9 +1649,66 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>145</integer>
+				<integer>958</integer>
 				<key>y</key>
-				<integer>986</integer>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/baofang_chats1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>115</integer>
+				<key>height</key>
+				<integer>42</integer>
+				<key>originalWidth</key>
+				<integer>115</integer>
+				<key>originalHeight</key>
+				<integer>42</integer>
+				<key>x</key>
+				<integer>980</integer>
+				<key>y</key>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/baofang_chats2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>113</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>113</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1097</integer>
+				<key>y</key>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/baofang_chat_InputBg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>26</integer>
+				<key>height</key>
+				<integer>38</integer>
+				<key>originalWidth</key>
+				<integer>26</integer>
+				<key>originalHeight</key>
+				<integer>38</integer>
+				<key>x</key>
+				<integer>1212</integer>
+				<key>y</key>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1421,9 +1725,47 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>167</integer>
+				<integer>1240</integer>
 				<key>y</key>
-				<integer>986</integer>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/baofang_haoyouList1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>117</integer>
+				<key>height</key>
+				<integer>42</integer>
+				<key>originalWidth</key>
+				<integer>117</integer>
+				<key>originalHeight</key>
+				<integer>42</integer>
+				<key>x</key>
+				<integer>1418</integer>
+				<key>y</key>
+				<integer>979</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/baofang_haoyouList2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>115</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>115</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1537</integer>
+				<key>y</key>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1440,9 +1782,9 @@
 				<key>originalHeight</key>
 				<integer>28</integer>
 				<key>x</key>
-				<integer>345</integer>
+				<integer>1654</integer>
 				<key>y</key>
-				<integer>986</integer>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -1459,294 +1801,9 @@
 				<key>originalHeight</key>
 				<integer>28</integer>
 				<key>x</key>
-				<integer>542</integer>
+				<integer>1851</integer>
 				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_renshu.png</key>
-			<dict>
-				<key>width</key>
-				<integer>120</integer>
-				<key>height</key>
-				<integer>28</integer>
-				<key>originalWidth</key>
-				<integer>120</integer>
-				<key>originalHeight</key>
-				<integer>28</integer>
-				<key>x</key>
-				<integer>739</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_renshu_num.png</key>
-			<dict>
-				<key>width</key>
-				<integer>110</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>110</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>861</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_seat0.png</key>
-			<dict>
-				<key>width</key>
-				<integer>25</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>25</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>973</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_seat1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>25</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>25</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>1000</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_seat2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>25</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>25</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>1027</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_seat3.png</key>
-			<dict>
-				<key>width</key>
-				<integer>25</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>25</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>1054</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_seat4.png</key>
-			<dict>
-				<key>width</key>
-				<integer>25</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>25</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>1081</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_seat5.png</key>
-			<dict>
-				<key>width</key>
-				<integer>90</integer>
-				<key>height</key>
-				<integer>24</integer>
-				<key>originalWidth</key>
-				<integer>90</integer>
-				<key>originalHeight</key>
-				<integer>24</integer>
-				<key>x</key>
-				<integer>1108</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_tijiao1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>59</integer>
-				<key>height</key>
-				<integer>29</integer>
-				<key>originalWidth</key>
-				<integer>59</integer>
-				<key>originalHeight</key>
-				<integer>29</integer>
-				<key>x</key>
-				<integer>1200</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_tijiao2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>59</integer>
-				<key>height</key>
-				<integer>29</integer>
-				<key>originalWidth</key>
-				<integer>59</integer>
-				<key>originalHeight</key>
-				<integer>29</integer>
-				<key>x</key>
-				<integer>1261</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/baofang_weiguan.png</key>
-			<dict>
-				<key>width</key>
-				<integer>21</integer>
-				<key>height</key>
-				<integer>22</integer>
-				<key>originalWidth</key>
-				<integer>21</integer>
-				<key>originalHeight</key>
-				<integer>22</integer>
-				<key>x</key>
-				<integer>1322</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/chatTankuang.png</key>
-			<dict>
-				<key>width</key>
-				<integer>20</integer>
-				<key>height</key>
-				<integer>19</integer>
-				<key>originalWidth</key>
-				<integer>20</integer>
-				<key>originalHeight</key>
-				<integer>19</integer>
-				<key>x</key>
-				<integer>1345</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/fanshu.png</key>
-			<dict>
-				<key>width</key>
-				<integer>110</integer>
-				<key>height</key>
-				<integer>17</integer>
-				<key>originalWidth</key>
-				<integer>110</integer>
-				<key>originalHeight</key>
-				<integer>17</integer>
-				<key>x</key>
-				<integer>1367</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/fanshu1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>99</integer>
-				<key>height</key>
-				<integer>11</integer>
-				<key>originalWidth</key>
-				<integer>99</integer>
-				<key>originalHeight</key>
-				<integer>11</integer>
-				<key>x</key>
-				<integer>1479</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>playerInfo/friend_hengtiao.png</key>
-			<dict>
-				<key>width</key>
-				<integer>447</integer>
-				<key>height</key>
-				<integer>3</integer>
-				<key>originalWidth</key>
-				<integer>447</integer>
-				<key>originalHeight</key>
-				<integer>3</integer>
-				<key>x</key>
-				<integer>1580</integer>
-				<key>y</key>
-				<integer>986</integer>
+				<integer>979</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

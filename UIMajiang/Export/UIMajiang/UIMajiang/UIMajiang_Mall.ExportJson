@@ -553,7 +553,7 @@
               "tag": 618,
               "touchAble": false,
               "useMergedTexture": true,
-              "visible": false,
+              "visible": true,
               "width": 202,
               "x": -302,
               "y": -65,

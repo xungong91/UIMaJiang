@@ -74,72 +74,7 @@
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_InfoEditItem</Project>
-    <GuidesList>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>457.31329391479494</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>191.31329391479494</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>252.83328247070313</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>706.83328247070312</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>228.97996185302736</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>267.97996185302736</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>456.49993896484375</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>503.49993896484375</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>619.49993896484375</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>339.49993896484375</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>369.49993896484375</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>351.97996185302736</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>328.97996185302736</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>300.49993896484375</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>278.97996185302736</GuidesPosition>
-      </GuidesInfo>
-      <GuidesInfo>
-        <GuidesName>VThumb</GuidesName>
-        <GuidesPosition>682.49993896484375</GuidesPosition>
-      </GuidesInfo>
-    </GuidesList>
+    <GuidesList />
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_test</Project>

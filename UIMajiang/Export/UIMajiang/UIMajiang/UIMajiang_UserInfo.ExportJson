@@ -1871,7 +1871,7 @@
                   "sizePercentY": 43,
                   "sizeType": 0,
                   "tag": 5297,
-                  "touchAble": false,
+                  "touchAble": true,
                   "useMergedTexture": true,
                   "visible": true,
                   "width": 142,
@@ -1898,9 +1898,9 @@
                   },
                   "pressed": null,
                   "pressedData": {
-                    "path": "edit/info_shiming1.png",
-                    "plistFile": "",
-                    "resourceType": 1
+                    "path": null,
+                    "plistFile": null,
+                    "resourceType": 0
                   },
                   "scale9Enable": false,
                   "scale9Height": 43,
@@ -1944,7 +1944,7 @@
                   "sizePercentY": 43,
                   "sizeType": 0,
                   "tag": 5287,
-                  "touchAble": false,
+                  "touchAble": true,
                   "useMergedTexture": true,
                   "visible": true,
                   "width": 142,
@@ -1971,9 +1971,9 @@
                   },
                   "pressed": null,
                   "pressedData": {
-                    "path": "edit/info_shouji1.png",
-                    "plistFile": "",
-                    "resourceType": 1
+                    "path": null,
+                    "plistFile": null,
+                    "resourceType": 0
                   },
                   "scale9Enable": false,
                   "scale9Height": 43,
@@ -2245,8 +2245,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.498958319,
-          "positionPercentY": 0.9984375,
+          "positionPercentX": 0.499479175,
+          "positionPercentY": 0.499218762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,

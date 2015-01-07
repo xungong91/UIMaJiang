@@ -631,25 +631,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>edit/auth_num.png</key>
-			<dict>
-				<key>width</key>
-				<integer>100</integer>
-				<key>height</key>
-				<integer>16</integer>
-				<key>originalWidth</key>
-				<integer>100</integer>
-				<key>originalHeight</key>
-				<integer>16</integer>
-				<key>x</key>
-				<integer>1116</integer>
-				<key>y</key>
-				<integer>740</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>edit/auth_numTitle.png</key>
 			<dict>
 				<key>width</key>
@@ -661,7 +642,7 @@
 				<key>originalHeight</key>
 				<integer>20</integer>
 				<key>x</key>
-				<integer>1218</integer>
+				<integer>1116</integer>
 				<key>y</key>
 				<integer>740</integer>
 				<key>offsetX</key>
@@ -680,7 +661,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>1312</integer>
+				<integer>1210</integer>
 				<key>y</key>
 				<integer>740</integer>
 				<key>offsetX</key>
@@ -699,7 +680,7 @@
 				<key>originalHeight</key>
 				<integer>89</integer>
 				<key>x</key>
-				<integer>1390</integer>
+				<integer>1288</integer>
 				<key>y</key>
 				<integer>740</integer>
 				<key>offsetX</key>

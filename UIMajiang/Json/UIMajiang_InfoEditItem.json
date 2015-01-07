@@ -3163,14 +3163,14 @@
                       "rotation": 0,
                       "scaleX": 1,
                       "scaleY": 1,
-                      "sizePercentX": 0.7380952,
+                      "sizePercentX": 0.6031746,
                       "sizePercentY": 0.538461566,
                       "sizeType": 0,
                       "tag": 67330,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 76,
+                      "width": 93,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -3179,13 +3179,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "edit/auth_re.png",
+                        "path": "edit/auth_get.png",
                         "plistFile": "",
                         "resourceType": 0
                       },
                       "scale9Enable": false,
                       "scale9Height": 21,
-                      "scale9Width": 76
+                      "scale9Width": 93
                     }
                   },
                   {
@@ -3379,7 +3379,7 @@
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.39375,
+                  "positionPercentX": 0.386458337,
                   "positionPercentY": 0.453125,
                   "positionType": 0,
                   "rotation": 0,
@@ -3393,7 +3393,7 @@
                   "useMergedTexture": false,
                   "visible": true,
                   "width": 76,
-                  "x": 378,
+                  "x": 371,
                   "y": 290,
                   "fileNameData": {
                     "path": "text_fonts.fnt",

@@ -120,4 +120,8 @@
     <Project>UIMajiang_Channel</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Sign</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

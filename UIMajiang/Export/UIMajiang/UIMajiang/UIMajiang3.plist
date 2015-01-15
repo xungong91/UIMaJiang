@@ -1752,25 +1752,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/fanshu.png</key>
-			<dict>
-				<key>width</key>
-				<integer>110</integer>
-				<key>height</key>
-				<integer>17</integer>
-				<key>originalWidth</key>
-				<integer>110</integer>
-				<key>originalHeight</key>
-				<integer>17</integer>
-				<key>x</key>
-				<integer>1367</integer>
-				<key>y</key>
-				<integer>986</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>playerInfo/fanshu1.png</key>
 			<dict>
 				<key>width</key>
@@ -1782,7 +1763,7 @@
 				<key>originalHeight</key>
 				<integer>11</integer>
 				<key>x</key>
-				<integer>1479</integer>
+				<integer>1367</integer>
 				<key>y</key>
 				<integer>986</integer>
 				<key>offsetX</key>
@@ -1801,7 +1782,7 @@
 				<key>originalHeight</key>
 				<integer>29</integer>
 				<key>x</key>
-				<integer>1580</integer>
+				<integer>1468</integer>
 				<key>y</key>
 				<integer>986</integer>
 				<key>offsetX</key>
@@ -1820,7 +1801,7 @@
 				<key>originalHeight</key>
 				<integer>13</integer>
 				<key>x</key>
-				<integer>1631</integer>
+				<integer>1519</integer>
 				<key>y</key>
 				<integer>986</integer>
 				<key>offsetX</key>

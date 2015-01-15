@@ -536,7 +536,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>channel/channel_qihu1.png</key>
+			<key>channel/channel_huawei1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>76</integer>
@@ -555,7 +555,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>channel/channel_qihu2.png</key>
+			<key>channel/channel_huawei2.png</key>
 			<dict>
 				<key>width</key>
 				<integer>76</integer>
@@ -574,6 +574,44 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>channel/channel_qihu1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>76</integer>
+				<key>height</key>
+				<integer>116</integer>
+				<key>originalWidth</key>
+				<integer>76</integer>
+				<key>originalHeight</key>
+				<integer>116</integer>
+				<key>x</key>
+				<integer>774</integer>
+				<key>y</key>
+				<integer>784</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>channel/channel_qihu2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>76</integer>
+				<key>height</key>
+				<integer>116</integer>
+				<key>originalWidth</key>
+				<integer>76</integer>
+				<key>originalHeight</key>
+				<integer>116</integer>
+				<key>x</key>
+				<integer>852</integer>
+				<key>y</key>
+				<integer>784</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>channel/channel_title.png</key>
 			<dict>
 				<key>width</key>
@@ -585,7 +623,7 @@
 				<key>originalHeight</key>
 				<integer>147</integer>
 				<key>x</key>
-				<integer>774</integer>
+				<integer>930</integer>
 				<key>y</key>
 				<integer>784</integer>
 				<key>offsetX</key>
@@ -604,7 +642,7 @@
 				<key>originalHeight</key>
 				<integer>57</integer>
 				<key>x</key>
-				<integer>1060</integer>
+				<integer>1216</integer>
 				<key>y</key>
 				<integer>784</integer>
 				<key>offsetX</key>
@@ -623,7 +661,7 @@
 				<key>originalHeight</key>
 				<integer>41</integer>
 				<key>x</key>
-				<integer>1300</integer>
+				<integer>1456</integer>
 				<key>y</key>
 				<integer>784</integer>
 				<key>offsetX</key>
@@ -642,7 +680,7 @@
 				<key>originalHeight</key>
 				<integer>103</integer>
 				<key>x</key>
-				<integer>1425</integer>
+				<integer>1581</integer>
 				<key>y</key>
 				<integer>784</integer>
 				<key>offsetX</key>
@@ -661,7 +699,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>1687</integer>
+				<integer>1843</integer>
 				<key>y</key>
 				<integer>784</integer>
 				<key>offsetX</key>
@@ -680,9 +718,9 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>1791</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>784</integer>
+				<integer>933</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -699,9 +737,9 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>1895</integer>
+				<integer>104</integer>
 				<key>y</key>
-				<integer>784</integer>
+				<integer>933</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -718,7 +756,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>184</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -737,7 +775,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>80</integer>
+				<integer>264</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -756,7 +794,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>160</integer>
+				<integer>344</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -775,7 +813,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>240</integer>
+				<integer>424</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -794,7 +832,7 @@
 				<key>originalHeight</key>
 				<integer>52</integer>
 				<key>x</key>
-				<integer>320</integer>
+				<integer>504</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -813,7 +851,7 @@
 				<key>originalHeight</key>
 				<integer>51</integer>
 				<key>x</key>
-				<integer>400</integer>
+				<integer>584</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -832,7 +870,7 @@
 				<key>originalHeight</key>
 				<integer>51</integer>
 				<key>x</key>
-				<integer>480</integer>
+				<integer>664</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -851,7 +889,7 @@
 				<key>originalHeight</key>
 				<integer>61</integer>
 				<key>x</key>
-				<integer>560</integer>
+				<integer>744</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -870,7 +908,7 @@
 				<key>originalHeight</key>
 				<integer>36</integer>
 				<key>x</key>
-				<integer>862</integer>
+				<integer>1046</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -889,7 +927,7 @@
 				<key>originalHeight</key>
 				<integer>56</integer>
 				<key>x</key>
-				<integer>1003</integer>
+				<integer>1187</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -908,7 +946,7 @@
 				<key>originalHeight</key>
 				<integer>18</integer>
 				<key>x</key>
-				<integer>1301</integer>
+				<integer>1485</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -927,7 +965,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1320</integer>
+				<integer>1504</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -946,7 +984,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1435</integer>
+				<integer>1619</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -965,7 +1003,7 @@
 				<key>originalHeight</key>
 				<integer>55</integer>
 				<key>x</key>
-				<integer>1550</integer>
+				<integer>1734</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>
@@ -984,26 +1022,7 @@
 				<key>originalHeight</key>
 				<integer>71</integer>
 				<key>x</key>
-				<integer>1665</integer>
-				<key>y</key>
-				<integer>933</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>competition/cansai2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>132</integer>
-				<key>height</key>
-				<integer>71</integer>
-				<key>originalWidth</key>
-				<integer>132</integer>
-				<key>originalHeight</key>
-				<integer>71</integer>
-				<key>x</key>
-				<integer>1799</integer>
+				<integer>1849</integer>
 				<key>y</key>
 				<integer>933</integer>
 				<key>offsetX</key>

@@ -60,5 +60,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Player.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Sign.json</CurrentUIJson>
 </UIProject>

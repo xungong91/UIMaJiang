@@ -1911,7 +1911,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 80,
+                      "height": 120,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -1928,7 +1928,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 80,
+                      "width": 120,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -1937,13 +1937,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
+                        "path": "head/head_lv_0.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
                       "scale9Enable": false,
-                      "scale9Height": 80,
-                      "scale9Width": 80
+                      "scale9Height": 120,
+                      "scale9Width": 120
                     }
                   }
                 ],
@@ -2020,7 +2020,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 80,
+                      "height": 120,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -2037,7 +2037,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 80,
+                      "width": 120,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -2046,13 +2046,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
+                        "path": "head/head_lv_0.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
                       "scale9Enable": false,
-                      "scale9Height": 80,
-                      "scale9Width": 80
+                      "scale9Height": 120,
+                      "scale9Width": 120
                     }
                   }
                 ],
@@ -2129,7 +2129,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 80,
+                      "height": 120,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -2146,7 +2146,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 80,
+                      "width": 120,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -2155,13 +2155,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
+                        "path": "head/head_lv_0.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
                       "scale9Enable": false,
-                      "scale9Height": 80,
-                      "scale9Width": 80
+                      "scale9Height": 120,
+                      "scale9Width": 120
                     }
                   }
                 ],
@@ -4155,7 +4155,7 @@
               "tag": 67324,
               "touchAble": false,
               "useMergedTexture": true,
-              "visible": true,
+              "visible": false,
               "width": 960,
               "x": -480,
               "y": -320,

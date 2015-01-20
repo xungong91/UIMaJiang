@@ -2033,7 +2033,7 @@
                       "capInsetsX": 0,
                       "capInsetsY": 0,
                       "direction": 0,
-                      "percent": 60,
+                      "percent": 0,
                       "scale9Enable": false,
                       "texture": null,
                       "textureData": {
@@ -2133,7 +2133,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 20,
+                      "width": 10,
                       "x": 59,
                       "y": 0,
                       "charMapFile": null,
@@ -2145,7 +2145,7 @@
                       "itemHeight": 13,
                       "itemWidth": 10,
                       "startCharMap": "0",
-                      "stringValue": "30"
+                      "stringValue": "0"
                     }
                   }
                 ],

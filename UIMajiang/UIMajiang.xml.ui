@@ -38,6 +38,7 @@
     <string>UIMajiang_Rank.json</string>
     <string>UIMajiang_Channel.json</string>
     <string>UIMajiang_Sign.json</string>
+    <string>UIMajiang_Task.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -60,5 +61,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson />
+  <CurrentUIJson>UIMajiang_Task.json</CurrentUIJson>
 </UIProject>

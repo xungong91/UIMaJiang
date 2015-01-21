@@ -124,4 +124,8 @@
     <Project>UIMajiang_Sign</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Task</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

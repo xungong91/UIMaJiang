@@ -493,7 +493,7 @@
                         "options": {
                           "__type": "LabelSurrogate:#EditorCommon.JsonModel.Component.GUI",
                           "classname": "Label",
-                          "name": "Label_progress ",
+                          "name": "Label_progress",
                           "ZOrder": 0,
                           "actiontag": 98142,
                           "anchorPointX": 0,

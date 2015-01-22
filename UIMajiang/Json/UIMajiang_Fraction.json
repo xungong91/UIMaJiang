@@ -5354,7 +5354,7 @@
                       "tag": 75586,
                       "touchAble": false,
                       "useMergedTexture": false,
-                      "visible": true,
+                      "visible": false,
                       "width": 144,
                       "x": -29,
                       "y": -48,

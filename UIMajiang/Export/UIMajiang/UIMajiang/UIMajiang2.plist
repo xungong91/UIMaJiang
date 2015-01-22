@@ -11,7 +11,7 @@
 				<key>height</key>
 				<integer>565</integer>
 				<key>originalWidth</key>
-				<integer>307</integer>
+				<integer>303</integer>
 				<key>originalHeight</key>
 				<integer>565</integer>
 				<key>x</key>
@@ -106,7 +106,7 @@
 				<key>height</key>
 				<integer>66</integer>
 				<key>originalWidth</key>
-				<integer>307</integer>
+				<integer>297</integer>
 				<key>originalHeight</key>
 				<integer>66</integer>
 				<key>x</key>
@@ -114,7 +114,7 @@
 				<key>y</key>
 				<integer>567</integer>
 				<key>offsetX</key>
-				<real>-3</real>
+				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>

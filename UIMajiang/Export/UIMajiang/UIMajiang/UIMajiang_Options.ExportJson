@@ -3863,14 +3863,14 @@
                           "rotation": 0,
                           "scaleX": 1,
                           "scaleY": 1,
-                          "sizePercentX": 0.3809524,
+                          "sizePercentX": 0.533333361,
                           "sizePercentY": 0.161538467,
                           "sizeType": 0,
                           "tag": 76584,
                           "touchAble": false,
                           "useMergedTexture": true,
                           "visible": true,
-                          "width": 80,
+                          "width": 112,
                           "x": -93,
                           "y": 24,
                           "areaHeight": 0,
@@ -3879,7 +3879,7 @@
                           "fontName": "微软雅黑",
                           "fontSize": 16,
                           "hAlignment": 0,
-                          "text": "头衔：暂无",
+                          "text": "头衔：敬请期待",
                           "touchScaleEnable": false,
                           "vAlignment": 0
                         }
@@ -4013,14 +4013,14 @@
                           "rotation": 0,
                           "scaleX": 1,
                           "scaleY": 1,
-                          "sizePercentX": 0.3809524,
+                          "sizePercentX": 0.533333361,
                           "sizePercentY": 0.161538467,
                           "sizeType": 0,
                           "tag": 76585,
                           "touchAble": false,
                           "useMergedTexture": true,
                           "visible": true,
-                          "width": 80,
+                          "width": 112,
                           "x": -93,
                           "y": -49,
                           "areaHeight": 0,
@@ -4029,7 +4029,7 @@
                           "fontName": "微软雅黑",
                           "fontSize": 16,
                           "hAlignment": 0,
-                          "text": "声望：暂无",
+                          "text": "声望：敬请期待",
                           "touchScaleEnable": false,
                           "vAlignment": 0
                         }
@@ -4820,13 +4820,13 @@
                       "fontType": 0,
                       "normal": null,
                       "normalData": {
-                        "path": "playerInfo/head_yellow1.png",
+                        "path": "playerInfo/head_gray1.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
                       "pressed": null,
                       "pressedData": {
-                        "path": "playerInfo/head_yellow2.png",
+                        "path": "playerInfo/head_gray2.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
@@ -4948,13 +4948,13 @@
                       "fontType": 0,
                       "normal": null,
                       "normalData": {
-                        "path": "playerInfo/head_yellow1.png",
+                        "path": "playerInfo/head_gray1.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
                       "pressed": null,
                       "pressedData": {
-                        "path": "playerInfo/head_yellow2.png",
+                        "path": "playerInfo/head_gray2.png",
                         "plistFile": "",
                         "resourceType": 1
                       },

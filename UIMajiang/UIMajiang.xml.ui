@@ -61,5 +61,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Cortana.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Share.json</CurrentUIJson>
 </UIProject>

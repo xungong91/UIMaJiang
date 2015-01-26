@@ -1699,7 +1699,7 @@
                 "options": {
                   "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
                   "classname": "Button",
-                  "name": "Button_exploits",
+                  "name": "Button_exploitsEdit",
                   "ZOrder": 0,
                   "actiontag": 101954,
                   "anchorPointX": 0.5,

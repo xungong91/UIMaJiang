@@ -133,4 +133,8 @@
     <Project>UIMajiang_Task</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Exploits</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

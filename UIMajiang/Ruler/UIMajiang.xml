@@ -14,12 +14,7 @@
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_Menu</Project>
-    <GuidesList>
-      <GuidesInfo>
-        <GuidesName>HThumb</GuidesName>
-        <GuidesPosition>145.97992370605459</GuidesPosition>
-      </GuidesInfo>
-    </GuidesList>
+    <GuidesList />
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_UserInfo</Project>

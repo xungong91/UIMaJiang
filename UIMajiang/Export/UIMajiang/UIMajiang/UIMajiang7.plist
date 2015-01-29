@@ -61,7 +61,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/sociality_addF2.png</key>
+			<key>playerInfo/sociality_addF1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>130</integer>
@@ -80,6 +80,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>playerInfo/sociality_addF2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>130</integer>
+				<key>height</key>
+				<integer>56</integer>
+				<key>originalWidth</key>
+				<integer>130</integer>
+				<key>originalHeight</key>
+				<integer>56</integer>
+				<key>x</key>
+				<integer>1061</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>playerInfo/sociality_allAgree1.png</key>
 			<dict>
 				<key>width</key>
@@ -91,7 +110,7 @@
 				<key>originalHeight</key>
 				<integer>56</integer>
 				<key>x</key>
-				<integer>1061</integer>
+				<integer>1193</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -110,32 +129,13 @@
 				<key>originalHeight</key>
 				<integer>56</integer>
 				<key>x</key>
-				<integer>1194</integer>
+				<integer>1326</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
-			</dict>
-			<key>playerInfo/sociality_biggold.png</key>
-			<dict>
-				<key>width</key>
-				<integer>130</integer>
-				<key>height</key>
-				<integer>29</integer>
-				<key>originalWidth</key>
-				<integer>130</integer>
-				<key>originalHeight</key>
-				<integer>33</integer>
-				<key>x</key>
-				<integer>1327</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>2</real>
 			</dict>
 			<key>playerInfo/sociality_friendList1.png</key>
 			<dict>

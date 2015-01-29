@@ -1628,7 +1628,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 80,
+                  "width": 60,
                   "x": 470,
                   "y": 246,
                   "areaHeight": 0,
@@ -1637,7 +1637,7 @@
                   "fontName": "微软雅黑",
                   "fontSize": 20,
                   "hAlignment": 0,
-                  "text": "暂未开放",
+                  "text": "未获取",
                   "touchScaleEnable": false,
                   "vAlignment": 0
                 }
@@ -1678,7 +1678,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 80,
+                  "width": 60,
                   "x": 470,
                   "y": 300,
                   "areaHeight": 0,
@@ -1687,7 +1687,7 @@
                   "fontName": "微软雅黑",
                   "fontSize": 20,
                   "hAlignment": 0,
-                  "text": "暂未开放",
+                  "text": "未获取",
                   "touchScaleEnable": false,
                   "vAlignment": 0
                 }
@@ -3338,8 +3338,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.498958319,
-          "positionPercentY": 0.9984375,
+          "positionPercentX": 0.499479175,
+          "positionPercentY": 0.499218762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,

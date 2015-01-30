@@ -62,5 +62,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_InfoEditItem.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_MessageBox.json</CurrentUIJson>
 </UIProject>

@@ -40,6 +40,7 @@
     <string>UIMajiang_Sign.json</string>
     <string>UIMajiang_Task.json</string>
     <string>UIMajiang_Exploits.json</string>
+    <string>UIMajiang_Prestige.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -62,5 +63,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_InfoEditItem.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Prestige.json</CurrentUIJson>
 </UIProject>

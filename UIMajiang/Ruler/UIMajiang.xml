@@ -132,4 +132,8 @@
     <Project>UIMajiang_Exploits</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Prestige</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

@@ -1771,6 +1771,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>userInfo/menu_gold_num.png</key>
+			<dict>
+				<key>width</key>
+				<integer>80</integer>
+				<key>height</key>
+				<integer>11</integer>
+				<key>originalWidth</key>
+				<integer>80</integer>
+				<key>originalHeight</key>
+				<integer>11</integer>
+				<key>x</key>
+				<integer>86</integer>
+				<key>y</key>
+				<integer>1000</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>userInfo/tab_edit1.png</key>
 			<dict>
 				<key>width</key>
@@ -1782,7 +1801,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>86</integer>
+				<integer>168</integer>
 				<key>y</key>
 				<integer>1000</integer>
 				<key>offsetX</key>
@@ -1801,7 +1820,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>179</integer>
+				<integer>261</integer>
 				<key>y</key>
 				<integer>1000</integer>
 				<key>offsetX</key>
@@ -1820,7 +1839,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>272</integer>
+				<integer>354</integer>
 				<key>y</key>
 				<integer>1000</integer>
 				<key>offsetX</key>
@@ -1839,7 +1858,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>364</integer>
+				<integer>446</integer>
 				<key>y</key>
 				<integer>1000</integer>
 				<key>offsetX</key>
@@ -1858,7 +1877,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>456</integer>
+				<integer>538</integer>
 				<key>y</key>
 				<integer>1000</integer>
 				<key>offsetX</key>
@@ -1877,7 +1896,7 @@
 				<key>originalHeight</key>
 				<integer>21</integer>
 				<key>x</key>
-				<integer>562</integer>
+				<integer>644</integer>
 				<key>y</key>
 				<integer>1000</integer>
 				<key>offsetX</key>
@@ -1896,7 +1915,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>668</integer>
+				<integer>750</integer>
 				<key>y</key>
 				<integer>1000</integer>
 				<key>offsetX</key>

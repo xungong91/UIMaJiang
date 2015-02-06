@@ -2240,14 +2240,14 @@
                       "rotation": 0,
                       "scaleX": 1,
                       "scaleY": 1,
-                      "sizePercentX": 1.14285719,
+                      "sizePercentX": 0.2857143,
                       "sizePercentY": 0.44,
                       "sizeType": 0,
                       "tag": 78377,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 32,
+                      "width": 8,
                       "x": 14,
                       "y": 0,
                       "charMapFile": null,
@@ -2259,7 +2259,7 @@
                       "itemHeight": 11,
                       "itemWidth": 8,
                       "startCharMap": "0",
-                      "stringValue": "1234"
+                      "stringValue": "0"
                     }
                   }
                 ],
@@ -2346,14 +2346,14 @@
                       "rotation": 0,
                       "scaleX": 1,
                       "scaleY": 1,
-                      "sizePercentX": 1.14285719,
+                      "sizePercentX": 0.2857143,
                       "sizePercentY": 0.44,
                       "sizeType": 0,
                       "tag": 78378,
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 32,
+                      "width": 8,
                       "x": 14,
                       "y": 0,
                       "charMapFile": null,
@@ -2365,7 +2365,7 @@
                       "itemHeight": 11,
                       "itemWidth": 8,
                       "startCharMap": "0",
-                      "stringValue": "8754"
+                      "stringValue": "0"
                     }
                   }
                 ],

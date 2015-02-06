@@ -136,4 +136,8 @@
     <Project>UIMajiang_Prestige</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_VIP</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

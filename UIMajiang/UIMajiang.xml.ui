@@ -8,10 +8,14 @@
   <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
     <string>UIMajiang_AddFriend.json</string>
+    <string>UIMajiang_Channel.json</string>
     <string>UIMajiang_Compartment.json</string>
+    <string>UIMajiang_Competition.json</string>
+    <string>UIMajiang_CompetitionMenu.json</string>
     <string>UIMajiang_Cortana.json</string>
     <string>UIMajiang_CreateCompartment.json</string>
     <string>UIMajiang_EnterCompartment.json</string>
+    <string>UIMajiang_Exploits.json</string>
     <string>UIMajiang_Fraction.json</string>
     <string>UIMajiang_InfoEditItem.json</string>
     <string>UIMajiang_Login.json</string>
@@ -19,28 +23,25 @@
     <string>UIMajiang_MallBox.json</string>
     <string>UIMajiang_Menu.json</string>
     <string>UIMajiang_MessageBox.json</string>
+    <string>UIMajiang_MjLife.json</string>
+    <string>UIMajiang_MusemeTips.json</string>
+    <string>UIMajiang_Musume.json</string>
     <string>UIMajiang_Options.json</string>
     <string>UIMajiang_Player.json</string>
+    <string>UIMajiang_Prestige.json</string>
+    <string>UIMajiang_Rank.json</string>
     <string>UIMajiang_Reg.json</string>
     <string>UIMajiang_RoomEnded.json</string>
-    <string>UIMajiang_SingCard.json</string>
-    <string>UIMajiang_Sociality.json</string>
-    <string>UIMajiang_UserInfo.json</string>
-    <string>UIMajiang_test.json</string>
-    <string>UIMajiang_Musume.json</string>
     <string>UIMajiang_Share.json</string>
-    <string>UIMajiang_SingCardTips.json</string>
-    <string>UIMajiang_Competition.json</string>
-    <string>UIMajiang_CompetitionMenu.json</string>
-    <string>UIMajiang_MusemeTips.json</string>
-    <string>UIMajiang_TopControl.json</string>
-    <string>UIMajiang_MjLife.json</string>
-    <string>UIMajiang_Rank.json</string>
-    <string>UIMajiang_Channel.json</string>
     <string>UIMajiang_Sign.json</string>
+    <string>UIMajiang_SingCard.json</string>
+    <string>UIMajiang_SingCardTips.json</string>
+    <string>UIMajiang_Sociality.json</string>
     <string>UIMajiang_Task.json</string>
-    <string>UIMajiang_Exploits.json</string>
-    <string>UIMajiang_Prestige.json</string>
+    <string>UIMajiang_test.json</string>
+    <string>UIMajiang_TopControl.json</string>
+    <string>UIMajiang_UserInfo.json</string>
+    <string>UIMajiang_VIP.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -63,5 +64,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Fraction.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_UserInfo.json</CurrentUIJson>
 </UIProject>

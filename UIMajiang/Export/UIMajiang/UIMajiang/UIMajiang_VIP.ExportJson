@@ -78,7 +78,7 @@
           "sizeType": 1,
           "tag": 81580,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -91,7 +91,7 @@
           "fileNameData": {
             "path": "login_bg.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 640,
@@ -140,7 +140,7 @@
                   "sizeType": 0,
                   "tag": 81570,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 85,
                   "x": 421,
@@ -153,7 +153,7 @@
                   "fileNameData": {
                     "path": "reg/title_zhangong.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 44,
@@ -194,7 +194,7 @@
                   "sizeType": 0,
                   "tag": 81582,
                   "touchAble": true,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 103,
                   "x": 733,
@@ -214,9 +214,9 @@
                   "fontType": 0,
                   "normal": null,
                   "normalData": {
-                    "path": "C:\\Program Files (x86)\\CocoStudio\\EditorDefaultRes\\GUI/button.png",
+                    "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png",
                     "plistFile": "",
-                    "resourceType": 2
+                    "resourceType": 1
                   },
                   "pressed": null,
                   "pressedData": {
@@ -264,7 +264,7 @@
               "sizeType": 0,
               "tag": 81569,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 849,
               "x": -430,
@@ -277,7 +277,7 @@
               "fileNameData": {
                 "path": "big_yellow_bg.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": true,
               "scale9Height": 550,
@@ -332,7 +332,7 @@
           "sizeType": 0,
           "tag": 81568,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 1,
           "x": 479,
@@ -404,7 +404,7 @@
                   "sizeType": 0,
                   "tag": 81586,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 750,
                   "x": 0,
@@ -417,7 +417,7 @@
                   "fileNameData": {
                     "path": "bg_ring.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": true,
                   "scale9Height": 380,
@@ -458,7 +458,7 @@
                   "sizeType": 0,
                   "tag": 81587,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 51,
                   "x": -375,
@@ -471,7 +471,7 @@
                   "fileNameData": {
                     "path": "bg_gold_angle.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 37,
@@ -512,7 +512,7 @@
                   "sizeType": 0,
                   "tag": 81588,
                   "touchAble": false,
-                  "useMergedTexture": false,
+                  "useMergedTexture": true,
                   "visible": true,
                   "width": 51,
                   "x": 375,
@@ -525,7 +525,7 @@
                   "fileNameData": {
                     "path": "bg_gold_angle.png",
                     "plistFile": "",
-                    "resourceType": 0
+                    "resourceType": 1
                   },
                   "scale9Enable": false,
                   "scale9Height": 37,
@@ -563,7 +563,7 @@
               "sizeType": 0,
               "tag": 81584,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 800,
               "x": 479,
@@ -576,7 +576,7 @@
               "fileNameData": {
                 "path": "bg_yellow_ring.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": true,
               "scale9Height": 420,
@@ -617,7 +617,7 @@
               "sizeType": 0,
               "tag": 81589,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 117,
               "x": 480,
@@ -639,13 +639,13 @@
               "normalData": {
                 "path": "edit/guanbi1.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "pressed": null,
               "pressedData": {
                 "path": "edit/guanbi2.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 39,
@@ -690,7 +690,7 @@
               "sizeType": 0,
               "tag": 81591,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 1,
               "x": 0,
@@ -768,7 +768,7 @@
           "sizeType": 0,
           "tag": 81585,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 960,
           "x": 0,
@@ -829,7 +829,7 @@
       "sizeType": 0,
       "tag": 81567,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 960,
       "x": 0,

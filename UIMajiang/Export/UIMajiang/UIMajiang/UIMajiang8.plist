@@ -574,6 +574,44 @@
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
+			<key>vip/guanbi1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>102</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>102</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1060</integer>
+				<key>y</key>
+				<integer>976</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>vip/guanbi2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>102</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>102</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>1164</integer>
+				<key>y</key>
+				<integer>976</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
 			<dict>
 				<key>width</key>
@@ -585,7 +623,7 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1060</integer>
+				<integer>1268</integer>
 				<key>y</key>
 				<integer>976</integer>
 				<key>offsetX</key>

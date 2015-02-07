@@ -266,9 +266,9 @@
                   "sizePercentY": 0.06363636,
                   "sizeType": 0,
                   "tag": 81746,
-                  "touchAble": true,
+                  "touchAble": false,
                   "useMergedTexture": true,
-                  "visible": true,
+                  "visible": false,
                   "width": 40,
                   "x": 36,
                   "y": 250,
@@ -339,9 +339,9 @@
                   "sizePercentY": 0.06363636,
                   "sizeType": 0,
                   "tag": 81747,
-                  "touchAble": true,
+                  "touchAble": false,
                   "useMergedTexture": true,
-                  "visible": true,
+                  "visible": false,
                   "width": 40,
                   "x": 820,
                   "y": 250,
@@ -612,7 +612,7 @@
                           "capInsetsY": 30,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "vip/vip_bg2.png",
+                            "path": "bg_ring.png",
                             "plistFile": "",
                             "resourceType": 1
                           },
@@ -1960,7 +1960,7 @@
                           "capInsetsY": 30,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "vip/vip_bg2.png",
+                            "path": "bg_ring.png",
                             "plistFile": "",
                             "resourceType": 1
                           },
@@ -3308,7 +3308,7 @@
                           "capInsetsY": 30,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "vip/vip_bg2.png",
+                            "path": "bg_ring.png",
                             "plistFile": "",
                             "resourceType": 1
                           },
@@ -4656,7 +4656,7 @@
                           "capInsetsY": 30,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "vip/vip_bg2.png",
+                            "path": "bg_ring.png",
                             "plistFile": "",
                             "resourceType": 1
                           },
@@ -6004,7 +6004,7 @@
                           "capInsetsY": 30,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "vip/vip_bg2.png",
+                            "path": "bg_ring.png",
                             "plistFile": "",
                             "resourceType": 1
                           },
@@ -7352,7 +7352,7 @@
                           "capInsetsY": 30,
                           "fileName": null,
                           "fileNameData": {
-                            "path": "vip/vip_bg2.png",
+                            "path": "bg_ring.png",
                             "plistFile": "",
                             "resourceType": 1
                           },

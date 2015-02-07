@@ -1524,25 +1524,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>vip/vip_bg_yellow.png</key>
-			<dict>
-				<key>width</key>
-				<integer>151</integer>
-				<key>height</key>
-				<integer>3</integer>
-				<key>originalWidth</key>
-				<integer>151</integer>
-				<key>originalHeight</key>
-				<integer>3</integer>
-				<key>x</key>
-				<integer>3</integer>
-				<key>y</key>
-				<integer>1019</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 		</dict>
 		<key>metadata</key>
 		<dict>

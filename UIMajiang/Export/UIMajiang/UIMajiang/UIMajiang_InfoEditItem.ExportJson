@@ -20,8 +20,7 @@
     "UIMajiang7.plist",
     "UIMajiang8.plist",
     "UIMajiang9.plist",
-    "UIMajiang10.plist",
-    "UIMajiang11.plist"
+    "UIMajiang10.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -5860,7 +5859,7 @@
                   "tag": 84340,
                   "touchAble": false,
                   "useMergedTexture": true,
-                  "visible": true,
+                  "visible": false,
                   "width": 460,
                   "x": 362,
                   "y": 202,
@@ -6065,7 +6064,7 @@
                     "plistFile": "",
                     "resourceType": 0
                   },
-                  "text": "旧密码:"
+                  "text": "新昵称:"
                 }
               },
               {

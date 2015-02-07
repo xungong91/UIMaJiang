@@ -80,25 +80,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>competition/cansai2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>132</integer>
-				<key>height</key>
-				<integer>71</integer>
-				<key>originalWidth</key>
-				<integer>132</integer>
-				<key>originalHeight</key>
-				<integer>71</integer>
-				<key>x</key>
-				<integer>1643</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>competition/chujia_bg.png</key>
 			<dict>
 				<key>width</key>
@@ -110,7 +91,7 @@
 				<key>originalHeight</key>
 				<integer>110</integer>
 				<key>x</key>
-				<integer>1777</integer>
+				<integer>1643</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -129,7 +110,7 @@
 				<key>originalHeight</key>
 				<integer>20</integer>
 				<key>x</key>
-				<integer>2010</integer>
+				<integer>1876</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

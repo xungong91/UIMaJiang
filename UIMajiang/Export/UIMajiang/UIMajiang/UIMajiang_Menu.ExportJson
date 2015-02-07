@@ -20,7 +20,8 @@
     "UIMajiang7.plist",
     "UIMajiang8.plist",
     "UIMajiang9.plist",
-    "UIMajiang10.plist"
+    "UIMajiang10.plist",
+    "UIMajiang11.plist"
   ],
   "version": "1.3.0.1",
   "widgetTree": {
@@ -138,8 +139,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.122916669,
-          "positionPercentY": 0.5,
+          "positionPercentX": 0.1234375,
+          "positionPercentY": 0.35546875,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -1547,8 +1548,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.498958319,
-          "positionPercentY": 0.9984375,
+          "positionPercentX": 0.499479175,
+          "positionPercentY": 0.499218762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -1730,7 +1731,7 @@
                       "layoutParameter": null,
                       "opacity": 255,
                       "positionPercentX": -0.291666657,
-                      "positionPercentY": 0.291666657,
+                      "positionPercentY": 0.308333337,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -1744,7 +1745,7 @@
                       "visible": false,
                       "width": 52,
                       "x": -35,
-                      "y": 35,
+                      "y": 37,
                       "capInsetsHeight": 1,
                       "capInsetsWidth": 1,
                       "capInsetsX": 0,
@@ -3244,7 +3245,7 @@
           },
           "opacity": 255,
           "positionPercentX": 0,
-          "positionPercentY": 0,
+          "positionPercentY": 0.9984375,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
@@ -3946,7 +3947,7 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0,
+          "positionPercentX": 0.998958349,
           "positionPercentY": 0.9984375,
           "positionType": 0,
           "rotation": 0,

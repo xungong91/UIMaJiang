@@ -1410,6 +1410,63 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>edit/shanzi1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>36</integer>
+				<key>height</key>
+				<integer>24</integer>
+				<key>originalWidth</key>
+				<integer>36</integer>
+				<key>originalHeight</key>
+				<integer>24</integer>
+				<key>x</key>
+				<integer>1230</integer>
+				<key>y</key>
+				<integer>970</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>edit/shanzi2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>36</integer>
+				<key>height</key>
+				<integer>24</integer>
+				<key>originalWidth</key>
+				<integer>36</integer>
+				<key>originalHeight</key>
+				<integer>24</integer>
+				<key>x</key>
+				<integer>1268</integer>
+				<key>y</key>
+				<integer>970</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>edit/title_editNick.png</key>
+			<dict>
+				<key>width</key>
+				<integer>109</integer>
+				<key>height</key>
+				<integer>29</integer>
+				<key>originalWidth</key>
+				<integer>109</integer>
+				<key>originalHeight</key>
+				<integer>29</integer>
+				<key>x</key>
+				<integer>1306</integer>
+				<key>y</key>
+				<integer>970</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>edit/title_editPhoneAuth.png</key>
 			<dict>
 				<key>width</key>
@@ -1421,7 +1478,7 @@
 				<key>originalHeight</key>
 				<integer>29</integer>
 				<key>x</key>
-				<integer>1230</integer>
+				<integer>1417</integer>
 				<key>y</key>
 				<integer>970</integer>
 				<key>offsetX</key>
@@ -1440,7 +1497,7 @@
 				<key>originalHeight</key>
 				<integer>29</integer>
 				<key>x</key>
-				<integer>1396</integer>
+				<integer>1583</integer>
 				<key>y</key>
 				<integer>970</integer>
 				<key>offsetX</key>
@@ -1459,7 +1516,7 @@
 				<key>originalHeight</key>
 				<integer>36</integer>
 				<key>x</key>
-				<integer>1561</integer>
+				<integer>1748</integer>
 				<key>y</key>
 				<integer>970</integer>
 				<key>offsetX</key>
@@ -1478,7 +1535,7 @@
 				<key>originalHeight</key>
 				<integer>36</integer>
 				<key>x</key>
-				<integer>1662</integer>
+				<integer>1849</integer>
 				<key>y</key>
 				<integer>970</integer>
 				<key>offsetX</key>
@@ -1497,45 +1554,7 @@
 				<key>originalHeight</key>
 				<integer>36</integer>
 				<key>x</key>
-				<integer>1735</integer>
-				<key>y</key>
-				<integer>970</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>edit/title_jinbi.png</key>
-			<dict>
-				<key>width</key>
-				<integer>97</integer>
-				<key>height</key>
-				<integer>36</integer>
-				<key>originalWidth</key>
-				<integer>97</integer>
-				<key>originalHeight</key>
-				<integer>36</integer>
-				<key>x</key>
-				<integer>1836</integer>
-				<key>y</key>
-				<integer>970</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>edit/title_phoneAuth.png</key>
-			<dict>
-				<key>width</key>
-				<integer>110</integer>
-				<key>height</key>
-				<integer>29</integer>
-				<key>originalWidth</key>
-				<integer>110</integer>
-				<key>originalHeight</key>
-				<integer>29</integer>
-				<key>x</key>
-				<integer>1935</integer>
+				<integer>1922</integer>
 				<key>y</key>
 				<integer>970</integer>
 				<key>offsetX</key>

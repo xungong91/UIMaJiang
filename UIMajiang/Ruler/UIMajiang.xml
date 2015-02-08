@@ -144,4 +144,8 @@
     <Project>UIMajiang_VIPMsgBox</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Props</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

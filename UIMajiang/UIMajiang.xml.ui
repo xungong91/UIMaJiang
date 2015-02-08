@@ -43,6 +43,7 @@
     <string>UIMajiang_UserInfo.json</string>
     <string>UIMajiang_VIP.json</string>
     <string>UIMajiang_VIPMsgBox.json</string>
+    <string>UIMajiang_Props.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -66,5 +67,5 @@
     <string>UIMajiang11.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_InfoEditItem.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Props.json</CurrentUIJson>
 </UIProject>

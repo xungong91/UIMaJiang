@@ -878,6 +878,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>edit/box_goumaibaofangka.png</key>
+			<dict>
+				<key>width</key>
+				<integer>101</integer>
+				<key>height</key>
+				<integer>21</integer>
+				<key>originalWidth</key>
+				<integer>101</integer>
+				<key>originalHeight</key>
+				<integer>21</integer>
+				<key>x</key>
+				<integer>953</integer>
+				<key>y</key>
+				<integer>803</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>edit/box_quxiao1.png</key>
 			<dict>
 				<key>width</key>
@@ -889,7 +908,7 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>953</integer>
+				<integer>1056</integer>
 				<key>y</key>
 				<integer>803</integer>
 				<key>offsetX</key>
@@ -908,7 +927,7 @@
 				<key>originalHeight</key>
 				<integer>40</integer>
 				<key>x</key>
-				<integer>1057</integer>
+				<integer>1160</integer>
 				<key>y</key>
 				<integer>803</integer>
 				<key>offsetX</key>
@@ -927,7 +946,7 @@
 				<key>originalHeight</key>
 				<integer>39</integer>
 				<key>x</key>
-				<integer>1161</integer>
+				<integer>1264</integer>
 				<key>y</key>
 				<integer>803</integer>
 				<key>offsetX</key>
@@ -946,7 +965,7 @@
 				<key>originalHeight</key>
 				<integer>39</integer>
 				<key>x</key>
-				<integer>1323</integer>
+				<integer>1426</integer>
 				<key>y</key>
 				<integer>803</integer>
 				<key>offsetX</key>
@@ -965,7 +984,7 @@
 				<key>originalHeight</key>
 				<integer>39</integer>
 				<key>x</key>
-				<integer>1485</integer>
+				<integer>1588</integer>
 				<key>y</key>
 				<integer>803</integer>
 				<key>offsetX</key>
@@ -984,7 +1003,7 @@
 				<key>originalHeight</key>
 				<integer>39</integer>
 				<key>x</key>
-				<integer>1647</integer>
+				<integer>1750</integer>
 				<key>y</key>
 				<integer>803</integer>
 				<key>offsetX</key>

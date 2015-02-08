@@ -1928,7 +1928,7 @@
                       "customProperty": "",
                       "flipX": false,
                       "flipY": false,
-                      "height": 80,
+                      "height": 21,
                       "ignoreSize": true,
                       "layoutParameter": null,
                       "opacity": 255,
@@ -1945,7 +1945,7 @@
                       "touchAble": false,
                       "useMergedTexture": true,
                       "visible": true,
-                      "width": 80,
+                      "width": 101,
                       "x": 0,
                       "y": 0,
                       "capInsetsHeight": 1,
@@ -1954,13 +1954,13 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/image.png",
+                        "path": "edit/box_goumaibaofangka.png",
                         "plistFile": "",
                         "resourceType": 1
                       },
                       "scale9Enable": false,
-                      "scale9Height": 80,
-                      "scale9Width": 80
+                      "scale9Height": 21,
+                      "scale9Width": 101
                     }
                   }
                 ],

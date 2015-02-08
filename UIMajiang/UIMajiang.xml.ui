@@ -66,5 +66,5 @@
     <string>UIMajiang10.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_VIPMsgBox.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_CreateCompartment.json</CurrentUIJson>
 </UIProject>

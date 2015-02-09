@@ -64,7 +64,8 @@
     <string>UIMajiang8.plist</string>
     <string>UIMajiang9.plist</string>
     <string>UIMajiang10.plist</string>
+    <string>UIMajiang11.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_CreateCompartment.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Fraction.json</CurrentUIJson>
 </UIProject>

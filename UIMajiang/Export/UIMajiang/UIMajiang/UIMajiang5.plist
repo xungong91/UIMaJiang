@@ -2379,25 +2379,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>playerInfo/jiesuan_blueNum.png</key>
-			<dict>
-				<key>width</key>
-				<integer>195</integer>
-				<key>height</key>
-				<integer>30</integer>
-				<key>originalWidth</key>
-				<integer>195</integer>
-				<key>originalHeight</key>
-				<integer>33</integer>
-				<key>x</key>
-				<integer>1097</integer>
-				<key>y</key>
-				<integer>971</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>1.5</real>
-			</dict>
 			<key>playerInfo/jiesuan_duijia.png</key>
 			<dict>
 				<key>width</key>
@@ -2409,7 +2390,7 @@
 				<key>originalHeight</key>
 				<integer>32</integer>
 				<key>x</key>
-				<integer>1294</integer>
+				<integer>1097</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2428,7 +2409,7 @@
 				<key>originalHeight</key>
 				<integer>32</integer>
 				<key>x</key>
-				<integer>1358</integer>
+				<integer>1161</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2447,7 +2428,7 @@
 				<key>originalHeight</key>
 				<integer>27</integer>
 				<key>x</key>
-				<integer>1422</integer>
+				<integer>1225</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2466,7 +2447,7 @@
 				<key>originalHeight</key>
 				<integer>27</integer>
 				<key>x</key>
-				<integer>1476</integer>
+				<integer>1279</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2485,7 +2466,7 @@
 				<key>originalHeight</key>
 				<integer>27</integer>
 				<key>x</key>
-				<integer>1529</integer>
+				<integer>1332</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2504,7 +2485,7 @@
 				<key>originalHeight</key>
 				<integer>27</integer>
 				<key>x</key>
-				<integer>1624</integer>
+				<integer>1427</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2523,7 +2504,7 @@
 				<key>originalHeight</key>
 				<integer>27</integer>
 				<key>x</key>
-				<integer>1701</integer>
+				<integer>1504</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2542,7 +2523,7 @@
 				<key>originalHeight</key>
 				<integer>24</integer>
 				<key>x</key>
-				<integer>1754</integer>
+				<integer>1557</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2561,7 +2542,7 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>1803</integer>
+				<integer>1606</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2580,7 +2561,7 @@
 				<key>originalHeight</key>
 				<integer>34</integer>
 				<key>x</key>
-				<integer>1814</integer>
+				<integer>1617</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2599,7 +2580,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>1876</integer>
+				<integer>1679</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2618,7 +2599,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>1901</integer>
+				<integer>1704</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>
@@ -2637,7 +2618,45 @@
 				<key>originalHeight</key>
 				<integer>32</integer>
 				<key>x</key>
-				<integer>1950</integer>
+				<integer>1753</integer>
+				<key>y</key>
+				<integer>971</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_kickout1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>73</integer>
+				<key>height</key>
+				<integer>30</integer>
+				<key>originalWidth</key>
+				<integer>73</integer>
+				<key>originalHeight</key>
+				<integer>30</integer>
+				<key>x</key>
+				<integer>1817</integer>
+				<key>y</key>
+				<integer>971</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>playerInfo/jiesuan_kickout2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>73</integer>
+				<key>height</key>
+				<integer>30</integer>
+				<key>originalWidth</key>
+				<integer>73</integer>
+				<key>originalHeight</key>
+				<integer>30</integer>
+				<key>x</key>
+				<integer>1892</integer>
 				<key>y</key>
 				<integer>971</integer>
 				<key>offsetX</key>

@@ -376,7 +376,7 @@
           "touchAble": false,
           "useMergedTexture": true,
           "visible": true,
-          "width": 9064,
+          "width": 0,
           "x": 303,
           "y": 527,
           "fileNameData": {

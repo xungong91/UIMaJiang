@@ -555,6 +555,44 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>vip/vip_lvNum.png</key>
+			<dict>
+				<key>width</key>
+				<integer>116</integer>
+				<key>height</key>
+				<integer>28</integer>
+				<key>originalWidth</key>
+				<integer>120</integer>
+				<key>originalHeight</key>
+				<integer>28</integer>
+				<key>x</key>
+				<integer>1068</integer>
+				<key>y</key>
+				<integer>990</integer>
+				<key>offsetX</key>
+				<real>2</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>vip/vip_text.png</key>
+			<dict>
+				<key>width</key>
+				<integer>167</integer>
+				<key>height</key>
+				<integer>25</integer>
+				<key>originalWidth</key>
+				<integer>500</integer>
+				<key>originalHeight</key>
+				<integer>300</integer>
+				<key>x</key>
+				<integer>1186</integer>
+				<key>y</key>
+				<integer>990</integer>
+				<key>offsetX</key>
+				<real>-166.5</real>
+				<key>offsetY</key>
+				<real>137.5</real>
+			</dict>
 		</dict>
 		<key>metadata</key>
 		<dict>

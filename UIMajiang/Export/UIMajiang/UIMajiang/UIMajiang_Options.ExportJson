@@ -4715,7 +4715,7 @@
                         "options": {
                           "__type": "LabelSurrogate:#EditorCommon.JsonModel.Component.GUI",
                           "classname": "Label",
-                          "name": "Label_flower",
+                          "name": "Label_egg",
                           "ZOrder": 0,
                           "actiontag": 100802,
                           "anchorPointX": 0.5,

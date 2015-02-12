@@ -85,7 +85,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>UIMajiang_Share</Project>
+    <Project>UIMajiang_Invite</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -146,6 +146,10 @@
   </GuidesProject>
   <GuidesProject>
     <Project>UIMajiang_Props</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Share</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>

@@ -7,6 +7,7 @@
   <JsonFileName>UIMajiang.json</JsonFileName>
   <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
+    <string>UIMajiang_Share.json</string>
     <string>UIMajiang_AddFriend.json</string>
     <string>UIMajiang_Channel.json</string>
     <string>UIMajiang_Compartment.json</string>
@@ -29,10 +30,11 @@
     <string>UIMajiang_Options.json</string>
     <string>UIMajiang_Player.json</string>
     <string>UIMajiang_Prestige.json</string>
+    <string>UIMajiang_Props.json</string>
     <string>UIMajiang_Rank.json</string>
     <string>UIMajiang_Reg.json</string>
     <string>UIMajiang_RoomEnded.json</string>
-    <string>UIMajiang_Share.json</string>
+    <string>UIMajiang_Invite.json</string>
     <string>UIMajiang_Sign.json</string>
     <string>UIMajiang_SingCard.json</string>
     <string>UIMajiang_SingCardTips.json</string>
@@ -43,7 +45,6 @@
     <string>UIMajiang_UserInfo.json</string>
     <string>UIMajiang_VIP.json</string>
     <string>UIMajiang_VIPMsgBox.json</string>
-    <string>UIMajiang_Props.json</string>
   </JsonList>
   <CanvasSize>
     <Width>960</Width>
@@ -67,5 +68,5 @@
     <string>UIMajiang11.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Options.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Invite.json</CurrentUIJson>
 </UIProject>

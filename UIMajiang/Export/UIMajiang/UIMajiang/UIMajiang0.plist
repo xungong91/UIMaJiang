@@ -465,7 +465,7 @@
 				<key>width</key>
 				<integer>500</integer>
 				<key>height</key>
-				<integer>129</integer>
+				<integer>135</integer>
 				<key>originalWidth</key>
 				<integer>500</integer>
 				<key>originalHeight</key>
@@ -477,7 +477,7 @@
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>85.5</real>
+				<real>82.5</real>
 			</dict>
 			<key>tickets.png</key>
 			<dict>

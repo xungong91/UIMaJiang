@@ -7,7 +7,7 @@
   <JsonFileName>UIMajiang.json</JsonFileName>
   <JsonFolder>D:\MyDocuments\GitHub\UIMaJiang\UIMajiang\Json</JsonFolder>
   <JsonList>
-    <string>UIMajiang_Share.json</string>
+    <string>UIMajiang_Gift.json</string>
     <string>UIMajiang_AddFriend.json</string>
     <string>UIMajiang_Channel.json</string>
     <string>UIMajiang_Compartment.json</string>
@@ -68,5 +68,5 @@
     <string>UIMajiang11.plist</string>
   </imageFileList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>UIMajiang_Invite.json</CurrentUIJson>
+  <CurrentUIJson>UIMajiang_Menu.json</CurrentUIJson>
 </UIProject>

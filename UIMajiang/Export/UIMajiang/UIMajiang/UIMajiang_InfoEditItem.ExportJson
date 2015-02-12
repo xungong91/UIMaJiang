@@ -688,7 +688,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 76,
+                  "width": 84,
                   "x": 378,
                   "y": 340,
                   "fileNameData": {
@@ -1046,7 +1046,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 99,
+                  "width": 108,
                   "x": 378,
                   "y": 355,
                   "fileNameData": {
@@ -1093,7 +1093,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 99,
+                  "width": 108,
                   "x": 377,
                   "y": 290,
                   "fileNameData": {
@@ -1766,7 +1766,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 76,
+                  "width": 84,
                   "x": 378,
                   "y": 383,
                   "fileNameData": {
@@ -1813,7 +1813,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 99,
+                  "width": 108,
                   "x": 377,
                   "y": 317,
                   "fileNameData": {
@@ -4838,7 +4838,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 53,
+                  "width": 60,
                   "x": 378,
                   "y": 351,
                   "fileNameData": {
@@ -4885,7 +4885,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 76,
+                  "width": 84,
                   "x": 378,
                   "y": 282,
                   "fileNameData": {
@@ -5422,7 +5422,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 76,
+                  "width": 84,
                   "x": 371,
                   "y": 362,
                   "fileNameData": {
@@ -5469,7 +5469,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 76,
+                  "width": 84,
                   "x": 371,
                   "y": 290,
                   "fileNameData": {
@@ -6188,7 +6188,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 99,
+                  "width": 108,
                   "x": 379,
                   "y": 340,
                   "fileNameData": {
@@ -6546,7 +6546,7 @@
                   "touchAble": false,
                   "useMergedTexture": true,
                   "visible": true,
-                  "width": 76,
+                  "width": 84,
                   "x": 378,
                   "y": 340,
                   "fileNameData": {

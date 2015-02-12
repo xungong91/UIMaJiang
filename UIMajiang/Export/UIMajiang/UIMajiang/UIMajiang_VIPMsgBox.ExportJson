@@ -4884,7 +4884,7 @@
                     "options": {
                       "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
                       "classname": "Button",
-                      "name": "Button_ok",
+                      "name": "Button_door_ok",
                       "ZOrder": 1,
                       "actiontag": 120922,
                       "anchorPointX": 0.5,
@@ -5783,7 +5783,7 @@
                     "options": {
                       "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
                       "classname": "Button",
-                      "name": "Button_ok",
+                      "name": "Button_door_ok",
                       "ZOrder": 1,
                       "actiontag": 120930,
                       "anchorPointX": 0.5,

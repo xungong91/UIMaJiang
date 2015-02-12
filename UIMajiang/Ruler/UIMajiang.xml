@@ -148,8 +148,4 @@
     <Project>UIMajiang_Props</Project>
     <GuidesList />
   </GuidesProject>
-  <GuidesProject>
-    <Project>UIMajiang_Gift</Project>
-    <GuidesList />
-  </GuidesProject>
 </ArrayOfGuidesProject>

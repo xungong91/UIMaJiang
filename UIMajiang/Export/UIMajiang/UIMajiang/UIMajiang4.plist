@@ -1087,6 +1087,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>userInfo/menu_gold_num.png</key>
+			<dict>
+				<key>width</key>
+				<integer>80</integer>
+				<key>height</key>
+				<integer>11</integer>
+				<key>originalWidth</key>
+				<integer>80</integer>
+				<key>originalHeight</key>
+				<integer>11</integer>
+				<key>x</key>
+				<integer>796</integer>
+				<key>y</key>
+				<integer>1007</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>vip/fenge.png</key>
 			<dict>
 				<key>width</key>
@@ -1098,7 +1117,7 @@
 				<key>originalHeight</key>
 				<integer>2</integer>
 				<key>x</key>
-				<integer>796</integer>
+				<integer>878</integer>
 				<key>y</key>
 				<integer>1007</integer>
 				<key>offsetX</key>
@@ -1117,13 +1136,32 @@
 				<key>originalHeight</key>
 				<integer>22</integer>
 				<key>x</key>
-				<integer>799</integer>
+				<integer>881</integer>
 				<key>y</key>
 				<integer>1007</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0.5</real>
+			</dict>
+			<key>vip/vip_headNum.png</key>
+			<dict>
+				<key>width</key>
+				<integer>65</integer>
+				<key>height</key>
+				<integer>13</integer>
+				<key>originalWidth</key>
+				<integer>66</integer>
+				<key>originalHeight</key>
+				<integer>13</integer>
+				<key>x</key>
+				<integer>899</integer>
+				<key>y</key>
+				<integer>1007</integer>
+				<key>offsetX</key>
+				<real>-0.5</real>
+				<key>offsetY</key>
+				<real>0</real>
 			</dict>
 			<key>vip/vip_table1.png</key>
 			<dict>
@@ -1136,7 +1174,7 @@
 				<key>originalHeight</key>
 				<integer>15</integer>
 				<key>x</key>
-				<integer>817</integer>
+				<integer>966</integer>
 				<key>y</key>
 				<integer>1007</integer>
 				<key>offsetX</key>
@@ -1155,7 +1193,7 @@
 				<key>originalHeight</key>
 				<integer>15</integer>
 				<key>x</key>
-				<integer>933</integer>
+				<integer>1082</integer>
 				<key>y</key>
 				<integer>1007</integer>
 				<key>offsetX</key>

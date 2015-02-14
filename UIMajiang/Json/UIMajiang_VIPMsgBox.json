@@ -4982,7 +4982,7 @@
                   "tag": 96552,
                   "touchAble": true,
                   "useMergedTexture": false,
-                  "visible": false,
+                  "visible": true,
                   "width": 518,
                   "x": 0,
                   "y": 0,

@@ -608,7 +608,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 78,
+                      "width": 13,
                       "x": 600,
                       "y": 30,
                       "charMapFile": null,
@@ -620,7 +620,7 @@
                       "itemHeight": 33,
                       "itemWidth": 13,
                       "startCharMap": "0",
-                      "stringValue": "-10002"
+                      "stringValue": "0"
                     }
                   },
                   {
@@ -949,7 +949,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 65,
+                      "width": 13,
                       "x": 600,
                       "y": 30,
                       "charMapFile": null,
@@ -961,7 +961,7 @@
                       "itemHeight": 33,
                       "itemWidth": 13,
                       "startCharMap": "0",
-                      "stringValue": "+4120"
+                      "stringValue": "0"
                     }
                   },
                   {

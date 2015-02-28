@@ -984,7 +984,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1144,7 +1144,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1304,7 +1304,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1464,7 +1464,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1624,7 +1624,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1784,7 +1784,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1944,7 +1944,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -2104,7 +2104,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -2264,7 +2264,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -2478,8 +2478,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.498958319,
-          "positionPercentY": 0.4984375,
+          "positionPercentX": 0.499479175,
+          "positionPercentY": 0.499218762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,

@@ -285,7 +285,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 20,
-                      "startCharMap": ".",
+                      "startCharMap": "0",
                       "stringValue": "12312321"
                     }
                   }
@@ -1518,8 +1518,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0,
-          "positionPercentY": 0,
+          "positionPercentX": 0.499479175,
+          "positionPercentY": 0.499218762,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,

@@ -984,7 +984,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1144,7 +1144,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1304,7 +1304,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1464,7 +1464,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1624,7 +1624,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1784,7 +1784,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -1944,7 +1944,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -2104,7 +2104,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }
@@ -2264,7 +2264,7 @@
                           },
                           "itemHeight": 16,
                           "itemWidth": 10,
-                          "startCharMap": "/",
+                          "startCharMap": "0",
                           "stringValue": "200"
                         }
                       }

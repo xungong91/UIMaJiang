@@ -1036,7 +1036,7 @@
                           },
                           "itemHeight": 28,
                           "itemWidth": 13,
-                          "startCharMap": "+",
+                          "startCharMap": "0",
                           "stringValue": "+1000"
                         }
                       }
@@ -1077,8 +1077,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0.03448276,
-                      "positionPercentY": 0.9512195,
+                      "positionPercentX": 0,
+                      "positionPercentY": 0.865853667,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -1377,7 +1377,7 @@
                           },
                           "itemHeight": 28,
                           "itemWidth": 13,
-                          "startCharMap": "+",
+                          "startCharMap": "0",
                           "stringValue": "+1000"
                         }
                       },
@@ -1637,8 +1637,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0.03448276,
-                      "positionPercentY": 0.743902445,
+                      "positionPercentX": 0,
+                      "positionPercentY": 0.731707335,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4345,7 +4345,7 @@
                       },
                       "opacity": 255,
                       "positionPercentX": 0,
-                      "positionPercentY": 0.6666667,
+                      "positionPercentY": 0.8229167,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4551,7 +4551,7 @@
                   },
                   "itemHeight": 24,
                   "itemWidth": 10,
-                  "startCharMap": "/",
+                  "startCharMap": "0",
                   "stringValue": "4/8"
                 }
               }

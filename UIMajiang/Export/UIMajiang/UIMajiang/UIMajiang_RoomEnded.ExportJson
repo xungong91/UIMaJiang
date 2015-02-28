@@ -620,7 +620,7 @@
                       },
                       "itemHeight": 33,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-10002"
                     }
                   },
@@ -770,7 +770,7 @@
                   },
                   "opacity": 255,
                   "positionPercentX": 0,
-                  "positionPercentY": 0.948717952,
+                  "positionPercentY": 0.8333333,
                   "positionType": 0,
                   "rotation": 0,
                   "scaleX": 1,
@@ -1111,7 +1111,7 @@
                   },
                   "opacity": 255,
                   "positionPercentX": 0,
-                  "positionPercentY": 0.8333333,
+                  "positionPercentY": 0.653846145,
                   "positionType": 0,
                   "rotation": 0,
                   "scaleX": 1,
@@ -1253,8 +1253,8 @@
             "type": 2
           },
           "opacity": 255,
-          "positionPercentX": 0.20625,
-          "positionPercentY": -0.0125,
+          "positionPercentX": 0,
+          "positionPercentY": 0,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,

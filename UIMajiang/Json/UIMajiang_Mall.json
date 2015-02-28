@@ -285,7 +285,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 20,
-                      "startCharMap": ".",
+                      "startCharMap": "0",
                       "stringValue": "12312321"
                     }
                   }

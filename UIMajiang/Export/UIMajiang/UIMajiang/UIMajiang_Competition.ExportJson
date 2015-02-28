@@ -1891,8 +1891,8 @@
                             "type": 1
                           },
                           "opacity": 255,
-                          "positionPercentX": 0.489510477,
-                          "positionPercentY": 0.9640449,
+                          "positionPercentX": 0.482517481,
+                          "positionPercentY": 0.957303345,
                           "positionType": 0,
                           "rotation": 0,
                           "scaleX": 1,
@@ -2113,8 +2113,8 @@
                             "type": 1
                           },
                           "opacity": 255,
-                          "positionPercentX": 0.5,
-                          "positionPercentY": 0.9685393,
+                          "positionPercentX": 0.482517481,
+                          "positionPercentY": 0.8494382,
                           "positionType": 0,
                           "rotation": 0,
                           "scaleX": 1,
@@ -4371,8 +4371,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0,
-                      "positionPercentY": 0,
+                      "positionPercentX": 0.25,
+                      "positionPercentY": 0.5,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -4442,8 +4442,8 @@
                         "type": 1
                       },
                       "opacity": 255,
-                      "positionPercentX": 0,
-                      "positionPercentY": 0,
+                      "positionPercentX": 0.75,
+                      "positionPercentY": 0.5,
                       "positionType": 0,
                       "rotation": 0,
                       "scaleX": 1,
@@ -7635,7 +7635,7 @@
                           },
                           "itemHeight": 32,
                           "itemWidth": 20,
-                          "startCharMap": ".",
+                          "startCharMap": "0",
                           "stringValue": "600"
                         }
                       },

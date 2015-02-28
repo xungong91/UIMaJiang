@@ -649,7 +649,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },
@@ -1050,7 +1050,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },
@@ -1451,7 +1451,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },
@@ -1852,7 +1852,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },
@@ -2288,7 +2288,7 @@
                       },
                       "itemHeight": 24,
                       "itemWidth": 14,
-                      "startCharMap": "(",
+                      "startCharMap": "0",
                       "stringValue": "(20)"
                     }
                   },
@@ -3108,7 +3108,7 @@
                       },
                       "itemHeight": 33,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1000"
                     }
                   },
@@ -3461,7 +3461,7 @@
                       },
                       "itemHeight": 24,
                       "itemWidth": 14,
-                      "startCharMap": "(",
+                      "startCharMap": "0",
                       "stringValue": "(20)"
                     }
                   },
@@ -4497,7 +4497,7 @@
                       },
                       "itemHeight": 24,
                       "itemWidth": 14,
-                      "startCharMap": "(",
+                      "startCharMap": "0",
                       "stringValue": "(12)"
                     }
                   },
@@ -4963,7 +4963,7 @@
                       },
                       "itemHeight": 28,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },
@@ -5364,7 +5364,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },
@@ -5765,7 +5765,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },
@@ -6166,7 +6166,7 @@
                       },
                       "itemHeight": 32,
                       "itemWidth": 13,
-                      "startCharMap": "+",
+                      "startCharMap": "0",
                       "stringValue": "-1250"
                     }
                   },

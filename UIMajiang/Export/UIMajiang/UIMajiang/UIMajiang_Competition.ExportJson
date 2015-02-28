@@ -345,7 +345,7 @@
                       "touchAble": false,
                       "useMergedTexture": false,
                       "visible": true,
-                      "width": 50,
+                      "width": 40,
                       "x": 170,
                       "y": 27,
                       "charMapFile": null,
@@ -357,7 +357,7 @@
                       "itemHeight": 25,
                       "itemWidth": 10,
                       "startCharMap": "0",
-                      "stringValue": "14:30"
+                      "stringValue": "1430"
                     }
                   }
                 ],
@@ -3190,7 +3190,7 @@
                               },
                               "itemHeight": 32,
                               "itemWidth": 20,
-                              "startCharMap": ".",
+                              "startCharMap": "0",
                               "stringValue": "6000"
                             }
                           },
@@ -3360,7 +3360,7 @@
                               },
                               "itemHeight": 32,
                               "itemWidth": 20,
-                              "startCharMap": ".",
+                              "startCharMap": "0",
                               "stringValue": "6000"
                             }
                           },
@@ -5728,7 +5728,7 @@
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": -0.0149253728,
-              "positionPercentY": 0.0078125,
+              "positionPercentY": 0.0078124525,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -5742,7 +5742,7 @@
               "visible": true,
               "width": 340,
               "x": -5,
-              "y": 5,
+              "y": 4,
               "adaptScreen": false,
               "backGroundImage": null,
               "backGroundImageData": null,
